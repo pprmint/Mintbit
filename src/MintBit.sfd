@@ -1,0 +1,8226 @@
+SplineFontDB: 3.2
+FontName: MintBit
+FullName: MintBit
+FamilyName: MintBit
+Weight: Regular
+Copyright: Copyright (c) 2023, pprmint.
+Version: 1.0
+ItalicAngle: 0
+UnderlinePosition: -150
+UnderlineWidth: 100
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 1 "Hinten" 1
+Layer: 1 1 "Vorne" 0
+XUID: [1021 873 -2135107274 32039]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1627593153
+ModificationTime: 1699611325
+PfmFamily: 81
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 258 0 0 "pain" { "keming" [100,-100,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "pprmint." "pprmint." "" "" "www.pprmint.art" "Copyright (c) 2023, pprmint. (www.pprmint.art|mail@pprmint.art),+AAoA-with Reserved Font Name MintBit.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+GaspTable: 1 65535 3 0
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 16 7
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 52428 26214 17476 524288 1048576 17476 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 65536 218
+
+StartChar: space
+Encoding: 32 32 0
+Width: 350
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 1
+Width: 200
+Flags: W
+HStem: 0 100<50 150> 680 20G<50 150>
+VStem: 50 100<0 100 200 700>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 150 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 100 l 1,3,-1
+ 150 100 l 1,0,-1
+50 700 m 1,4,-1
+ 150 700 l 1,5,-1
+ 150 200 l 1,6,-1
+ 50 200 l 1,7,-1
+ 50 700 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 2
+Width: 400
+Flags: W
+HStem: 500 200<50 150 250 350>
+VStem: 50 100<500 700> 250 100<500 700>
+LayerCount: 2
+Fore
+SplineSet
+150 500 m 1,0,-1
+ 50 500 l 1,1,-1
+ 50 700 l 1,2,-1
+ 150 700 l 1,3,-1
+ 150 500 l 1,0,-1
+250 700 m 1,4,-1
+ 350 700 l 1,5,-1
+ 350 500 l 1,6,-1
+ 250 500 l 1,7,-1
+ 250 700 l 1,4,-1
+EndSplineSet
+Validated: 1
+Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -100 "keming" 28 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 190 -100 "keming"
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 3
+Width: 600
+Flags: W
+HStem: 0 21G<150 250 350 450> 200 100<50 150 250 350 450 550> 400 100<50 150 250 350 450 550> 680 20G<150 250 350 450>
+VStem: 150 100<0 200 300 400 500 700> 350 100<0 200 300 400 500 700>
+LayerCount: 2
+Fore
+SplineSet
+250 400 m 1,0,-1
+ 250 300 l 1,1,-1
+ 350 300 l 1,2,-1
+ 350 400 l 1,3,-1
+ 250 400 l 1,0,-1
+250 200 m 1,4,-1
+ 250 0 l 1,5,-1
+ 150 0 l 1,6,-1
+ 150 200 l 1,7,-1
+ 50 200 l 1,8,-1
+ 50 300 l 1,9,-1
+ 150 300 l 1,10,-1
+ 150 400 l 1,11,-1
+ 50 400 l 1,12,-1
+ 50 500 l 1,13,-1
+ 150 500 l 1,14,-1
+ 150 700 l 1,15,-1
+ 250 700 l 1,16,-1
+ 250 500 l 1,17,-1
+ 350 500 l 1,18,-1
+ 350 700 l 1,19,-1
+ 450 700 l 1,20,-1
+ 450 500 l 1,21,-1
+ 550 500 l 1,22,-1
+ 550 400 l 1,23,-1
+ 450 400 l 1,24,-1
+ 450 300 l 1,25,-1
+ 550 300 l 1,26,-1
+ 550 200 l 1,27,-1
+ 450 200 l 1,28,-1
+ 450 0 l 1,29,-1
+ 350 0 l 1,30,-1
+ 350 200 l 1,31,-1
+ 250 200 l 1,4,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 12 -100 "keming" 14 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 4
+Width: 600
+Flags: W
+HStem: -100 21G<250 350> 0 100<50 250 350 450> 300 100<150 250 350 450> 600 100<150 250 350 550>
+VStem: 50 100<400 600> 250 100<-100 0 100 300 400 600 700 800> 450 100<100 300>
+CounterMasks: 1 0e
+LayerCount: 2
+Fore
+SplineSet
+150 400 m 1,0,-1
+ 250 400 l 1,1,-1
+ 250 600 l 1,2,-1
+ 150 600 l 1,3,-1
+ 150 400 l 1,0,-1
+150 400 m 1,4,-1
+ 50 400 l 1,5,-1
+ 50 600 l 1,6,-1
+ 150 600 l 1,7,-1
+ 150 700 l 1,8,-1
+ 250 700 l 1,9,-1
+ 250 800 l 1,10,-1
+ 350 800 l 1,11,-1
+ 350 700 l 1,12,-1
+ 550 700 l 1,13,-1
+ 550 600 l 1,14,-1
+ 350 600 l 1,15,-1
+ 350 400 l 1,16,-1
+ 450 400 l 1,17,-1
+ 450 300 l 1,18,-1
+ 550 300 l 1,19,-1
+ 550 100 l 1,20,-1
+ 450 100 l 1,21,-1
+ 450 300 l 1,22,-1
+ 350 300 l 1,23,-1
+ 350 100 l 1,24,-1
+ 450 100 l 1,25,-1
+ 450 0 l 1,26,-1
+ 350 0 l 1,27,-1
+ 350 -100 l 1,28,-1
+ 250 -100 l 1,29,-1
+ 250 0 l 1,30,-1
+ 50 0 l 1,31,-1
+ 50 100 l 1,32,-1
+ 250 100 l 1,33,-1
+ 250 300 l 1,34,-1
+ 150 300 l 1,35,-1
+ 150 400 l 1,4,-1
+EndSplineSet
+Validated: 5
+Kerns2: 62 -100 "keming" 63 -100 "keming" 125 -100 "keming" 192 -100 "keming" 194 -100 "keming" 203 -100 "keming" 204 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: percent
+Encoding: 37 37 5
+Width: 600
+Flags: W
+HStem: 0 200<50 150 350 550> 200 100<150 250> 300 100<250 350> 400 100<350 450> 500 200<50 250 450 550>
+VStem: 50 100<0 200> 150 100<200 300> 250 100<300 400> 350 100<400 500> 450 100<500 700>
+LayerCount: 2
+Fore
+SplineSet
+150 0 m 1,0,-1
+ 50 0 l 1,1,-1
+ 50 200 l 1,2,-1
+ 150 200 l 1,3,-1
+ 150 0 l 1,0,-1
+550 0 m 1,4,-1
+ 350 0 l 1,5,-1
+ 350 200 l 1,6,-1
+ 550 200 l 1,7,-1
+ 550 0 l 1,4,-1
+250 500 m 1,8,-1
+ 50 500 l 1,9,-1
+ 50 700 l 1,10,-1
+ 250 700 l 1,11,-1
+ 250 500 l 1,8,-1
+450 500 m 1,12,-1
+ 450 400 l 1,13,-1
+ 350 400 l 1,14,-1
+ 350 300 l 1,15,-1
+ 250 300 l 1,16,-1
+ 250 200 l 1,17,-1
+ 150 200 l 1,18,-1
+ 150 300 l 1,19,-1
+ 250 300 l 1,20,-1
+ 250 400 l 1,21,-1
+ 350 400 l 1,22,-1
+ 350 500 l 1,23,-1
+ 450 500 l 1,12,-1
+450 500 m 1,24,-1
+ 450 700 l 1,25,-1
+ 550 700 l 1,26,-1
+ 550 500 l 1,27,-1
+ 450 500 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 6
+Width: 700
+Flags: W
+HStem: 0 100<150 450 550 650> 100 100<450 550> 200 100<350 450 550 650> 300 100<250 350> 500 100<450 550> 600 100<250 450>
+VStem: 50 100<100 400> 150 100<400 600> 250 100<300 400> 350 100<200 300> 450 100<100 200 500 600> 550 100<0 100 200 300>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 50 100 l 1,1,-1
+ 50 400 l 1,2,-1
+ 150 400 l 1,3,-1
+ 150 100 l 1,0,-1
+150 100 m 1,4,-1
+ 450 100 l 1,5,-1
+ 450 0 l 1,6,-1
+ 150 0 l 1,7,-1
+ 150 100 l 1,4,-1
+450 100 m 1,8,-1
+ 450 200 l 1,9,-1
+ 550 200 l 1,10,-1
+ 550 300 l 1,11,-1
+ 650 300 l 1,12,-1
+ 650 200 l 1,13,-1
+ 550 200 l 1,14,-1
+ 550 100 l 1,15,-1
+ 650 100 l 1,16,-1
+ 650 0 l 1,17,-1
+ 550 0 l 1,18,-1
+ 550 100 l 1,19,-1
+ 450 100 l 1,8,-1
+450 200 m 1,20,-1
+ 350 200 l 1,21,-1
+ 350 300 l 1,22,-1
+ 450 300 l 1,23,-1
+ 450 200 l 1,20,-1
+350 300 m 1,24,-1
+ 250 300 l 1,25,-1
+ 250 400 l 1,26,-1
+ 350 400 l 1,27,-1
+ 350 300 l 1,24,-1
+150 400 m 1,28,-1
+ 150 600 l 1,29,-1
+ 250 600 l 1,30,-1
+ 250 400 l 1,31,-1
+ 150 400 l 1,28,-1
+450 600 m 1,32,-1
+ 550 600 l 1,33,-1
+ 550 500 l 1,34,-1
+ 450 500 l 1,35,-1
+ 450 600 l 1,32,-1
+450 600 m 1,36,-1
+ 250 600 l 1,37,-1
+ 250 700 l 1,38,-1
+ 450 700 l 1,39,-1
+ 450 600 l 1,36,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 2 -100 "keming" 7 -100 "keming" 10 -100 "keming" 23 -100 "keming" 31 -100 "keming" 60 -100 "keming" 62 -100 "keming" 64 -100 "keming" 116 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 121 -100 "keming" 123 -100 "keming" 126 -100 "keming" 192 -100 "keming" 194 -100 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 207 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 7
+Width: 200
+Flags: W
+HStem: 500 200<50 150>
+VStem: 50 100<500 700>
+LayerCount: 2
+Fore
+SplineSet
+50 500 m 1,0,-1
+ 50 700 l 1,1,-1
+ 150 700 l 1,2,-1
+ 150 500 l 1,3,-1
+ 50 500 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 190 -100 "keming"
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 8
+Width: 400
+Flags: W
+HStem: 0 100<150 350> 600 100<150 350>
+VStem: 50 100<100 600> 150 200<0 100 600 700>
+LayerCount: 2
+Fore
+SplineSet
+350 100 m 1,0,-1
+ 350 0 l 1,1,-1
+ 150 0 l 1,2,-1
+ 150 100 l 1,3,-1
+ 350 100 l 1,0,-1
+350 700 m 1,4,-1
+ 350 600 l 1,5,-1
+ 150 600 l 1,6,-1
+ 150 100 l 1,7,-1
+ 50 100 l 1,8,-1
+ 50 600 l 1,9,-1
+ 150 600 l 1,10,-1
+ 150 700 l 1,11,-1
+ 350 700 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 3 -100 "keming" 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 29 -100 "keming" 62 -100 "keming" 91 -100 "keming" 94 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 129 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 9
+Width: 400
+Flags: W
+HStem: 0 100<50 250> 600 100<50 250>
+VStem: 50 200<0 100 600 700> 250 100<100 600>
+LayerCount: 2
+Fore
+SplineSet
+250 100 m 1,0,-1
+ 250 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 100 l 1,3,-1
+ 250 100 l 1,0,-1
+250 100 m 1,4,-1
+ 250 600 l 1,5,-1
+ 350 600 l 1,6,-1
+ 350 100 l 1,7,-1
+ 250 100 l 1,4,-1
+250 600 m 1,8,-1
+ 50 600 l 1,9,-1
+ 50 700 l 1,10,-1
+ 250 700 l 1,11,-1
+ 250 600 l 1,8,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 10
+Width: 400
+Flags: W
+HStem: 400 100<50 150 250 350> 500 100<150 250> 600 100<50 150 250 350>
+VStem: 50 100<400 500 600 700> 150 100<500 600> 250 100<400 500 600 700>
+LayerCount: 2
+Fore
+SplineSet
+350 500 m 1,0,-1
+ 350 400 l 1,1,-1
+ 250 400 l 1,2,-1
+ 250 500 l 1,3,-1
+ 350 500 l 1,0,-1
+350 700 m 1,4,-1
+ 350 600 l 1,5,-1
+ 250 600 l 1,6,-1
+ 250 500 l 1,7,-1
+ 150 500 l 1,8,-1
+ 150 400 l 1,9,-1
+ 50 400 l 1,10,-1
+ 50 500 l 1,11,-1
+ 150 500 l 1,12,-1
+ 150 600 l 1,13,-1
+ 250 600 l 1,14,-1
+ 250 700 l 1,15,-1
+ 350 700 l 1,4,-1
+150 600 m 1,16,-1
+ 50 600 l 1,17,-1
+ 50 700 l 1,18,-1
+ 150 700 l 1,19,-1
+ 150 600 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 15 -100 "keming" 133 -100 "keming"
+EndChar
+
+StartChar: plus
+Encoding: 43 43 11
+Width: 600
+Flags: W
+HStem: 300 100<50 250 350 550>
+VStem: 250 100<100 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+50 300 m 1,0,-1
+ 50 400 l 1,1,-1
+ 250 400 l 1,2,-1
+ 250 600 l 1,3,-1
+ 350 600 l 1,4,-1
+ 350 400 l 1,5,-1
+ 550 400 l 1,6,-1
+ 550 300 l 1,7,-1
+ 350 300 l 1,8,-1
+ 350 100 l 1,9,-1
+ 250 100 l 1,10,-1
+ 250 300 l 1,11,-1
+ 50 300 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 126 -100 "keming" 133 -100 "keming" 205 -100 "keming" 206 -100 "keming" 207 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: comma
+Encoding: 44 44 12
+Width: 200
+Flags: W
+HStem: -100 200<50 150>
+VStem: 50 100<-100 100>
+LayerCount: 2
+Fore
+SplineSet
+50 -100 m 1,0,-1
+ 50 100 l 1,1,-1
+ 150 100 l 1,2,-1
+ 150 -100 l 1,3,-1
+ 50 -100 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 3 -100 "keming" 20 -100 "keming" 23 -100 "keming" 31 -100 "keming" 60 -100 "keming" 91 -100 "keming" 111 -100 "keming" 112 -100 "keming" 123 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming"
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 13
+Width: 500
+Flags: W
+HStem: 300 100<50 450>
+LayerCount: 2
+Fore
+SplineSet
+50 300 m 1,0,-1
+ 50 400 l 1,1,-1
+ 450 400 l 1,2,-1
+ 450 300 l 1,3,-1
+ 50 300 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming" 163 -100 "keming"
+EndChar
+
+StartChar: period
+Encoding: 46 46 14
+Width: 200
+Flags: W
+HStem: 0 100<50 150>
+VStem: 50 100<0 100>
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 1,0,-1
+ 50 100 l 1,1,-1
+ 150 100 l 1,2,-1
+ 150 0 l 1,3,-1
+ 50 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 3 -100 "keming" 20 -100 "keming" 23 -100 "keming" 31 -200 "keming" 60 -200 "keming" 91 -100 "keming" 111 -100 "keming" 112 -100 "keming" 123 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming"
+EndChar
+
+StartChar: slash
+Encoding: 47 47 15
+Width: 600
+Flags: W
+HStem: 0 21G<50 150> 200 100<150 250> 300 100<250 350> 400 100<350 450> 680 20G<450 550>
+VStem: 50 100<0 200> 150 100<200 300> 250 100<300 400> 350 100<400 500> 450 100<500 700>
+LayerCount: 2
+Fore
+SplineSet
+150 0 m 1,0,-1
+ 50 0 l 1,1,-1
+ 50 200 l 1,2,-1
+ 150 200 l 1,3,-1
+ 150 0 l 1,0,-1
+450 500 m 1,4,-1
+ 450 400 l 1,5,-1
+ 350 400 l 1,6,-1
+ 350 300 l 1,7,-1
+ 250 300 l 1,8,-1
+ 250 200 l 1,9,-1
+ 150 200 l 1,10,-1
+ 150 300 l 1,11,-1
+ 250 300 l 1,12,-1
+ 250 400 l 1,13,-1
+ 350 400 l 1,14,-1
+ 350 500 l 1,15,-1
+ 450 500 l 1,4,-1
+450 500 m 1,16,-1
+ 450 700 l 1,17,-1
+ 550 700 l 1,18,-1
+ 550 500 l 1,19,-1
+ 450 500 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 6 -100 "keming" 11 -100 "keming" 12 -100 "keming" 13 -100 "keming" 14 -200 "keming" 15 -300 "keming" 26 -100 "keming" 27 -100 "keming" 28 -100 "keming" 91 -100 "keming" 94 -100 "keming" 105 -100 "keming" 106 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 133 -200 "keming" 190 -100 "keming" 195 -200 "keming" 196 -100 "keming" 205 -200 "keming" 206 -200 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: zero
+Encoding: 48 48 16
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 300 100<250 350> 600 100<150 450>
+VStem: 50 100<100 600> 150 300<0 100 600 700> 250 100<300 400> 450 100<100 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+350 400 m 1,0,-1
+ 350 300 l 1,1,-1
+ 250 300 l 1,2,-1
+ 250 400 l 1,3,-1
+ 350 400 l 1,0,-1
+150 100 m 1,4,-1
+ 450 100 l 1,5,-1
+ 450 0 l 1,6,-1
+ 150 0 l 1,7,-1
+ 150 100 l 1,4,-1
+150 100 m 1,8,-1
+ 50 100 l 1,9,-1
+ 50 600 l 1,10,-1
+ 150 600 l 1,11,-1
+ 150 100 l 1,8,-1
+450 100 m 1,12,-1
+ 450 600 l 1,13,-1
+ 550 600 l 1,14,-1
+ 550 100 l 1,15,-1
+ 450 100 l 1,12,-1
+450 600 m 1,16,-1
+ 150 600 l 1,17,-1
+ 150 700 l 1,18,-1
+ 450 700 l 1,19,-1
+ 450 600 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: one
+Encoding: 49 49 17
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 500 100<50 150> 680 20G<150 250>
+VStem: 150 100<100 500 600 700>
+LayerCount: 2
+Fore
+SplineSet
+350 100 m 1,0,-1
+ 350 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 100 l 1,3,-1
+ 150 100 l 1,4,-1
+ 150 500 l 1,5,-1
+ 50 500 l 1,6,-1
+ 50 600 l 1,7,-1
+ 150 600 l 1,8,-1
+ 150 700 l 1,9,-1
+ 250 700 l 1,10,-1
+ 250 100 l 1,11,-1
+ 350 100 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 2 -100 "keming" 3 -100 "keming" 7 -100 "keming" 10 -100 "keming" 11 -100 "keming" 13 -100 "keming" 20 -100 "keming" 23 -100 "keming" 28 -100 "keming" 29 -100 "keming" 31 -100 "keming" 60 -100 "keming" 62 -100 "keming" 64 -100 "keming" 91 -100 "keming" 94 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 116 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 121 -100 "keming" 123 -100 "keming" 124 -100 "keming" 126 -100 "keming" 127 -100 "keming" 129 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 207 -100 "keming" 208 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: two
+Encoding: 50 50 18
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 300 100<150 450> 500 100<50 150> 600 100<150 450>
+VStem: 50 100<100 300 500 600> 150 300<300 400 600 700> 450 100<400 600>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 550 100 l 1,1,-1
+ 550 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 300 l 1,4,-1
+ 150 300 l 1,5,-1
+ 150 100 l 1,0,-1
+150 500 m 1,6,-1
+ 50 500 l 1,7,-1
+ 50 600 l 1,8,-1
+ 150 600 l 1,9,-1
+ 150 700 l 1,10,-1
+ 450 700 l 1,11,-1
+ 450 600 l 1,12,-1
+ 550 600 l 1,13,-1
+ 550 400 l 1,14,-1
+ 450 400 l 1,15,-1
+ 450 300 l 1,16,-1
+ 150 300 l 1,17,-1
+ 150 400 l 1,18,-1
+ 450 400 l 1,19,-1
+ 450 600 l 1,20,-1
+ 150 600 l 1,21,-1
+ 150 500 l 1,6,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 64 -100 "keming" 94 -100 "keming" 116 -100 "keming"
+EndChar
+
+StartChar: three
+Encoding: 51 51 19
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 100<50 150> 300 100<250 450> 500 100<50 150> 600 100<150 450>
+VStem: 50 100<100 200 500 600> 150 300<0 100 600 700> 450 100<100 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 50 100 l 1,1,-1
+ 50 200 l 1,2,-1
+ 150 200 l 1,3,-1
+ 150 100 l 1,0,-1
+150 100 m 1,4,-1
+ 450 100 l 1,5,-1
+ 450 300 l 1,6,-1
+ 550 300 l 1,7,-1
+ 550 100 l 1,8,-1
+ 450 100 l 1,9,-1
+ 450 0 l 1,10,-1
+ 150 0 l 1,11,-1
+ 150 100 l 1,4,-1
+450 300 m 1,12,-1
+ 250 300 l 1,13,-1
+ 250 400 l 1,14,-1
+ 450 400 l 1,15,-1
+ 450 300 l 1,12,-1
+450 400 m 1,16,-1
+ 450 600 l 1,17,-1
+ 550 600 l 1,18,-1
+ 550 400 l 1,19,-1
+ 450 400 l 1,16,-1
+450 600 m 1,20,-1
+ 150 600 l 1,21,-1
+ 150 700 l 1,22,-1
+ 450 700 l 1,23,-1
+ 450 600 l 1,20,-1
+150 600 m 1,24,-1
+ 150 500 l 1,25,-1
+ 50 500 l 1,26,-1
+ 50 600 l 1,27,-1
+ 150 600 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: four
+Encoding: 52 52 20
+Width: 600
+Flags: W
+HStem: 0 21G<350 450> 200 100<150 350 450 550> 680 20G<350 450>
+VStem: 50 100<300 600> 350 100<0 200 300 700>
+LayerCount: 2
+Fore
+SplineSet
+50 200 m 1,0,-1
+ 50 600 l 1,1,-1
+ 150 600 l 1,2,-1
+ 150 300 l 1,3,-1
+ 350 300 l 1,4,-1
+ 350 700 l 1,5,-1
+ 450 700 l 1,6,-1
+ 450 300 l 1,7,-1
+ 550 300 l 1,8,-1
+ 550 200 l 1,9,-1
+ 450 200 l 1,10,-1
+ 450 0 l 1,11,-1
+ 350 0 l 1,12,-1
+ 350 200 l 1,13,-1
+ 50 200 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 2 -100 "keming" 4 -100 "keming" 7 -100 "keming" 9 -100 "keming" 10 -100 "keming" 12 -100 "keming" 14 -100 "keming" 23 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 62 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 121 -100 "keming" 123 -100 "keming" 126 -100 "keming" 133 -100 "keming" 192 -100 "keming" 194 -100 "keming" 195 -100 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 205 -100 "keming" 206 -100 "keming" 207 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: five
+Encoding: 53 53 21
+Width: 600
+Flags: W
+HStem: 0 100<50 450> 300 100<150 450> 600 100<150 550>
+VStem: 50 100<400 600> 450 100<100 300>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 1,0,-1
+ 50 100 l 1,1,-1
+ 450 100 l 1,2,-1
+ 450 0 l 1,3,-1
+ 50 0 l 1,0,-1
+150 400 m 1,4,-1
+ 450 400 l 1,5,-1
+ 450 300 l 1,6,-1
+ 550 300 l 1,7,-1
+ 550 100 l 1,8,-1
+ 450 100 l 1,9,-1
+ 450 300 l 1,10,-1
+ 50 300 l 1,11,-1
+ 50 700 l 1,12,-1
+ 550 700 l 1,13,-1
+ 550 600 l 1,14,-1
+ 150 600 l 1,15,-1
+ 150 400 l 1,4,-1
+EndSplineSet
+Validated: 5
+Kerns2: 62 -100 "keming" 192 -100 "keming" 194 -100 "keming" 203 -100 "keming" 204 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: six
+Encoding: 54 54 22
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 300 100<150 450> 500 100<450 550> 600 100<150 450>
+VStem: 50 100<100 300 400 600> 150 300<0 100 600 700> 450 100<100 300 500 600>
+LayerCount: 2
+Fore
+SplineSet
+550 600 m 1,0,-1
+ 550 500 l 1,1,-1
+ 450 500 l 1,2,-1
+ 450 600 l 1,3,-1
+ 550 600 l 1,0,-1
+450 100 m 1,4,-1
+ 450 0 l 1,5,-1
+ 150 0 l 1,6,-1
+ 150 100 l 1,7,-1
+ 450 100 l 1,4,-1
+450 100 m 1,8,-1
+ 450 300 l 1,9,-1
+ 550 300 l 1,10,-1
+ 550 100 l 1,11,-1
+ 450 100 l 1,8,-1
+150 100 m 1,12,-1
+ 50 100 l 1,13,-1
+ 50 600 l 1,14,-1
+ 150 600 l 1,15,-1
+ 150 400 l 1,16,-1
+ 450 400 l 1,17,-1
+ 450 300 l 1,18,-1
+ 150 300 l 1,19,-1
+ 150 100 l 1,12,-1
+150 600 m 1,20,-1
+ 150 700 l 1,21,-1
+ 450 700 l 1,22,-1
+ 450 600 l 1,23,-1
+ 150 600 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: seven
+Encoding: 55 55 23
+Width: 600
+Flags: W
+HStem: 0 21G<250 350> 300 100<350 450> 600 100<50 450>
+VStem: 250 100<0 300> 350 100<300 400> 450 100<400 600>
+LayerCount: 2
+Fore
+SplineSet
+350 0 m 1,0,-1
+ 250 0 l 1,1,-1
+ 250 300 l 1,2,-1
+ 350 300 l 1,3,-1
+ 350 0 l 1,0,-1
+50 600 m 1,4,-1
+ 50 700 l 1,5,-1
+ 550 700 l 1,6,-1
+ 550 400 l 1,7,-1
+ 450 400 l 1,8,-1
+ 450 300 l 1,9,-1
+ 350 300 l 1,10,-1
+ 350 400 l 1,11,-1
+ 450 400 l 1,12,-1
+ 450 600 l 1,13,-1
+ 50 600 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 12 -100 "keming" 14 -100 "keming" 15 -100 "keming" 94 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -200 "keming" 206 -200 "keming"
+EndChar
+
+StartChar: eight
+Encoding: 56 56 24
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 200<50 150 450 550> 300 100<150 450> 400 200<50 150 450 550> 600 100<150 450>
+VStem: 50 100<100 300 400 600> 150 300<0 100 300 400 600 700> 450 100<100 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 450 100 l 1,1,-1
+ 450 0 l 1,2,-1
+ 150 0 l 1,3,-1
+ 150 100 l 1,0,-1
+150 100 m 1,4,-1
+ 50 100 l 1,5,-1
+ 50 300 l 1,6,-1
+ 150 300 l 1,7,-1
+ 150 100 l 1,4,-1
+450 100 m 1,8,-1
+ 450 300 l 1,9,-1
+ 550 300 l 1,10,-1
+ 550 100 l 1,11,-1
+ 450 100 l 1,8,-1
+150 300 m 1,12,-1
+ 150 400 l 1,13,-1
+ 450 400 l 1,14,-1
+ 450 300 l 1,15,-1
+ 150 300 l 1,12,-1
+150 400 m 1,16,-1
+ 50 400 l 1,17,-1
+ 50 600 l 1,18,-1
+ 150 600 l 1,19,-1
+ 150 400 l 1,16,-1
+450 400 m 1,20,-1
+ 450 600 l 1,21,-1
+ 550 600 l 1,22,-1
+ 550 400 l 1,23,-1
+ 450 400 l 1,20,-1
+450 600 m 1,24,-1
+ 150 600 l 1,25,-1
+ 150 700 l 1,26,-1
+ 450 700 l 1,27,-1
+ 450 600 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: nine
+Encoding: 57 57 25
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 100<50 150> 300 100<150 450> 600 100<150 450>
+VStem: 50 100<100 200 400 600> 150 300<0 100 600 700> 450 100<100 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+450 300 m 1,0,-1
+ 150 300 l 1,1,-1
+ 150 400 l 1,2,-1
+ 450 400 l 1,3,-1
+ 450 600 l 1,4,-1
+ 550 600 l 1,5,-1
+ 550 100 l 1,6,-1
+ 450 100 l 1,7,-1
+ 450 0 l 1,8,-1
+ 150 0 l 1,9,-1
+ 150 100 l 1,10,-1
+ 450 100 l 1,11,-1
+ 450 300 l 1,0,-1
+150 100 m 1,12,-1
+ 50 100 l 1,13,-1
+ 50 200 l 1,14,-1
+ 150 200 l 1,15,-1
+ 150 100 l 1,12,-1
+450 600 m 1,16,-1
+ 150 600 l 1,17,-1
+ 150 400 l 1,18,-1
+ 50 400 l 1,19,-1
+ 50 600 l 1,20,-1
+ 150 600 l 1,21,-1
+ 150 700 l 1,22,-1
+ 450 700 l 1,23,-1
+ 450 600 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: colon
+Encoding: 58 58 26
+Width: 200
+Flags: W
+HStem: 0 100<50 150> 300 100<50 150>
+VStem: 50 100<0 100 300 400>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 150 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 100 l 1,3,-1
+ 150 100 l 1,0,-1
+150 400 m 1,4,-1
+ 150 300 l 1,5,-1
+ 50 300 l 1,6,-1
+ 50 400 l 1,7,-1
+ 150 400 l 1,4,-1
+EndSplineSet
+Validated: 1
+Kerns2: 23 -100 "keming" 31 -100 "keming"
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 27
+Width: 200
+Flags: W
+HStem: -100 21G<50 150> 300 100<50 150>
+VStem: 50 100<-100 100 300 400>
+LayerCount: 2
+Fore
+SplineSet
+50 100 m 1,0,-1
+ 150 100 l 1,1,-1
+ 150 -100 l 1,2,-1
+ 50 -100 l 1,3,-1
+ 50 100 l 1,0,-1
+150 400 m 1,4,-1
+ 150 300 l 1,5,-1
+ 50 300 l 1,6,-1
+ 50 400 l 1,7,-1
+ 150 400 l 1,4,-1
+EndSplineSet
+Validated: 1
+Kerns2: 23 -100 "keming" 31 -100 "keming" 60 -100 "keming"
+EndChar
+
+StartChar: less
+Encoding: 60 60 28
+Width: 400
+Flags: W
+HStem: 100 100<250 350> 200 100<150 250> 400 100<150 250> 500 100<250 350>
+VStem: 50 100<300 400> 150 100<200 300 400 500> 250 100<100 200 500 600>
+LayerCount: 2
+Fore
+SplineSet
+350 200 m 1,0,-1
+ 350 100 l 1,1,-1
+ 250 100 l 1,2,-1
+ 250 200 l 1,3,-1
+ 350 200 l 1,0,-1
+350 600 m 1,4,-1
+ 350 500 l 1,5,-1
+ 250 500 l 1,6,-1
+ 250 400 l 1,7,-1
+ 150 400 l 1,8,-1
+ 150 300 l 1,9,-1
+ 250 300 l 1,10,-1
+ 250 200 l 1,11,-1
+ 150 200 l 1,12,-1
+ 150 300 l 1,13,-1
+ 50 300 l 1,14,-1
+ 50 400 l 1,15,-1
+ 150 400 l 1,16,-1
+ 150 500 l 1,17,-1
+ 250 500 l 1,18,-1
+ 250 600 l 1,19,-1
+ 350 600 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 91 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 190 -100 "keming" 196 -100 "keming" 205 -100 "keming" 206 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: equal
+Encoding: 61 61 29
+Width: 500
+Flags: W
+HStem: 200 100<50 450> 400 100<50 450>
+LayerCount: 2
+Fore
+SplineSet
+50 200 m 1,0,-1
+ 50 300 l 1,1,-1
+ 450 300 l 1,2,-1
+ 450 200 l 1,3,-1
+ 50 200 l 1,0,-1
+50 400 m 1,4,-1
+ 50 500 l 1,5,-1
+ 450 500 l 1,6,-1
+ 450 400 l 1,7,-1
+ 50 400 l 1,4,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 23 -100 "keming" 61 -100 "keming" 93 -200 "keming" 133 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: greater
+Encoding: 62 62 30
+Width: 400
+Flags: W
+HStem: 100 100<50 150> 200 100<150 250> 300 100<250 350> 400 100<150 250> 500 100<50 150>
+VStem: 50 100<100 200 500 600> 150 100<200 300 400 500> 250 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+350 400 m 1,0,-1
+ 350 300 l 1,1,-1
+ 250 300 l 1,2,-1
+ 250 200 l 1,3,-1
+ 150 200 l 1,4,-1
+ 150 100 l 1,5,-1
+ 50 100 l 1,6,-1
+ 50 200 l 1,7,-1
+ 150 200 l 1,8,-1
+ 150 300 l 1,9,-1
+ 250 300 l 1,10,-1
+ 250 400 l 1,11,-1
+ 350 400 l 1,0,-1
+150 500 m 1,12,-1
+ 250 500 l 1,13,-1
+ 250 400 l 1,14,-1
+ 150 400 l 1,15,-1
+ 150 500 l 1,12,-1
+150 500 m 1,16,-1
+ 50 500 l 1,17,-1
+ 50 600 l 1,18,-1
+ 150 600 l 1,19,-1
+ 150 500 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 2 -100 "keming" 7 -100 "keming" 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 126 -100 "keming" 133 -100 "keming" 163 -100 "keming" 205 -100 "keming" 206 -100 "keming" 207 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: question
+Encoding: 63 63 31
+Width: 600
+Flags: W
+HStem: 0 100<250 350> 200 100<250 350> 300 100<350 450> 500 100<50 150> 600 100<150 450>
+VStem: 50 100<500 600> 250 100<0 100 200 300> 350 100<300 400> 450 100<400 600>
+LayerCount: 2
+Fore
+SplineSet
+350 100 m 1,0,-1
+ 350 0 l 1,1,-1
+ 250 0 l 1,2,-1
+ 250 100 l 1,3,-1
+ 350 100 l 1,0,-1
+350 300 m 1,4,-1
+ 350 400 l 1,5,-1
+ 450 400 l 1,6,-1
+ 450 300 l 1,7,-1
+ 350 300 l 1,4,-1
+350 300 m 1,8,-1
+ 350 200 l 1,9,-1
+ 250 200 l 1,10,-1
+ 250 300 l 1,11,-1
+ 350 300 l 1,8,-1
+450 400 m 1,12,-1
+ 450 600 l 1,13,-1
+ 550 600 l 1,14,-1
+ 550 400 l 1,15,-1
+ 450 400 l 1,12,-1
+450 600 m 1,16,-1
+ 150 600 l 1,17,-1
+ 150 500 l 1,18,-1
+ 50 500 l 1,19,-1
+ 50 600 l 1,20,-1
+ 150 600 l 1,21,-1
+ 150 700 l 1,22,-1
+ 450 700 l 1,23,-1
+ 450 600 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 12 -100 "keming" 14 -200 "keming" 15 -100 "keming" 64 -100 "keming" 94 -100 "keming" 133 -100 "keming" 195 -200 "keming" 205 -200 "keming" 206 -200 "keming"
+EndChar
+
+StartChar: at
+Encoding: 64 64 32
+Width: 900
+Flags: W
+HStem: -100 100<250 750> 0 100<150 250> 100 100<350 550 650 750> 200 200<250 350 550 650> 400 100<350 550> 500 100<150 250 650 750> 600 100<250 650>
+VStem: 50 100<100 500> 150 100<0 100 500 600> 250 100<200 400> 350 200<100 200 400 500> 550 100<200 400> 650 100<100 200 500 600> 750 100<200 500>
+LayerCount: 2
+Fore
+SplineSet
+550 100 m 1,0,-1
+ 350 100 l 1,1,-1
+ 350 200 l 1,2,-1
+ 250 200 l 1,3,-1
+ 250 400 l 1,4,-1
+ 350 400 l 1,5,-1
+ 350 500 l 1,6,-1
+ 550 500 l 1,7,-1
+ 550 400 l 1,8,-1
+ 650 400 l 1,9,-1
+ 650 200 l 1,10,-1
+ 550 200 l 1,11,-1
+ 550 400 l 1,12,-1
+ 350 400 l 1,13,-1
+ 350 200 l 1,14,-1
+ 550 200 l 1,15,-1
+ 550 100 l 1,0,-1
+650 600 m 1,16,-1
+ 750 600 l 1,17,-1
+ 750 500 l 1,18,-1
+ 650 500 l 1,19,-1
+ 650 600 l 1,16,-1
+650 600 m 1,20,-1
+ 250 600 l 1,21,-1
+ 250 500 l 1,22,-1
+ 150 500 l 1,23,-1
+ 150 600 l 1,24,-1
+ 250 600 l 1,25,-1
+ 250 700 l 1,26,-1
+ 650 700 l 1,27,-1
+ 650 600 l 1,20,-1
+750 500 m 1,28,-1
+ 850 500 l 1,29,-1
+ 850 200 l 1,30,-1
+ 750 200 l 1,31,-1
+ 750 500 l 1,28,-1
+250 0 m 1,32,-1
+ 750 0 l 1,33,-1
+ 750 -100 l 1,34,-1
+ 250 -100 l 1,35,-1
+ 250 0 l 1,32,-1
+250 0 m 1,36,-1
+ 150 0 l 1,37,-1
+ 150 100 l 1,38,-1
+ 250 100 l 1,39,-1
+ 250 0 l 1,36,-1
+150 500 m 1,40,-1
+ 150 100 l 1,41,-1
+ 50 100 l 1,42,-1
+ 50 500 l 1,43,-1
+ 150 500 l 1,40,-1
+650 200 m 1,44,-1
+ 750 200 l 1,45,-1
+ 750 100 l 1,46,-1
+ 650 100 l 1,47,-1
+ 650 200 l 1,44,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 23 -100 "keming" 63 -100 "keming" 64 -100 "keming" 116 -100 "keming" 121 -100 "keming" 125 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: A
+Encoding: 65 65 33
+Width: 600
+Flags: MW
+HStem: 300 100<150 450> 600 100<150 450>
+VStem: 50 100<0 300 400 600> 450 100<0 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+150 300 m 1,0,-1
+ 150 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 600 l 1,3,-1
+ 150 600 l 1,4,-1
+ 150 400 l 1,5,-1
+ 450 400 l 1,6,-1
+ 450 600 l 1,7,-1
+ 150 600 l 1,8,-1
+ 150 700 l 1,9,-1
+ 550 700 l 1,10,-1
+ 550 0 l 1,11,-1
+ 450 0 l 1,12,-1
+ 450 300 l 1,13,-1
+ 150 300 l 1,0,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: B
+Encoding: 66 66 34
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 300 100<150 450> 600 100<150 450>
+VStem: 50 400<0 100 300 400 600 700> 50 100<100 300 400 600> 450 100<100 300 400 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+50 700 m 1,0,-1
+ 450 700 l 1,1,-1
+ 450 600 l 1,2,-1
+ 150 600 l 1,3,-1
+ 150 400 l 1,4,-1
+ 450 400 l 1,5,-1
+ 450 300 l 1,6,-1
+ 150 300 l 1,7,-1
+ 150 100 l 1,8,-1
+ 450 100 l 1,9,-1
+ 450 0 l 1,10,-1
+ 50 0 l 1,11,-1
+ 50 700 l 1,0,-1
+450 100 m 1,12,-1
+ 450 300 l 1,13,-1
+ 550 300 l 1,14,-1
+ 550 100 l 1,15,-1
+ 450 100 l 1,12,-1
+450 400 m 1,16,-1
+ 450 600 l 1,17,-1
+ 550 600 l 1,18,-1
+ 550 400 l 1,19,-1
+ 450 400 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: C
+Encoding: 67 67 35
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 100<450 550> 500 100<450 550> 600 100<150 450>
+VStem: 50 100<100 600> 150 300<0 100 600 700> 450 100<100 200 500 600>
+LayerCount: 2
+Fore
+SplineSet
+550 200 m 1,0,-1
+ 550 100 l 1,1,-1
+ 450 100 l 1,2,-1
+ 450 0 l 1,3,-1
+ 150 0 l 1,4,-1
+ 150 100 l 1,5,-1
+ 450 100 l 1,6,-1
+ 450 200 l 1,7,-1
+ 550 200 l 1,0,-1
+550 600 m 1,8,-1
+ 550 500 l 1,9,-1
+ 450 500 l 1,10,-1
+ 450 600 l 1,11,-1
+ 550 600 l 1,8,-1
+150 100 m 1,12,-1
+ 50 100 l 1,13,-1
+ 50 600 l 1,14,-1
+ 150 600 l 1,15,-1
+ 150 100 l 1,12,-1
+150 600 m 1,16,-1
+ 150 700 l 1,17,-1
+ 450 700 l 1,18,-1
+ 450 600 l 1,19,-1
+ 150 600 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: D
+Encoding: 68 68 36
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 600 100<150 450>
+VStem: 50 100<100 600> 450 100<100 600>
+LayerCount: 2
+Fore
+SplineSet
+450 100 m 1,0,-1
+ 450 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 700 l 1,3,-1
+ 450 700 l 1,4,-1
+ 450 600 l 1,5,-1
+ 150 600 l 1,6,-1
+ 150 100 l 1,7,-1
+ 450 100 l 1,0,-1
+450 100 m 1,8,-1
+ 450 600 l 1,9,-1
+ 550 600 l 1,10,-1
+ 550 100 l 1,11,-1
+ 450 100 l 1,8,-1
+EndSplineSet
+Validated: 5
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: E
+Encoding: 69 69 37
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 300 100<150 450> 600 100<150 550>
+VStem: 50 100<100 300 400 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 550 100 l 1,1,-1
+ 550 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 700 l 1,4,-1
+ 550 700 l 1,5,-1
+ 550 600 l 1,6,-1
+ 150 600 l 1,7,-1
+ 150 400 l 1,8,-1
+ 450 400 l 1,9,-1
+ 450 300 l 1,10,-1
+ 150 300 l 1,11,-1
+ 150 100 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: F
+Encoding: 70 70 38
+Width: 600
+Flags: W
+HStem: 0 21G<50 150> 300 100<150 450> 600 100<150 550>
+VStem: 50 100<0 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+150 600 m 1,0,-1
+ 150 400 l 1,1,-1
+ 450 400 l 1,2,-1
+ 450 300 l 1,3,-1
+ 150 300 l 1,4,-1
+ 150 0 l 1,5,-1
+ 50 0 l 1,6,-1
+ 50 700 l 1,7,-1
+ 550 700 l 1,8,-1
+ 550 600 l 1,9,-1
+ 150 600 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 42 -200 "keming" 65 -100 "keming" 67 -100 "keming" 68 -100 "keming" 69 -100 "keming" 70 -100 "keming" 71 -100 "keming" 73 -100 "keming" 74 -200 "keming" 77 -100 "keming" 78 -100 "keming" 79 -100 "keming" 80 -100 "keming" 81 -100 "keming" 82 -100 "keming" 83 -100 "keming" 85 -100 "keming" 86 -100 "keming" 87 -100 "keming" 88 -100 "keming" 89 -100 "keming" 90 -100 "keming" 98 -100 "keming" 99 -100 "keming" 100 -100 "keming" 149 -100 "keming" 151 -100 "keming" 158 -100 "keming" 159 -100 "keming" 162 -100 "keming" 164 -100 "keming" 165 -100 "keming" 167 -100 "keming" 168 -100 "keming" 169 -100 "keming" 172 -100 "keming" 173 -100 "keming" 174 -100 "keming" 175 -100 "keming" 177 -100 "keming" 178 -100 "keming" 179 -100 "keming" 180 -100 "keming" 183 -100 "keming" 184 -100 "keming" 185 -100 "keming" 186 -100 "keming" 187 -100 "keming" 188 -100 "keming" 189 -100 "keming" 198 -100 "keming" 199 -100 "keming" 214 -100 "keming" 215 -100 "keming"
+EndChar
+
+StartChar: G
+Encoding: 71 71 39
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 300 100<250 450> 600 100<150 550>
+VStem: 50 100<100 600> 450 100<100 300>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+550 700 m 1,0,-1
+ 550 600 l 1,1,-1
+ 150 600 l 1,2,-1
+ 150 100 l 1,3,-1
+ 450 100 l 1,4,-1
+ 450 300 l 1,5,-1
+ 250 300 l 1,6,-1
+ 250 400 l 1,7,-1
+ 550 400 l 1,8,-1
+ 550 0 l 1,9,-1
+ 150 0 l 1,10,-1
+ 150 100 l 1,11,-1
+ 50 100 l 1,12,-1
+ 50 600 l 1,13,-1
+ 150 600 l 1,14,-1
+ 150 700 l 1,15,-1
+ 550 700 l 1,0,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: H
+Encoding: 72 72 40
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 300 100<150 450> 680 20G<50 150 450 550>
+VStem: 50 100<0 300 400 700> 450 100<0 300 400 700>
+LayerCount: 2
+Fore
+SplineSet
+150 400 m 1,0,-1
+ 450 400 l 1,1,-1
+ 450 700 l 1,2,-1
+ 550 700 l 1,3,-1
+ 550 0 l 1,4,-1
+ 450 0 l 1,5,-1
+ 450 300 l 1,6,-1
+ 150 300 l 1,7,-1
+ 150 0 l 1,8,-1
+ 50 0 l 1,9,-1
+ 50 700 l 1,10,-1
+ 150 700 l 1,11,-1
+ 150 400 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: I
+Encoding: 73 73 41
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 600 100<50 150 250 350>
+VStem: 50 300<0 100 600 700>
+LayerCount: 2
+Fore
+SplineSet
+250 100 m 1,0,-1
+ 350 100 l 1,1,-1
+ 350 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 100 l 1,4,-1
+ 150 100 l 1,5,-1
+ 150 600 l 1,6,-1
+ 50 600 l 1,7,-1
+ 50 700 l 1,8,-1
+ 350 700 l 1,9,-1
+ 350 600 l 1,10,-1
+ 250 600 l 1,11,-1
+ 250 100 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: J
+Encoding: 74 74 42
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 100<50 150> 600 100<250 450>
+VStem: 50 100<100 200> 450 100<100 600>
+LayerCount: 2
+Fore
+SplineSet
+450 600 m 1,0,-1
+ 250 600 l 1,1,-1
+ 250 700 l 1,2,-1
+ 550 700 l 1,3,-1
+ 550 100 l 1,4,-1
+ 450 100 l 1,5,-1
+ 450 0 l 1,6,-1
+ 150 0 l 1,7,-1
+ 150 100 l 1,8,-1
+ 450 100 l 1,9,-1
+ 450 600 l 1,0,-1
+150 100 m 1,10,-1
+ 50 100 l 1,11,-1
+ 50 200 l 1,12,-1
+ 150 200 l 1,13,-1
+ 150 100 l 1,10,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: K
+Encoding: 75 75 43
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 200 100<350 450> 300 100<150 350> 400 100<350 450> 680 20G<50 150 450 550>
+VStem: 50 100<0 300 400 700> 350 100<200 300 400 500> 450 100<0 200 500 700>
+LayerCount: 2
+Fore
+SplineSet
+550 0 m 1,0,-1
+ 450 0 l 1,1,-1
+ 450 200 l 1,2,-1
+ 550 200 l 1,3,-1
+ 550 0 l 1,0,-1
+150 0 m 1,4,-1
+ 50 0 l 1,5,-1
+ 50 700 l 1,6,-1
+ 150 700 l 1,7,-1
+ 150 400 l 1,8,-1
+ 350 400 l 1,9,-1
+ 350 300 l 1,10,-1
+ 450 300 l 1,11,-1
+ 450 200 l 1,12,-1
+ 350 200 l 1,13,-1
+ 350 300 l 1,14,-1
+ 150 300 l 1,15,-1
+ 150 0 l 1,4,-1
+450 500 m 1,16,-1
+ 450 400 l 1,17,-1
+ 350 400 l 1,18,-1
+ 350 500 l 1,19,-1
+ 450 500 l 1,16,-1
+450 500 m 1,20,-1
+ 450 700 l 1,21,-1
+ 550 700 l 1,22,-1
+ 550 500 l 1,23,-1
+ 450 500 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 162 -100 "keming"
+EndChar
+
+StartChar: L
+Encoding: 76 76 44
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 680 20G<50 150>
+VStem: 50 100<100 700>
+LayerCount: 2
+Fore
+SplineSet
+50 700 m 1,0,-1
+ 150 700 l 1,1,-1
+ 150 100 l 1,2,-1
+ 550 100 l 1,3,-1
+ 550 0 l 1,4,-1
+ 50 0 l 1,5,-1
+ 50 700 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 52 -200 "keming" 54 -100 "keming" 57 -200 "keming" 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 113 -200 "keming" 128 -200 "keming" 148 -200 "keming" 162 -100 "keming" 217 -200 "keming"
+EndChar
+
+StartChar: M
+Encoding: 77 77 45
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 480 20G<250 350> 500 100<150 250 350 450> 680 20G<50 150 450 550>
+VStem: 50 100<0 500 600 700> 250 100<300 500> 450 100<0 500 600 700>
+CounterMasks: 1 0e
+LayerCount: 2
+Fore
+SplineSet
+50 700 m 1,0,-1
+ 150 700 l 1,1,-1
+ 150 600 l 1,2,-1
+ 250 600 l 1,3,-1
+ 250 500 l 1,4,-1
+ 150 500 l 1,5,-1
+ 150 0 l 1,6,-1
+ 50 0 l 1,7,-1
+ 50 700 l 1,0,-1
+350 300 m 1,8,-1
+ 250 300 l 1,9,-1
+ 250 500 l 1,10,-1
+ 350 500 l 1,11,-1
+ 350 600 l 1,12,-1
+ 450 600 l 1,13,-1
+ 450 700 l 1,14,-1
+ 550 700 l 1,15,-1
+ 550 0 l 1,16,-1
+ 450 0 l 1,17,-1
+ 450 500 l 1,18,-1
+ 350 500 l 1,19,-1
+ 350 300 l 1,8,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: N
+Encoding: 78 78 46
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 400 100<250 350> 500 100<150 250> 680 20G<50 150 450 550>
+VStem: 50 100<0 500 600 700> 250 100<400 500> 450 100<0 300 400 700>
+CounterMasks: 1 0e
+LayerCount: 2
+Fore
+SplineSet
+550 0 m 1,0,-1
+ 450 0 l 1,1,-1
+ 450 300 l 1,2,-1
+ 350 300 l 1,3,-1
+ 350 400 l 1,4,-1
+ 450 400 l 1,5,-1
+ 450 700 l 1,6,-1
+ 550 700 l 1,7,-1
+ 550 0 l 1,0,-1
+150 600 m 1,8,-1
+ 250 600 l 1,9,-1
+ 250 500 l 1,10,-1
+ 150 500 l 1,11,-1
+ 150 0 l 1,12,-1
+ 50 0 l 1,13,-1
+ 50 700 l 1,14,-1
+ 150 700 l 1,15,-1
+ 150 600 l 1,8,-1
+350 400 m 1,16,-1
+ 250 400 l 1,17,-1
+ 250 500 l 1,18,-1
+ 350 500 l 1,19,-1
+ 350 400 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: O
+Encoding: 79 79 47
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 600 100<150 450>
+VStem: 50 100<100 600> 150 300<0 100 600 700> 450 100<100 600>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 450 100 l 1,1,-1
+ 450 0 l 1,2,-1
+ 150 0 l 1,3,-1
+ 150 100 l 1,0,-1
+150 100 m 1,4,-1
+ 50 100 l 1,5,-1
+ 50 600 l 1,6,-1
+ 150 600 l 1,7,-1
+ 150 100 l 1,4,-1
+150 600 m 1,8,-1
+ 150 700 l 1,9,-1
+ 450 700 l 1,10,-1
+ 450 600 l 1,11,-1
+ 150 600 l 1,8,-1
+450 100 m 1,12,-1
+ 450 600 l 1,13,-1
+ 550 600 l 1,14,-1
+ 550 100 l 1,15,-1
+ 450 100 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: P
+Encoding: 80 80 48
+Width: 600
+Flags: W
+HStem: 0 21G<50 150> 300 100<150 450> 600 100<150 450>
+VStem: 50 100<0 300 400 600> 450 100<400 600>
+LayerCount: 2
+Fore
+SplineSet
+150 300 m 1,0,-1
+ 150 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 700 l 1,3,-1
+ 450 700 l 1,4,-1
+ 450 600 l 1,5,-1
+ 150 600 l 1,6,-1
+ 150 400 l 1,7,-1
+ 450 400 l 1,8,-1
+ 450 300 l 1,9,-1
+ 150 300 l 1,0,-1
+450 400 m 1,10,-1
+ 450 600 l 1,11,-1
+ 550 600 l 1,12,-1
+ 550 400 l 1,13,-1
+ 450 400 l 1,10,-1
+EndSplineSet
+Validated: 5
+Kerns2: 42 -200 "keming" 74 -100 "keming" 189 -100 "keming"
+EndChar
+
+StartChar: Q
+Encoding: 81 81 49
+Width: 600
+Flags: W
+HStem: 0 100<150 350 450 550> 100 100<350 450> 200 100<250 350> 600 100<150 450>
+VStem: 50 100<100 600> 250 100<200 300> 350 100<100 200> 450 100<0 100 200 600>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 50 100 l 1,1,-1
+ 50 600 l 1,2,-1
+ 150 600 l 1,3,-1
+ 150 100 l 1,0,-1
+150 100 m 1,4,-1
+ 350 100 l 1,5,-1
+ 350 0 l 1,6,-1
+ 150 0 l 1,7,-1
+ 150 100 l 1,4,-1
+350 200 m 1,8,-1
+ 450 200 l 1,9,-1
+ 450 100 l 1,10,-1
+ 550 100 l 1,11,-1
+ 550 0 l 1,12,-1
+ 450 0 l 1,13,-1
+ 450 100 l 1,14,-1
+ 350 100 l 1,15,-1
+ 350 200 l 1,8,-1
+350 200 m 1,16,-1
+ 250 200 l 1,17,-1
+ 250 300 l 1,18,-1
+ 350 300 l 1,19,-1
+ 350 200 l 1,16,-1
+450 200 m 1,20,-1
+ 450 600 l 1,21,-1
+ 550 600 l 1,22,-1
+ 550 200 l 1,23,-1
+ 450 200 l 1,20,-1
+450 600 m 1,24,-1
+ 150 600 l 1,25,-1
+ 150 700 l 1,26,-1
+ 450 700 l 1,27,-1
+ 450 600 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: R
+Encoding: 82 82 50
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 300 100<150 450> 600 100<150 450>
+VStem: 50 100<0 300 400 600> 450 100<0 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+550 0 m 1,0,-1
+ 450 0 l 1,1,-1
+ 450 300 l 1,2,-1
+ 550 300 l 1,3,-1
+ 550 0 l 1,0,-1
+150 0 m 1,4,-1
+ 50 0 l 1,5,-1
+ 50 700 l 1,6,-1
+ 450 700 l 1,7,-1
+ 450 600 l 1,8,-1
+ 150 600 l 1,9,-1
+ 150 400 l 1,10,-1
+ 450 400 l 1,11,-1
+ 450 600 l 1,12,-1
+ 550 600 l 1,13,-1
+ 550 400 l 1,14,-1
+ 450 400 l 1,15,-1
+ 450 300 l 1,16,-1
+ 150 300 l 1,17,-1
+ 150 0 l 1,4,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: S
+Encoding: 83 83 51
+Width: 600
+Flags: W
+HStem: 0 100<50 450> 300 100<150 450> 600 100<150 550>
+VStem: 50 100<400 600> 450 100<100 300>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+550 700 m 1,0,-1
+ 550 600 l 1,1,-1
+ 150 600 l 1,2,-1
+ 150 400 l 1,3,-1
+ 450 400 l 1,4,-1
+ 450 300 l 1,5,-1
+ 550 300 l 1,6,-1
+ 550 100 l 1,7,-1
+ 450 100 l 1,8,-1
+ 450 0 l 1,9,-1
+ 50 0 l 1,10,-1
+ 50 100 l 1,11,-1
+ 450 100 l 1,12,-1
+ 450 300 l 1,13,-1
+ 150 300 l 1,14,-1
+ 150 400 l 1,15,-1
+ 50 400 l 1,16,-1
+ 50 600 l 1,17,-1
+ 150 600 l 1,18,-1
+ 150 700 l 1,19,-1
+ 550 700 l 1,0,-1
+EndSplineSet
+Validated: 5
+Kerns2: 70 -100 "keming" 74 -100 "keming" 198 -100 "keming"
+EndChar
+
+StartChar: T
+Encoding: 84 84 52
+Width: 600
+Flags: W
+HStem: 0 21G<250 350> 600 100<50 250 350 550>
+VStem: 250 100<0 600>
+LayerCount: 2
+Fore
+SplineSet
+350 600 m 1,0,-1
+ 350 0 l 1,1,-1
+ 250 0 l 1,2,-1
+ 250 600 l 1,3,-1
+ 50 600 l 1,4,-1
+ 50 700 l 1,5,-1
+ 550 700 l 1,6,-1
+ 550 600 l 1,7,-1
+ 350 600 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 42 -200 "keming" 65 -100 "keming" 67 -100 "keming" 68 -100 "keming" 69 -100 "keming" 70 -100 "keming" 71 -100 "keming" 73 -100 "keming" 74 -200 "keming" 77 -100 "keming" 78 -100 "keming" 79 -100 "keming" 80 -100 "keming" 81 -100 "keming" 82 -100 "keming" 83 -100 "keming" 85 -100 "keming" 86 -100 "keming" 87 -100 "keming" 88 -100 "keming" 89 -100 "keming" 90 -100 "keming" 98 -100 "keming" 99 -100 "keming" 100 -100 "keming" 149 -100 "keming" 151 -100 "keming" 158 -100 "keming" 159 -100 "keming" 162 -100 "keming" 164 -100 "keming" 165 -100 "keming" 167 -100 "keming" 168 -100 "keming" 169 -100 "keming" 172 -100 "keming" 173 -100 "keming" 174 -100 "keming" 175 -100 "keming" 177 -100 "keming" 178 -100 "keming" 179 -100 "keming" 180 -100 "keming" 183 -100 "keming" 184 -100 "keming" 185 -100 "keming" 186 -100 "keming" 187 -100 "keming" 188 -100 "keming" 189 -100 "keming" 198 -100 "keming" 199 -100 "keming" 214 -100 "keming" 215 -100 "keming"
+EndChar
+
+StartChar: U
+Encoding: 85 85 53
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 680 20G<50 150 450 550>
+VStem: 50 100<100 700> 450 100<100 700>
+LayerCount: 2
+Fore
+SplineSet
+450 100 m 1,0,-1
+ 450 0 l 1,1,-1
+ 150 0 l 1,2,-1
+ 150 100 l 1,3,-1
+ 450 100 l 1,0,-1
+450 100 m 1,4,-1
+ 450 700 l 1,5,-1
+ 550 700 l 1,6,-1
+ 550 100 l 1,7,-1
+ 450 100 l 1,4,-1
+150 100 m 1,8,-1
+ 50 100 l 1,9,-1
+ 50 700 l 1,10,-1
+ 150 700 l 1,11,-1
+ 150 100 l 1,8,-1
+EndSplineSet
+Validated: 5
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: V
+Encoding: 86 86 54
+Width: 600
+Flags: W
+HStem: 0 100<250 350> 100 100<150 250 350 450> 680 20G<50 150 450 550>
+VStem: 50 100<200 700> 150 100<100 200> 250 100<0 100> 350 100<100 200> 450 100<200 700>
+LayerCount: 2
+Fore
+SplineSet
+50 700 m 1,0,-1
+ 150 700 l 1,1,-1
+ 150 200 l 1,2,-1
+ 250 200 l 1,3,-1
+ 250 100 l 1,4,-1
+ 350 100 l 1,5,-1
+ 350 0 l 1,6,-1
+ 250 0 l 1,7,-1
+ 250 100 l 1,8,-1
+ 150 100 l 1,9,-1
+ 150 200 l 1,10,-1
+ 50 200 l 1,11,-1
+ 50 700 l 1,0,-1
+350 100 m 1,12,-1
+ 350 200 l 1,13,-1
+ 450 200 l 1,14,-1
+ 450 100 l 1,15,-1
+ 350 100 l 1,12,-1
+450 200 m 1,16,-1
+ 450 700 l 1,17,-1
+ 550 700 l 1,18,-1
+ 550 200 l 1,19,-1
+ 450 200 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: W
+Encoding: 87 87 55
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 100 100<150 250 350 450> 200 100<250 350> 680 20G<50 150 450 550>
+VStem: 50 100<0 100 200 700> 250 100<200 300> 450 100<0 100 200 700>
+CounterMasks: 1 0e
+LayerCount: 2
+Fore
+SplineSet
+550 0 m 1,0,-1
+ 450 0 l 1,1,-1
+ 450 100 l 1,2,-1
+ 350 100 l 1,3,-1
+ 350 200 l 1,4,-1
+ 250 200 l 1,5,-1
+ 250 300 l 1,6,-1
+ 350 300 l 1,7,-1
+ 350 200 l 1,8,-1
+ 450 200 l 1,9,-1
+ 450 700 l 1,10,-1
+ 550 700 l 1,11,-1
+ 550 0 l 1,0,-1
+150 0 m 1,12,-1
+ 50 0 l 1,13,-1
+ 50 700 l 1,14,-1
+ 150 700 l 1,15,-1
+ 150 200 l 1,16,-1
+ 250 200 l 1,17,-1
+ 250 100 l 1,18,-1
+ 150 100 l 1,19,-1
+ 150 0 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: X
+Encoding: 88 88 56
+Width: 600
+Flags: W
+HStem: 0 200<50 150 450 550> 200 100<150 250 350 450> 300 100<250 350> 400 100<150 250 350 450> 500 200<50 150 450 550>
+VStem: 50 100<0 200 500 700> 150 100<200 300 400 500> 250 100<300 400> 350 100<200 300 400 500> 450 100<0 200 500 700>
+LayerCount: 2
+Fore
+SplineSet
+150 0 m 1,0,-1
+ 50 0 l 1,1,-1
+ 50 200 l 1,2,-1
+ 150 200 l 1,3,-1
+ 150 0 l 1,0,-1
+450 200 m 1,4,-1
+ 550 200 l 1,5,-1
+ 550 0 l 1,6,-1
+ 450 0 l 1,7,-1
+ 450 200 l 1,4,-1
+450 200 m 1,8,-1
+ 350 200 l 1,9,-1
+ 350 300 l 1,10,-1
+ 450 300 l 1,11,-1
+ 450 200 l 1,8,-1
+150 500 m 1,12,-1
+ 250 500 l 1,13,-1
+ 250 400 l 1,14,-1
+ 150 400 l 1,15,-1
+ 150 500 l 1,12,-1
+150 500 m 1,16,-1
+ 50 500 l 1,17,-1
+ 50 700 l 1,18,-1
+ 150 700 l 1,19,-1
+ 150 500 l 1,16,-1
+450 500 m 1,20,-1
+ 450 400 l 1,21,-1
+ 350 400 l 1,22,-1
+ 350 500 l 1,23,-1
+ 450 500 l 1,20,-1
+450 500 m 1,24,-1
+ 450 700 l 1,25,-1
+ 550 700 l 1,26,-1
+ 550 500 l 1,27,-1
+ 450 500 l 1,24,-1
+350 300 m 1,28,-1
+ 250 300 l 1,29,-1
+ 250 200 l 1,30,-1
+ 150 200 l 1,31,-1
+ 150 300 l 1,32,-1
+ 250 300 l 1,33,-1
+ 250 400 l 1,34,-1
+ 350 400 l 1,35,-1
+ 350 300 l 1,28,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 162 -100 "keming"
+EndChar
+
+StartChar: Y
+Encoding: 89 89 57
+Width: 600
+Flags: W
+HStem: 0 21G<250 350> 300 100<150 250 350 450> 400 300<50 150 450 550>
+VStem: 50 100<400 700> 150 100<300 400> 250 100<0 300> 350 100<300 400> 450 100<400 700>
+LayerCount: 2
+Fore
+SplineSet
+150 400 m 1,0,-1
+ 250 400 l 1,1,-1
+ 250 300 l 1,2,-1
+ 350 300 l 1,3,-1
+ 350 0 l 1,4,-1
+ 250 0 l 1,5,-1
+ 250 300 l 1,6,-1
+ 150 300 l 1,7,-1
+ 150 400 l 1,0,-1
+150 400 m 1,8,-1
+ 50 400 l 1,9,-1
+ 50 700 l 1,10,-1
+ 150 700 l 1,11,-1
+ 150 400 l 1,8,-1
+350 300 m 1,12,-1
+ 350 400 l 1,13,-1
+ 450 400 l 1,14,-1
+ 450 300 l 1,15,-1
+ 350 300 l 1,12,-1
+450 400 m 1,16,-1
+ 450 700 l 1,17,-1
+ 550 700 l 1,18,-1
+ 550 400 l 1,19,-1
+ 450 400 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 42 -100 "keming" 74 -100 "keming" 189 -100 "keming"
+EndChar
+
+StartChar: Z
+Encoding: 90 90 58
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 300 100<150 450> 600 100<50 450>
+VStem: 50 100<100 300> 450 100<400 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 550 100 l 1,1,-1
+ 550 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 300 l 1,4,-1
+ 150 300 l 1,5,-1
+ 150 100 l 1,0,-1
+50 600 m 1,6,-1
+ 50 700 l 1,7,-1
+ 550 700 l 1,8,-1
+ 550 400 l 1,9,-1
+ 450 400 l 1,10,-1
+ 450 300 l 1,11,-1
+ 150 300 l 1,12,-1
+ 150 400 l 1,13,-1
+ 450 400 l 1,14,-1
+ 450 600 l 1,15,-1
+ 50 600 l 1,6,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 59
+Width: 400
+Flags: W
+HStem: 0 100<150 350> 600 100<150 350>
+VStem: 50 300<0 100 600 700> 50 100<100 600>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 350 100 l 1,1,-1
+ 350 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 700 l 1,4,-1
+ 350 700 l 1,5,-1
+ 350 600 l 1,6,-1
+ 150 600 l 1,7,-1
+ 150 100 l 1,0,-1
+EndSplineSet
+Validated: 8388609
+Kerns2: 3 -100 "keming" 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 29 -100 "keming" 62 -100 "keming" 91 -100 "keming" 94 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 129 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 60
+Width: 600
+Flags: W
+HStem: 0 21G<450 550> 200 100<350 450> 300 100<250 350> 400 100<150 250> 500 21G<50 150> 680 20G<50 150>
+VStem: 50 100<500 700> 150 100<400 500> 250 100<300 400> 350 100<200 300> 450 100<0 200>
+LayerCount: 2
+Fore
+SplineSet
+450 200 m 1,0,-1
+ 550 200 l 1,1,-1
+ 550 0 l 1,2,-1
+ 450 0 l 1,3,-1
+ 450 200 l 1,0,-1
+450 200 m 1,4,-1
+ 350 200 l 1,5,-1
+ 350 300 l 1,6,-1
+ 450 300 l 1,7,-1
+ 450 200 l 1,4,-1
+350 300 m 1,8,-1
+ 250 300 l 1,9,-1
+ 250 400 l 1,10,-1
+ 350 400 l 1,11,-1
+ 350 300 l 1,8,-1
+250 400 m 1,12,-1
+ 150 400 l 1,13,-1
+ 150 500 l 1,14,-1
+ 250 500 l 1,15,-1
+ 250 400 l 1,12,-1
+150 500 m 1,16,-1
+ 50 500 l 1,17,-1
+ 50 700 l 1,18,-1
+ 150 700 l 1,19,-1
+ 150 500 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 2 -100 "keming" 7 -100 "keming" 10 -100 "keming" 11 -100 "keming" 13 -100 "keming" 23 -100 "keming" 28 -100 "keming" 31 -100 "keming" 60 -300 "keming" 62 -100 "keming" 64 -100 "keming" 91 -100 "keming" 115 -100 "keming" 116 -200 "keming" 117 -200 "keming" 119 -200 "keming" 120 -200 "keming" 121 -200 "keming" 123 -100 "keming" 126 -200 "keming" 127 -100 "keming" 190 -100 "keming" 192 -100 "keming" 194 -100 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 207 -200 "keming" 208 -200 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 61
+Width: 400
+Flags: W
+HStem: 0 100<50 250> 600 100<50 250>
+VStem: 50 300<0 100 600 700> 250 100<100 600>
+LayerCount: 2
+Fore
+SplineSet
+250 100 m 1,0,-1
+ 250 600 l 1,1,-1
+ 50 600 l 1,2,-1
+ 50 700 l 1,3,-1
+ 350 700 l 1,4,-1
+ 350 0 l 1,5,-1
+ 50 0 l 1,6,-1
+ 50 100 l 1,7,-1
+ 250 100 l 1,0,-1
+EndSplineSet
+Validated: 8388609
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 62
+Width: 600
+Flags: W
+HStem: 400 100<50 150 450 550> 500 100<150 250 350 450> 600 100<250 350>
+VStem: 50 100<400 500> 150 100<500 600> 250 100<600 700> 350 100<500 600> 450 100<400 500>
+LayerCount: 2
+Fore
+SplineSet
+550 500 m 1,0,-1
+ 550 400 l 1,1,-1
+ 450 400 l 1,2,-1
+ 450 500 l 1,3,-1
+ 550 500 l 1,0,-1
+150 500 m 1,4,-1
+ 150 400 l 1,5,-1
+ 50 400 l 1,6,-1
+ 50 500 l 1,7,-1
+ 150 500 l 1,4,-1
+150 500 m 1,8,-1
+ 150 600 l 1,9,-1
+ 250 600 l 1,10,-1
+ 250 500 l 1,11,-1
+ 150 500 l 1,8,-1
+250 600 m 1,12,-1
+ 250 700 l 1,13,-1
+ 350 700 l 1,14,-1
+ 350 600 l 1,15,-1
+ 450 600 l 1,16,-1
+ 450 500 l 1,17,-1
+ 350 500 l 1,18,-1
+ 350 600 l 1,19,-1
+ 250 600 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 9 -100 "keming" 15 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming"
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 63
+Width: 600
+Flags: W
+HStem: -100 100<50 550>
+LayerCount: 2
+Fore
+SplineSet
+50 -100 m 1,0,-1
+ 50 0 l 1,1,-1
+ 550 0 l 1,2,-1
+ 550 -100 l 1,3,-1
+ 50 -100 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 32 -100 "keming" 105 -100 "keming"
+EndChar
+
+StartChar: grave
+Encoding: 96 96 64
+Width: 300
+Flags: W
+HStem: 600 100<150 250> 700 100<50 150>
+VStem: 50 100<700 800> 150 100<600 700>
+LayerCount: 2
+Fore
+SplineSet
+250 700 m 1,0,-1
+ 250 600 l 1,1,-1
+ 150 600 l 1,2,-1
+ 150 700 l 1,3,-1
+ 250 700 l 1,0,-1
+150 700 m 1,4,-1
+ 50 700 l 1,5,-1
+ 50 800 l 1,6,-1
+ 150 800 l 1,7,-1
+ 150 700 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 3 -100 "keming" 6 -100 "keming" 15 -200 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 203 -100 "keming" 204 -100 "keming"
+EndChar
+
+StartChar: a
+Encoding: 97 97 65
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 400 100<150 450>
+VStem: 50 100<100 400> 450 100<0 100 200 400>
+LayerCount: 2
+Fore
+SplineSet
+350 0 m 1,0,-1
+ 150 0 l 1,1,-1
+ 150 100 l 1,2,-1
+ 50 100 l 1,3,-1
+ 50 400 l 1,4,-1
+ 150 400 l 1,5,-1
+ 150 100 l 1,6,-1
+ 350 100 l 1,7,-1
+ 350 200 l 1,8,-1
+ 450 200 l 1,9,-1
+ 450 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 500 l 1,12,-1
+ 450 500 l 1,13,-1
+ 450 400 l 1,14,-1
+ 550 400 l 1,15,-1
+ 550 0 l 1,16,-1
+ 450 0 l 1,17,-1
+ 450 100 l 1,18,-1
+ 350 100 l 1,19,-1
+ 350 0 l 1,0,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: b
+Encoding: 98 98 66
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 400 100<150 450> 680 20G<50 150>
+VStem: 50 100<100 400 500 700> 450 100<100 400>
+LayerCount: 2
+Fore
+SplineSet
+450 100 m 1,0,-1
+ 450 400 l 1,1,-1
+ 150 400 l 1,2,-1
+ 150 100 l 1,3,-1
+ 450 100 l 1,0,-1
+450 100 m 1,4,-1
+ 450 0 l 1,5,-1
+ 50 0 l 1,6,-1
+ 50 700 l 1,7,-1
+ 150 700 l 1,8,-1
+ 150 500 l 1,9,-1
+ 450 500 l 1,10,-1
+ 450 400 l 1,11,-1
+ 550 400 l 1,12,-1
+ 550 100 l 1,13,-1
+ 450 100 l 1,4,-1
+EndSplineSet
+Validated: 5
+Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: c
+Encoding: 99 99 67
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 100<450 550> 300 100<450 550> 400 100<150 450>
+VStem: 50 100<100 400> 150 300<0 100 400 500> 450 100<100 200 300 400>
+LayerCount: 2
+Fore
+SplineSet
+450 100 m 1,0,-1
+ 450 200 l 1,1,-1
+ 550 200 l 1,2,-1
+ 550 100 l 1,3,-1
+ 450 100 l 1,0,-1
+450 100 m 1,4,-1
+ 450 0 l 1,5,-1
+ 150 0 l 1,6,-1
+ 150 100 l 1,7,-1
+ 450 100 l 1,4,-1
+150 100 m 1,8,-1
+ 50 100 l 1,9,-1
+ 50 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 100 l 1,8,-1
+450 400 m 1,12,-1
+ 550 400 l 1,13,-1
+ 550 300 l 1,14,-1
+ 450 300 l 1,15,-1
+ 450 400 l 1,12,-1
+450 400 m 1,16,-1
+ 150 400 l 1,17,-1
+ 150 500 l 1,18,-1
+ 450 500 l 1,19,-1
+ 450 400 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: d
+Encoding: 100 100 68
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 400 100<150 450> 680 20G<450 550>
+VStem: 50 100<100 400> 450 100<100 400 500 700>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 450 100 l 1,1,-1
+ 450 400 l 1,2,-1
+ 150 400 l 1,3,-1
+ 150 500 l 1,4,-1
+ 450 500 l 1,5,-1
+ 450 700 l 1,6,-1
+ 550 700 l 1,7,-1
+ 550 0 l 1,8,-1
+ 150 0 l 1,9,-1
+ 150 100 l 1,0,-1
+150 100 m 1,10,-1
+ 50 100 l 1,11,-1
+ 50 400 l 1,12,-1
+ 150 400 l 1,13,-1
+ 150 100 l 1,10,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: e
+Encoding: 101 101 69
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 200 100<150 450> 400 100<150 450>
+VStem: 50 100<100 200 300 400> 450 100<300 400>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 550 100 l 1,1,-1
+ 550 0 l 1,2,-1
+ 150 0 l 1,3,-1
+ 150 100 l 1,0,-1
+150 100 m 1,4,-1
+ 50 100 l 1,5,-1
+ 50 400 l 1,6,-1
+ 150 400 l 1,7,-1
+ 150 500 l 1,8,-1
+ 450 500 l 1,9,-1
+ 450 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 300 l 1,12,-1
+ 450 300 l 1,13,-1
+ 450 400 l 1,14,-1
+ 550 400 l 1,15,-1
+ 550 200 l 1,16,-1
+ 150 200 l 1,17,-1
+ 150 100 l 1,4,-1
+EndSplineSet
+Validated: 5
+Kerns2: 52 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: f
+Encoding: 102 102 70
+Width: 500
+Flags: W
+HStem: 0 21G<150 250> 400 100<50 150 250 450> 600 100<250 450>
+VStem: 150 100<0 400 500 600>
+LayerCount: 2
+Fore
+SplineSet
+450 500 m 1,0,-1
+ 450 400 l 1,1,-1
+ 250 400 l 1,2,-1
+ 250 0 l 1,3,-1
+ 150 0 l 1,4,-1
+ 150 400 l 1,5,-1
+ 50 400 l 1,6,-1
+ 50 500 l 1,7,-1
+ 150 500 l 1,8,-1
+ 150 600 l 1,9,-1
+ 250 600 l 1,10,-1
+ 250 500 l 1,11,-1
+ 450 500 l 1,0,-1
+450 700 m 1,12,-1
+ 450 600 l 1,13,-1
+ 250 600 l 1,14,-1
+ 250 700 l 1,15,-1
+ 450 700 l 1,12,-1
+EndSplineSet
+Validated: 5
+Kerns2: 42 -100 "keming" 74 -100 "keming" 189 -100 "keming"
+EndChar
+
+StartChar: g
+Encoding: 103 103 71
+Width: 600
+Flags: W
+HStem: -100 100<50 450> 0 21G<450 550> 100 100<150 450> 400 100<150 450>
+VStem: 50 100<200 400> 450 100<0 100 200 400>
+LayerCount: 2
+Fore
+SplineSet
+50 -100 m 1,0,-1
+ 50 0 l 1,1,-1
+ 450 0 l 1,2,-1
+ 450 100 l 1,3,-1
+ 150 100 l 1,4,-1
+ 150 200 l 1,5,-1
+ 450 200 l 1,6,-1
+ 450 400 l 1,7,-1
+ 150 400 l 1,8,-1
+ 150 500 l 1,9,-1
+ 550 500 l 1,10,-1
+ 550 0 l 1,11,-1
+ 450 0 l 1,12,-1
+ 450 -100 l 1,13,-1
+ 50 -100 l 1,0,-1
+150 200 m 1,14,-1
+ 50 200 l 1,15,-1
+ 50 400 l 1,16,-1
+ 150 400 l 1,17,-1
+ 150 200 l 1,14,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming"
+EndChar
+
+StartChar: h
+Encoding: 104 104 72
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 400 100<150 450> 680 20G<50 150>
+VStem: 50 100<0 400 500 700> 450 100<0 400>
+LayerCount: 2
+Fore
+SplineSet
+450 400 m 1,0,-1
+ 150 400 l 1,1,-1
+ 150 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 700 l 1,4,-1
+ 150 700 l 1,5,-1
+ 150 500 l 1,6,-1
+ 450 500 l 1,7,-1
+ 450 400 l 1,0,-1
+450 400 m 1,8,-1
+ 550 400 l 1,9,-1
+ 550 0 l 1,10,-1
+ 450 0 l 1,11,-1
+ 450 400 l 1,8,-1
+EndSplineSet
+Validated: 5
+Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: i
+Encoding: 105 105 73
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 400 100<50 150> 600 100<150 250>
+VStem: 150 100<100 400 600 700>
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 1,0,-1
+ 50 100 l 1,1,-1
+ 150 100 l 1,2,-1
+ 150 400 l 1,3,-1
+ 50 400 l 1,4,-1
+ 50 500 l 1,5,-1
+ 250 500 l 1,6,-1
+ 250 100 l 1,7,-1
+ 350 100 l 1,8,-1
+ 350 0 l 1,9,-1
+ 50 0 l 1,0,-1
+250 700 m 1,10,-1
+ 250 600 l 1,11,-1
+ 150 600 l 1,12,-1
+ 150 700 l 1,13,-1
+ 250 700 l 1,10,-1
+EndSplineSet
+Validated: 1
+Kerns2: 52 -100 "keming" 54 -100 "keming" 57 -100 "keming" 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 113 -100 "keming" 128 -100 "keming" 148 -100 "keming" 162 -100 "keming" 217 -100 "keming"
+EndChar
+
+StartChar: j
+Encoding: 106 106 74
+Width: 401
+Flags: W
+HStem: -100 21G<50 251> 399 101<150 250> 599 101<250 350>
+VStem: 250 101<1 399 600 700>
+LayerCount: 2
+Fore
+SplineSet
+250 700 m 1,0,-1
+ 351 700 l 1,1,-1
+ 351 600 l 1,2,-1
+ 350 599 l 1,3,-1
+ 250 599 l 1,4,-1
+ 250 700 l 1,0,-1
+250 1 m 1,5,-1
+ 250 399 l 1,6,-1
+ 150 399 l 1,7,-1
+ 150 500 l 1,8,-1
+ 351 500 l 1,9,-1
+ 351 0 l 1,10,-1
+ 251 0 l 1,11,-1
+ 251 -100 l 1,12,-1
+ 50 -100 l 1,13,-1
+ 50 1 l 1,14,-1
+ 250 1 l 1,5,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: k
+Encoding: 107 107 75
+Width: 500
+Flags: W
+HStem: 0 100<350 450> 100 100<250 350> 200 100<150 250> 300 100<250 350> 400 100<350 450> 680 20G<50 150>
+VStem: 50 100<0 200 300 700> 250 100<100 200 300 400> 350 100<0 100 400 500>
+LayerCount: 2
+Fore
+SplineSet
+150 0 m 1,0,-1
+ 50 0 l 1,1,-1
+ 50 700 l 1,2,-1
+ 150 700 l 1,3,-1
+ 150 300 l 1,4,-1
+ 250 300 l 1,5,-1
+ 250 200 l 1,6,-1
+ 350 200 l 1,7,-1
+ 350 100 l 1,8,-1
+ 250 100 l 1,9,-1
+ 250 200 l 1,10,-1
+ 150 200 l 1,11,-1
+ 150 0 l 1,0,-1
+450 100 m 1,12,-1
+ 450 0 l 1,13,-1
+ 350 0 l 1,14,-1
+ 350 100 l 1,15,-1
+ 450 100 l 1,12,-1
+450 500 m 1,16,-1
+ 450 400 l 1,17,-1
+ 350 400 l 1,18,-1
+ 350 300 l 1,19,-1
+ 250 300 l 1,20,-1
+ 250 400 l 1,21,-1
+ 350 400 l 1,22,-1
+ 350 500 l 1,23,-1
+ 450 500 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming"
+EndChar
+
+StartChar: l
+Encoding: 108 108 76
+Width: 400
+Flags: W
+HStem: 0 100<150 350> 680 20G<50 150>
+VStem: 50 100<100 700>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 350 100 l 1,1,-1
+ 350 0 l 1,2,-1
+ 150 0 l 1,3,-1
+ 150 100 l 1,0,-1
+150 100 m 1,4,-1
+ 50 100 l 1,5,-1
+ 50 700 l 1,6,-1
+ 150 700 l 1,7,-1
+ 150 100 l 1,4,-1
+EndSplineSet
+Validated: 5
+Kerns2: 52 -100 "keming" 54 -100 "keming" 57 -100 "keming" 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 113 -100 "keming" 128 -100 "keming" 148 -100 "keming" 162 -100 "keming" 217 -100 "keming"
+EndChar
+
+StartChar: m
+Encoding: 109 109 77
+Width: 800
+Flags: W
+HStem: 0 21G<50 150 350 450 650 750> 400 100<150 350 450 650>
+VStem: 50 100<0 400> 350 100<0 400> 650 100<0 400>
+CounterMasks: 1 38
+LayerCount: 2
+Fore
+SplineSet
+350 400 m 1,0,-1
+ 150 400 l 1,1,-1
+ 150 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 500 l 1,4,-1
+ 350 500 l 1,5,-1
+ 350 400 l 1,0,-1
+350 400 m 1,6,-1
+ 450 400 l 1,7,-1
+ 450 0 l 1,8,-1
+ 350 0 l 1,9,-1
+ 350 400 l 1,6,-1
+650 400 m 1,10,-1
+ 750 400 l 1,11,-1
+ 750 0 l 1,12,-1
+ 650 0 l 1,13,-1
+ 650 400 l 1,10,-1
+650 400 m 1,14,-1
+ 450 400 l 1,15,-1
+ 450 500 l 1,16,-1
+ 650 500 l 1,17,-1
+ 650 400 l 1,14,-1
+EndSplineSet
+Validated: 5
+Kerns2: 52 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: n
+Encoding: 110 110 78
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 400 100<150 450>
+VStem: 50 100<0 400> 450 100<0 400>
+LayerCount: 2
+Fore
+SplineSet
+550 0 m 1,0,-1
+ 450 0 l 1,1,-1
+ 450 400 l 1,2,-1
+ 550 400 l 1,3,-1
+ 550 0 l 1,0,-1
+150 0 m 1,4,-1
+ 50 0 l 1,5,-1
+ 50 500 l 1,6,-1
+ 450 500 l 1,7,-1
+ 450 400 l 1,8,-1
+ 150 400 l 1,9,-1
+ 150 0 l 1,4,-1
+EndSplineSet
+Validated: 5
+Kerns2: 52 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: o
+Encoding: 111 111 79
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 300<50 150 450 550> 400 100<150 450>
+VStem: 50 100<100 400> 150 300<0 100 400 500> 450 100<100 400>
+LayerCount: 2
+Fore
+SplineSet
+450 100 m 1,0,-1
+ 450 0 l 1,1,-1
+ 150 0 l 1,2,-1
+ 150 100 l 1,3,-1
+ 450 100 l 1,0,-1
+450 100 m 1,4,-1
+ 450 400 l 1,5,-1
+ 550 400 l 1,6,-1
+ 550 100 l 1,7,-1
+ 450 100 l 1,4,-1
+450 400 m 1,8,-1
+ 150 400 l 1,9,-1
+ 150 500 l 1,10,-1
+ 450 500 l 1,11,-1
+ 450 400 l 1,8,-1
+150 400 m 1,12,-1
+ 150 100 l 1,13,-1
+ 50 100 l 1,14,-1
+ 50 400 l 1,15,-1
+ 150 400 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: p
+Encoding: 112 112 80
+Width: 600
+Flags: W
+HStem: -100 21G<50 150> 100 100<150 450> 400 100<150 450>
+VStem: 50 100<-100 100 200 400> 450 100<200 400>
+LayerCount: 2
+Fore
+SplineSet
+450 400 m 1,0,-1
+ 550 400 l 1,1,-1
+ 550 200 l 1,2,-1
+ 450 200 l 1,3,-1
+ 450 100 l 1,4,-1
+ 150 100 l 1,5,-1
+ 150 -100 l 1,6,-1
+ 50 -100 l 1,7,-1
+ 50 500 l 1,8,-1
+ 450 500 l 1,9,-1
+ 450 400 l 1,0,-1
+450 400 m 1,10,-1
+ 150 400 l 1,11,-1
+ 150 200 l 1,12,-1
+ 450 200 l 1,13,-1
+ 450 400 l 1,10,-1
+EndSplineSet
+Validated: 5
+Kerns2: 41 -100 "keming" 52 -100 "keming" 74 -100 "keming" 128 -100 "keming" 141 -100 "keming" 145 -100 "keming" 153 -100 "keming" 154 -100 "keming"
+EndChar
+
+StartChar: q
+Encoding: 113 113 81
+Width: 600
+Flags: W
+HStem: -100 21G<450 550> 100 100<150 450> 400 100<150 450>
+VStem: 50 100<200 400> 450 100<-100 100 200 400>
+LayerCount: 2
+Fore
+SplineSet
+550 -100 m 1,0,-1
+ 450 -100 l 1,1,-1
+ 450 100 l 1,2,-1
+ 150 100 l 1,3,-1
+ 150 200 l 1,4,-1
+ 450 200 l 1,5,-1
+ 450 400 l 1,6,-1
+ 150 400 l 1,7,-1
+ 150 500 l 1,8,-1
+ 550 500 l 1,9,-1
+ 550 -100 l 1,0,-1
+150 400 m 1,10,-1
+ 150 200 l 1,11,-1
+ 50 200 l 1,12,-1
+ 50 400 l 1,13,-1
+ 150 400 l 1,10,-1
+EndSplineSet
+Validated: 5
+Kerns2: 52 -100 "keming"
+EndChar
+
+StartChar: r
+Encoding: 114 114 82
+Width: 500
+Flags: W
+HStem: 0 21G<50 150> 400 100<150 450>
+VStem: 50 100<0 400>
+LayerCount: 2
+Fore
+SplineSet
+150 400 m 1,0,-1
+ 150 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 400 l 1,3,-1
+ 150 400 l 1,0,-1
+150 400 m 1,4,-1
+ 150 500 l 1,5,-1
+ 450 500 l 1,6,-1
+ 450 400 l 1,7,-1
+ 150 400 l 1,4,-1
+EndSplineSet
+Validated: 5
+Kerns2: 41 -100 "keming" 42 -200 "keming" 52 -100 "keming" 74 -100 "keming" 141 -100 "keming" 145 -100 "keming" 153 -100 "keming" 154 -100 "keming" 189 -100 "keming"
+EndChar
+
+StartChar: s
+Encoding: 115 115 83
+Width: 600
+Flags: W
+HStem: 0 100<50 450> 100 100<450 550> 200 100<150 450> 300 100<50 150> 400 100<150 550>
+VStem: 50 100<300 400> 450 100<100 200>
+LayerCount: 2
+Fore
+SplineSet
+550 500 m 1,0,-1
+ 550 400 l 1,1,-1
+ 150 400 l 1,2,-1
+ 150 300 l 1,3,-1
+ 450 300 l 1,4,-1
+ 450 200 l 1,5,-1
+ 550 200 l 1,6,-1
+ 550 100 l 1,7,-1
+ 450 100 l 1,8,-1
+ 450 200 l 1,9,-1
+ 150 200 l 1,10,-1
+ 150 300 l 1,11,-1
+ 50 300 l 1,12,-1
+ 50 400 l 1,13,-1
+ 150 400 l 1,14,-1
+ 150 500 l 1,15,-1
+ 550 500 l 1,0,-1
+450 100 m 1,16,-1
+ 450 0 l 1,17,-1
+ 50 0 l 1,18,-1
+ 50 100 l 1,19,-1
+ 450 100 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming"
+EndChar
+
+StartChar: t
+Encoding: 116 116 84
+Width: 400
+Flags: W
+HStem: 0 100<150 350> 400 100<150 350> 680 20G<50 150>
+VStem: 50 100<100 400 500 700>
+LayerCount: 2
+Fore
+SplineSet
+150 500 m 1,0,-1
+ 350 500 l 1,1,-1
+ 350 400 l 1,2,-1
+ 150 400 l 1,3,-1
+ 150 100 l 1,4,-1
+ 350 100 l 1,5,-1
+ 350 0 l 1,6,-1
+ 149 0 l 1,7,-1
+ 150 100 l 1,8,-1
+ 50 100 l 1,9,-1
+ 50 700 l 1,10,-1
+ 150 700 l 1,11,-1
+ 150 500 l 1,0,-1
+EndSplineSet
+Validated: 5
+Kerns2: 52 -100 "keming" 113 -100 "keming"
+EndChar
+
+StartChar: u
+Encoding: 117 117 85
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 480 20G<50 150 450 550>
+VStem: 50 100<100 500> 450 100<0 100 200 500>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 50 100 l 1,1,-1
+ 50 500 l 1,2,-1
+ 150 500 l 1,3,-1
+ 150 100 l 1,0,-1
+150 100 m 1,4,-1
+ 350 100 l 1,5,-1
+ 350 0 l 1,6,-1
+ 150 0 l 1,7,-1
+ 150 100 l 1,4,-1
+350 100 m 1,8,-1
+ 350 200 l 1,9,-1
+ 450 200 l 1,10,-1
+ 450 500 l 1,11,-1
+ 550 500 l 1,12,-1
+ 550 0 l 1,13,-1
+ 450 0 l 1,14,-1
+ 450 100 l 1,15,-1
+ 350 100 l 1,8,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming"
+EndChar
+
+StartChar: v
+Encoding: 118 118 86
+Width: 600
+Flags: W
+HStem: 0 100<250 350> 100 100<150 250 350 450> 200 300<50 150 450 550>
+VStem: 50 100<200 500> 150 100<100 200> 250 100<0 100> 350 100<100 200> 450 100<200 500>
+LayerCount: 2
+Fore
+SplineSet
+450 500 m 1,0,-1
+ 550 500 l 1,1,-1
+ 550 200 l 1,2,-1
+ 450 200 l 1,3,-1
+ 450 100 l 1,4,-1
+ 350 100 l 1,5,-1
+ 350 0 l 1,6,-1
+ 250 0 l 1,7,-1
+ 250 100 l 1,8,-1
+ 350 100 l 1,9,-1
+ 350 200 l 1,10,-1
+ 450 200 l 1,11,-1
+ 450 500 l 1,0,-1
+250 100 m 1,12,-1
+ 150 100 l 1,13,-1
+ 150 200 l 1,14,-1
+ 250 200 l 1,15,-1
+ 250 100 l 1,12,-1
+150 200 m 1,16,-1
+ 50 200 l 1,17,-1
+ 50 500 l 1,18,-1
+ 150 500 l 1,19,-1
+ 150 200 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 41 -100 "keming" 52 -100 "keming" 74 -100 "keming" 141 -100 "keming" 145 -100 "keming" 153 -100 "keming" 154 -100 "keming"
+EndChar
+
+StartChar: w
+Encoding: 119 119 87
+Width: 800
+Flags: W
+HStem: 0 100<150 350 450 650> 480 20G<50 150 350 450 650 750>
+VStem: 50 100<100 500> 350 100<100 500> 650 100<100 500>
+CounterMasks: 1 38
+LayerCount: 2
+Fore
+SplineSet
+450 100 m 1,0,-1
+ 650 100 l 1,1,-1
+ 650 500 l 1,2,-1
+ 750 500 l 1,3,-1
+ 750 0 l 1,4,-1
+ 450 0 l 1,5,-1
+ 450 100 l 1,0,-1
+450 100 m 1,6,-1
+ 350 100 l 1,7,-1
+ 350 0 l 1,8,-1
+ 150 0 l 1,9,-1
+ 150 100 l 1,10,-1
+ 350 100 l 1,11,-1
+ 350 500 l 1,12,-1
+ 450 500 l 1,13,-1
+ 450 100 l 1,6,-1
+150 100 m 1,14,-1
+ 50 100 l 1,15,-1
+ 50 500 l 1,16,-1
+ 150 500 l 1,17,-1
+ 150 100 l 1,14,-1
+EndSplineSet
+Validated: 5
+Kerns2: 52 -100 "keming"
+EndChar
+
+StartChar: x
+Encoding: 120 120 88
+Width: 600
+Flags: W
+HStem: 0 100<50 150 450 550> 100 100<150 250 350 450> 200 100<250 350> 300 100<150 250 350 450> 400 100<50 150 450 550>
+VStem: 50 100<0 100 400 500> 150 100<100 200 300 400> 250 100<200 300> 350 100<100 200 300 400> 450 100<0 100 400 500>
+LayerCount: 2
+Fore
+SplineSet
+550 100 m 1,0,-1
+ 550 0 l 1,1,-1
+ 450 0 l 1,2,-1
+ 450 100 l 1,3,-1
+ 550 100 l 1,0,-1
+550 500 m 1,4,-1
+ 550 400 l 1,5,-1
+ 450 400 l 1,6,-1
+ 450 300 l 1,7,-1
+ 350 300 l 1,8,-1
+ 350 200 l 1,9,-1
+ 450 200 l 1,10,-1
+ 450 100 l 1,11,-1
+ 350 100 l 1,12,-1
+ 350 200 l 1,13,-1
+ 250 200 l 1,14,-1
+ 250 100 l 1,15,-1
+ 150 100 l 1,16,-1
+ 150 0 l 1,17,-1
+ 50 0 l 1,18,-1
+ 50 100 l 1,19,-1
+ 150 100 l 1,20,-1
+ 150 200 l 1,21,-1
+ 250 200 l 1,22,-1
+ 250 300 l 1,23,-1
+ 350 300 l 1,24,-1
+ 350 400 l 1,25,-1
+ 450 400 l 1,26,-1
+ 450 500 l 1,27,-1
+ 550 500 l 1,4,-1
+150 400 m 1,28,-1
+ 250 400 l 1,29,-1
+ 250 300 l 1,30,-1
+ 150 300 l 1,31,-1
+ 150 400 l 1,28,-1
+150 400 m 1,32,-1
+ 50 400 l 1,33,-1
+ 50 500 l 1,34,-1
+ 150 500 l 1,35,-1
+ 150 400 l 1,32,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming"
+EndChar
+
+StartChar: y
+Encoding: 121 121 89
+Width: 600
+Flags: W
+HStem: -100 100<50 450> 0 21G<450 550> 100 100<150 450> 480 20G<50 150 450 550>
+VStem: 50 100<200 500> 450 100<0 100 200 500>
+LayerCount: 2
+Fore
+SplineSet
+50 500 m 1,0,-1
+ 150 500 l 1,1,-1
+ 150 200 l 1,2,-1
+ 450 200 l 1,3,-1
+ 450 500 l 1,4,-1
+ 550 500 l 1,5,-1
+ 550 0 l 1,6,-1
+ 450 0 l 1,7,-1
+ 450 -100 l 1,8,-1
+ 50 -100 l 1,9,-1
+ 50 0 l 1,10,-1
+ 450 0 l 1,11,-1
+ 450 100 l 1,12,-1
+ 150 100 l 1,13,-1
+ 150 200 l 1,14,-1
+ 50 200 l 1,15,-1
+ 50 500 l 1,0,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming"
+EndChar
+
+StartChar: z
+Encoding: 122 122 90
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 200 100<150 450> 400 100<50 450>
+VStem: 50 100<100 200> 450 100<300 400>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 550 100 l 1,1,-1
+ 550 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 200 l 1,4,-1
+ 150 200 l 1,5,-1
+ 150 100 l 1,0,-1
+550 500 m 1,6,-1
+ 550 300 l 1,7,-1
+ 450 300 l 1,8,-1
+ 450 200 l 1,9,-1
+ 150 200 l 1,10,-1
+ 150 300 l 1,11,-1
+ 450 300 l 1,12,-1
+ 450 400 l 1,13,-1
+ 50 400 l 1,14,-1
+ 50 500 l 1,15,-1
+ 550 500 l 1,6,-1
+EndSplineSet
+Validated: 5
+Kerns2: 52 -100 "keming"
+EndChar
+
+StartChar: braceleft
+Encoding: 123 123 91
+Width: 500
+Flags: W
+HStem: 0 100<250 450> 300 100<50 150> 600 100<250 450>
+VStem: 50 100<300 400> 150 100<100 300 400 600> 250 200<0 100 600 700>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+250 100 m 1,0,-1
+ 450 100 l 1,1,-1
+ 450 0 l 1,2,-1
+ 250 0 l 1,3,-1
+ 250 100 l 1,0,-1
+250 100 m 1,4,-1
+ 150 100 l 1,5,-1
+ 150 300 l 1,6,-1
+ 250 300 l 1,7,-1
+ 250 100 l 1,4,-1
+150 300 m 1,8,-1
+ 50 300 l 1,9,-1
+ 50 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 300 l 1,8,-1
+150 400 m 1,12,-1
+ 150 600 l 1,13,-1
+ 250 600 l 1,14,-1
+ 250 400 l 1,15,-1
+ 150 400 l 1,12,-1
+250 600 m 1,16,-1
+ 250 700 l 1,17,-1
+ 450 700 l 1,18,-1
+ 450 600 l 1,19,-1
+ 250 600 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 29 -100 "keming" 62 -100 "keming" 91 -100 "keming" 94 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 129 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: bar
+Encoding: 124 124 92
+Width: 200
+Flags: W
+HStem: -100 21G<50 150>
+VStem: 50 100<-100 800>
+LayerCount: 2
+Fore
+SplineSet
+50 -100 m 1,0,-1
+ 50 800 l 1,1,-1
+ 150 800 l 1,2,-1
+ 150 -100 l 1,3,-1
+ 50 -100 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: braceright
+Encoding: 125 125 93
+Width: 500
+Flags: W
+HStem: 0 100<50 250> 300 100<350 450> 600 100<50 250>
+VStem: 50 200<0 100 600 700> 250 100<100 300 400 600> 350 100<300 400>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+450 400 m 1,0,-1
+ 450 300 l 1,1,-1
+ 350 300 l 1,2,-1
+ 350 100 l 1,3,-1
+ 250 100 l 1,4,-1
+ 250 0 l 1,5,-1
+ 50 0 l 1,6,-1
+ 50 100 l 1,7,-1
+ 250 100 l 1,8,-1
+ 250 300 l 1,9,-1
+ 350 300 l 1,10,-1
+ 350 400 l 1,11,-1
+ 450 400 l 1,0,-1
+250 600 m 1,12,-1
+ 350 600 l 1,13,-1
+ 350 400 l 1,14,-1
+ 250 400 l 1,15,-1
+ 250 600 l 1,12,-1
+250 600 m 1,16,-1
+ 50 600 l 1,17,-1
+ 50 700 l 1,18,-1
+ 250 700 l 1,19,-1
+ 250 600 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 9 -100 "keming" 12 -100 "keming" 14 -100 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 94
+Width: 700
+Flags: W
+HStem: 200 100<50 150 350 550> 300 100<150 350 550 650>
+VStem: 50 100<200 300> 550 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+650 400 m 1,0,-1
+ 650 300 l 1,1,-1
+ 550 300 l 1,2,-1
+ 550 200 l 1,3,-1
+ 350 200 l 1,4,-1
+ 350 300 l 1,5,-1
+ 550 300 l 1,6,-1
+ 550 400 l 1,7,-1
+ 650 400 l 1,0,-1
+150 300 m 1,8,-1
+ 150 200 l 1,9,-1
+ 50 200 l 1,10,-1
+ 50 300 l 1,11,-1
+ 150 300 l 1,8,-1
+150 300 m 1,12,-1
+ 150 400 l 1,13,-1
+ 350 400 l 1,14,-1
+ 350 300 l 1,15,-1
+ 150 300 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 9 -100 "keming" 15 -100 "keming" 23 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming"
+EndChar
+
+StartChar: Adieresis
+Encoding: 196 196 95
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 300 100<150 450> 600 100<150 450> 800 100<150 250 350 450>
+VStem: 50 100<0 300 400 600> 150 100<800 900> 350 100<800 900> 450 100<0 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+550 0 m 1,0,-1
+ 450 0 l 1,1,-1
+ 450 300 l 1,2,-1
+ 150 300 l 1,3,-1
+ 150 0 l 1,4,-1
+ 50 0 l 1,5,-1
+ 50 600 l 1,6,-1
+ 150 600 l 1,7,-1
+ 150 700 l 1,8,-1
+ 550 700 l 1,9,-1
+ 550 0 l 1,0,-1
+450 400 m 1,10,-1
+ 450 600 l 1,11,-1
+ 150 600 l 1,12,-1
+ 150 400 l 1,13,-1
+ 450 400 l 1,10,-1
+250 900 m 1,14,-1
+ 250 800 l 1,15,-1
+ 150 800 l 1,16,-1
+ 150 900 l 1,17,-1
+ 250 900 l 1,14,-1
+450 900 m 1,18,-1
+ 450 800 l 1,19,-1
+ 350 800 l 1,20,-1
+ 350 900 l 1,21,-1
+ 450 900 l 1,18,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: Odieresis
+Encoding: 214 214 96
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 600 100<150 450> 800 100<150 250 350 450>
+VStem: 50 100<100 600> 150 100<800 900> 350 100<800 900> 450 100<100 600>
+LayerCount: 2
+Fore
+SplineSet
+250 900 m 1,0,-1
+ 250 800 l 1,1,-1
+ 150 800 l 1,2,-1
+ 150 900 l 1,3,-1
+ 250 900 l 1,0,-1
+450 900 m 1,4,-1
+ 450 800 l 1,5,-1
+ 350 800 l 1,6,-1
+ 350 900 l 1,7,-1
+ 450 900 l 1,4,-1
+150 100 m 1,8,-1
+ 450 100 l 1,9,-1
+ 450 0 l 1,10,-1
+ 150 0 l 1,11,-1
+ 150 100 l 1,8,-1
+150 100 m 1,12,-1
+ 50 100 l 1,13,-1
+ 50 600 l 1,14,-1
+ 150 600 l 1,15,-1
+ 150 100 l 1,12,-1
+150 600 m 1,16,-1
+ 150 700 l 1,17,-1
+ 450 700 l 1,18,-1
+ 450 600 l 1,19,-1
+ 150 600 l 1,16,-1
+450 100 m 1,20,-1
+ 450 600 l 1,21,-1
+ 550 600 l 1,22,-1
+ 550 100 l 1,23,-1
+ 450 100 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: Udieresis
+Encoding: 220 220 97
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 680 20G<50 150 450 550> 800 100<150 250 350 450>
+VStem: 50 100<100 700> 150 100<800 900> 350 100<800 900> 450 100<100 700>
+LayerCount: 2
+Fore
+SplineSet
+250 900 m 1,0,-1
+ 250 800 l 1,1,-1
+ 150 800 l 1,2,-1
+ 150 900 l 1,3,-1
+ 250 900 l 1,0,-1
+450 900 m 1,4,-1
+ 450 800 l 1,5,-1
+ 350 800 l 1,6,-1
+ 350 900 l 1,7,-1
+ 450 900 l 1,4,-1
+450 100 m 1,8,-1
+ 450 0 l 1,9,-1
+ 150 0 l 1,10,-1
+ 150 100 l 1,11,-1
+ 450 100 l 1,8,-1
+450 100 m 1,12,-1
+ 450 700 l 1,13,-1
+ 550 700 l 1,14,-1
+ 550 100 l 1,15,-1
+ 450 100 l 1,12,-1
+150 100 m 1,16,-1
+ 50 100 l 1,17,-1
+ 50 700 l 1,18,-1
+ 150 700 l 1,19,-1
+ 150 100 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: adieresis
+Encoding: 228 228 98
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 400 100<150 450> 600 100<150 250 350 450>
+VStem: 50 100<100 400> 150 100<600 700> 350 100<600 700> 450 100<0 100 200 400>
+LayerCount: 2
+Fore
+SplineSet
+350 0 m 1,0,-1
+ 150 0 l 1,1,-1
+ 150 100 l 1,2,-1
+ 50 100 l 1,3,-1
+ 50 400 l 1,4,-1
+ 150 400 l 1,5,-1
+ 150 100 l 1,6,-1
+ 350 100 l 1,7,-1
+ 350 200 l 1,8,-1
+ 450 200 l 1,9,-1
+ 450 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 500 l 1,12,-1
+ 450 500 l 1,13,-1
+ 450 400 l 1,14,-1
+ 550 400 l 1,15,-1
+ 550 0 l 1,16,-1
+ 450 0 l 1,17,-1
+ 450 100 l 1,18,-1
+ 350 100 l 1,19,-1
+ 350 0 l 1,0,-1
+250 700 m 1,20,-1
+ 250 600 l 1,21,-1
+ 150 600 l 1,22,-1
+ 150 700 l 1,23,-1
+ 250 700 l 1,20,-1
+450 700 m 1,24,-1
+ 450 600 l 1,25,-1
+ 350 600 l 1,26,-1
+ 350 700 l 1,27,-1
+ 450 700 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: odieresis
+Encoding: 246 246 99
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 300<50 150 450 550> 400 100<150 450> 600 100<150 250 350 450>
+VStem: 50 100<100 400> 150 100<600 700> 350 100<600 700> 450 100<100 400>
+LayerCount: 2
+Fore
+SplineSet
+250 700 m 1,0,-1
+ 250 600 l 1,1,-1
+ 150 600 l 1,2,-1
+ 150 700 l 1,3,-1
+ 250 700 l 1,0,-1
+450 700 m 1,4,-1
+ 450 600 l 1,5,-1
+ 350 600 l 1,6,-1
+ 350 700 l 1,7,-1
+ 450 700 l 1,4,-1
+450 100 m 1,8,-1
+ 450 0 l 1,9,-1
+ 150 0 l 1,10,-1
+ 150 100 l 1,11,-1
+ 450 100 l 1,8,-1
+450 100 m 1,12,-1
+ 450 400 l 1,13,-1
+ 550 400 l 1,14,-1
+ 550 100 l 1,15,-1
+ 450 100 l 1,12,-1
+450 400 m 1,16,-1
+ 150 400 l 1,17,-1
+ 150 500 l 1,18,-1
+ 450 500 l 1,19,-1
+ 450 400 l 1,16,-1
+150 400 m 1,20,-1
+ 150 100 l 1,21,-1
+ 50 100 l 1,22,-1
+ 50 400 l 1,23,-1
+ 150 400 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: udieresis
+Encoding: 252 252 100
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 480 20G<50 150 450 550> 600 100<150 250 350 450>
+VStem: 50 100<100 500> 150 100<600 700> 350 100<600 700> 450 100<0 100 200 500>
+LayerCount: 2
+Fore
+SplineSet
+250 700 m 1,0,-1
+ 250 600 l 1,1,-1
+ 150 600 l 1,2,-1
+ 150 700 l 1,3,-1
+ 250 700 l 1,0,-1
+450 700 m 1,4,-1
+ 450 600 l 1,5,-1
+ 350 600 l 1,6,-1
+ 350 700 l 1,7,-1
+ 450 700 l 1,4,-1
+150 100 m 1,8,-1
+ 50 100 l 1,9,-1
+ 50 500 l 1,10,-1
+ 150 500 l 1,11,-1
+ 150 100 l 1,8,-1
+150 100 m 1,12,-1
+ 350 100 l 1,13,-1
+ 350 0 l 1,14,-1
+ 150 0 l 1,15,-1
+ 150 100 l 1,12,-1
+350 100 m 1,16,-1
+ 350 200 l 1,17,-1
+ 450 200 l 1,18,-1
+ 450 500 l 1,19,-1
+ 550 500 l 1,20,-1
+ 550 0 l 1,21,-1
+ 450 0 l 1,22,-1
+ 450 100 l 1,23,-1
+ 350 100 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming"
+EndChar
+
+StartChar: germandbls
+Encoding: 223 223 101
+Width: 600
+Flags: W
+HStem: 0 100<250 450> 300 100<250 450> 600 100<150 450>
+VStem: 50 100<0 600> 250 200<0 100 300 400> 450 100<100 300 400 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+450 600 m 1,0,-1
+ 150 600 l 1,1,-1
+ 150 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 600 l 1,4,-1
+ 150 600 l 1,5,-1
+ 150 700 l 1,6,-1
+ 450 700 l 1,7,-1
+ 450 600 l 1,0,-1
+450 600 m 1,8,-1
+ 550 600 l 1,9,-1
+ 550 400 l 1,10,-1
+ 450 400 l 1,11,-1
+ 450 600 l 1,8,-1
+450 100 m 1,12,-1
+ 450 0 l 1,13,-1
+ 250 0 l 1,14,-1
+ 250 100 l 1,15,-1
+ 450 100 l 1,12,-1
+450 100 m 1,16,-1
+ 450 300 l 1,17,-1
+ 550 300 l 1,18,-1
+ 550 100 l 1,19,-1
+ 450 100 l 1,16,-1
+450 400 m 1,20,-1
+ 450 300 l 1,21,-1
+ 250 300 l 1,22,-1
+ 250 400 l 1,23,-1
+ 450 400 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: uni0000
+Encoding: 0 0 102
+Width: 1000
+Flags: W
+HStem: -100 21G<450 550> 200 100<450 550> 300 100<50 150 850 950> 400 100<450 550> 600 100<350 450 550 650>
+VStem: 250 100<500 600> 350 300<0 100 600 700> 450 100<-100 0 700 800> 650 100<500 600>
+LayerCount: 2
+Fore
+SplineSet
+450 100 m 1,0,-1
+ 550 100 l 1,1,-1
+ 550 200 l 1,2,-1
+ 450 200 l 1,3,-1
+ 450 100 l 1,0,-1
+150 400 m 1,4,-1
+ 150 500 l 1,5,-1
+ 250 500 l 1,6,-1
+ 250 600 l 1,7,-1
+ 350 600 l 1,8,-1
+ 350 700 l 1,9,-1
+ 450 700 l 1,10,-1
+ 450 800 l 1,11,-1
+ 550 800 l 1,12,-1
+ 550 700 l 1,13,-1
+ 650 700 l 1,14,-1
+ 650 600 l 1,15,-1
+ 350 600 l 1,16,-1
+ 350 500 l 1,17,-1
+ 550 500 l 1,18,-1
+ 550 400 l 1,19,-1
+ 450 400 l 1,20,-1
+ 450 300 l 1,21,-1
+ 650 300 l 1,22,-1
+ 650 600 l 1,23,-1
+ 750 600 l 1,24,-1
+ 750 500 l 1,25,-1
+ 850 500 l 1,26,-1
+ 850 400 l 1,27,-1
+ 950 400 l 1,28,-1
+ 950 300 l 1,29,-1
+ 850 300 l 1,30,-1
+ 850 200 l 1,31,-1
+ 750 200 l 1,32,-1
+ 750 100 l 1,33,-1
+ 650 100 l 1,34,-1
+ 650 0 l 1,35,-1
+ 550 0 l 1,36,-1
+ 550 -100 l 1,37,-1
+ 450 -100 l 1,38,-1
+ 450 0 l 1,39,-1
+ 350 0 l 1,40,-1
+ 350 100 l 1,41,-1
+ 250 100 l 1,42,-1
+ 250 200 l 1,43,-1
+ 150 200 l 1,44,-1
+ 150 300 l 1,45,-1
+ 50 300 l 1,46,-1
+ 50 400 l 1,47,-1
+ 150 400 l 1,4,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: dieresis
+Encoding: 168 168 103
+Width: 400
+Flags: W
+HStem: 700 100<50 150 250 350>
+VStem: 50 100<700 800> 250 100<700 800>
+LayerCount: 2
+Fore
+SplineSet
+150 800 m 1,0,-1
+ 150 700 l 1,1,-1
+ 50 700 l 1,2,-1
+ 50 800 l 1,3,-1
+ 150 800 l 1,0,-1
+350 800 m 1,4,-1
+ 350 700 l 1,5,-1
+ 250 700 l 1,6,-1
+ 250 800 l 1,7,-1
+ 350 800 l 1,4,-1
+EndSplineSet
+Validated: 1
+Kerns2: 4 -100 "keming"
+EndChar
+
+StartChar: exclamdown
+Encoding: 161 161 104
+Width: 200
+Flags: W
+HStem: 400 100<50 150>
+VStem: 50 100<-200 300 400 500>
+LayerCount: 2
+Fore
+SplineSet
+50 400 m 1,0,-1
+ 50 500 l 1,1,-1
+ 150 500 l 1,2,-1
+ 150 400 l 1,3,-1
+ 50 400 l 1,0,-1
+150 -200 m 1,4,-1
+ 50 -200 l 1,5,-1
+ 50 300 l 1,6,-1
+ 150 300 l 1,7,-1
+ 150 -200 l 1,4,-1
+EndSplineSet
+Validated: 1
+Kerns2: 23 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: cent
+Encoding: 162 162 105
+Width: 600
+Flags: W
+HStem: -100 21G<250 350> 0 100<150 250 350 450> 100 100<450 550> 300 100<450 550> 400 100<150 250 350 450>
+VStem: 50 100<100 400> 150 300<0 100 400 500> 250 100<-100 0 100 400 500 600> 450 100<100 200 300 400>
+LayerCount: 2
+Fore
+SplineSet
+450 100 m 1,0,-1
+ 450 200 l 1,1,-1
+ 550 200 l 1,2,-1
+ 550 100 l 1,3,-1
+ 450 100 l 1,0,-1
+450 100 m 1,4,-1
+ 450 0 l 1,5,-1
+ 350 0 l 1,6,-1
+ 350 -100 l 1,7,-1
+ 250 -100 l 1,8,-1
+ 250 0 l 1,9,-1
+ 150 0 l 1,10,-1
+ 150 100 l 1,11,-1
+ 50 100 l 1,12,-1
+ 50 400 l 1,13,-1
+ 150 400 l 1,14,-1
+ 150 100 l 1,15,-1
+ 250 100 l 1,16,-1
+ 250 400 l 1,17,-1
+ 150 400 l 1,18,-1
+ 150 500 l 1,19,-1
+ 250 500 l 1,20,-1
+ 250 600 l 1,21,-1
+ 350 600 l 1,22,-1
+ 350 500 l 1,23,-1
+ 450 500 l 1,24,-1
+ 450 400 l 1,25,-1
+ 550 400 l 1,26,-1
+ 550 300 l 1,27,-1
+ 450 300 l 1,28,-1
+ 450 400 l 1,29,-1
+ 350 400 l 1,30,-1
+ 350 100 l 1,31,-1
+ 450 100 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 2 -100 "keming" 7 -100 "keming" 23 -100 "keming" 31 -100 "keming" 60 -100 "keming" 63 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 125 -100 "keming" 126 -100 "keming" 205 -100 "keming" 206 -100 "keming" 207 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: sterling
+Encoding: 163 163 106
+Width: 700
+Flags: W
+HStem: 0 100<50 150 250 650> 300 100<50 150 250 450> 500 100<550 650> 600 100<250 550>
+VStem: 150 100<100 300 400 600> 550 100<500 600>
+LayerCount: 2
+Fore
+SplineSet
+150 400 m 1,0,-1
+ 150 600 l 1,1,-1
+ 250 600 l 1,2,-1
+ 250 400 l 1,3,-1
+ 450 400 l 1,4,-1
+ 450 300 l 1,5,-1
+ 250 300 l 1,6,-1
+ 250 100 l 1,7,-1
+ 650 100 l 1,8,-1
+ 650 0 l 1,9,-1
+ 50 0 l 1,10,-1
+ 50 100 l 1,11,-1
+ 150 100 l 1,12,-1
+ 150 300 l 1,13,-1
+ 50 300 l 1,14,-1
+ 50 400 l 1,15,-1
+ 150 400 l 1,0,-1
+550 600 m 1,16,-1
+ 250 600 l 1,17,-1
+ 250 700 l 1,18,-1
+ 550 700 l 1,19,-1
+ 550 600 l 1,16,-1
+550 600 m 1,20,-1
+ 650 600 l 1,21,-1
+ 650 500 l 1,22,-1
+ 550 500 l 1,23,-1
+ 550 600 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 64 -100 "keming" 91 -100 "keming" 94 -100 "keming" 114 -100 "keming" 115 -100 "keming" 116 -100 "keming" 124 -100 "keming" 127 -100 "keming" 190 -100 "keming" 196 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: currency
+Encoding: 164 164 107
+Width: 600
+Flags: W
+HStem: 100 100<50 150 450 550> 200 100<250 350> 400 100<250 350> 500 100<50 150 450 550>
+VStem: 50 100<100 200 500 600> 150 100<300 400> 350 100<300 400> 450 100<100 200 500 600>
+LayerCount: 2
+Fore
+SplineSet
+250 300 m 1,0,-1
+ 350 300 l 1,1,-1
+ 350 400 l 1,2,-1
+ 250 400 l 1,3,-1
+ 250 300 l 1,0,-1
+150 500 m 1,4,-1
+ 50 500 l 1,5,-1
+ 50 600 l 1,6,-1
+ 150 600 l 1,7,-1
+ 150 500 l 1,4,-1
+150 500 m 1,8,-1
+ 450 500 l 1,9,-1
+ 450 200 l 1,10,-1
+ 550 200 l 1,11,-1
+ 550 100 l 1,12,-1
+ 450 100 l 1,13,-1
+ 450 200 l 1,14,-1
+ 150 200 l 1,15,-1
+ 150 100 l 1,16,-1
+ 50 100 l 1,17,-1
+ 50 200 l 1,18,-1
+ 150 200 l 1,19,-1
+ 150 500 l 1,8,-1
+450 500 m 1,20,-1
+ 450 600 l 1,21,-1
+ 550 600 l 1,22,-1
+ 550 500 l 1,23,-1
+ 450 500 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: yen
+Encoding: 165 165 108
+Width: 600
+Flags: W
+HStem: 0 21G<250 350> 100 100<50 250 350 550> 300 200<150 250 350 450> 300 100<50 150 450 550> 500 200<50 150 450 550>
+VStem: 50 100<500 700> 250 100<0 100 200 300> 450 100<500 700>
+CounterMasks: 1 07
+LayerCount: 2
+Fore
+SplineSet
+450 500 m 1,0,-1
+ 450 700 l 1,1,-1
+ 550 700 l 1,2,-1
+ 550 500 l 1,3,-1
+ 450 500 l 1,0,-1
+450 500 m 1,4,-1
+ 450 400 l 1,5,-1
+ 550 400 l 1,6,-1
+ 550 300 l 1,7,-1
+ 350 300 l 1,8,-1
+ 350 200 l 1,9,-1
+ 550 200 l 1,10,-1
+ 550 100 l 1,11,-1
+ 350 100 l 1,12,-1
+ 350 0 l 1,13,-1
+ 250 0 l 1,14,-1
+ 250 100 l 1,15,-1
+ 50 100 l 1,16,-1
+ 50 200 l 1,17,-1
+ 250 200 l 1,18,-1
+ 250 300 l 1,19,-1
+ 50 300 l 1,20,-1
+ 50 400 l 1,21,-1
+ 150 400 l 1,22,-1
+ 150 500 l 1,23,-1
+ 50 500 l 1,24,-1
+ 50 700 l 1,25,-1
+ 150 700 l 1,26,-1
+ 150 500 l 1,27,-1
+ 250 500 l 1,28,-1
+ 250 400 l 1,29,-1
+ 350 400 l 1,30,-1
+ 350 500 l 1,31,-1
+ 450 500 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: brokenbar
+Encoding: 166 166 109
+Width: 200
+Flags: W
+HStem: 680 20G<50 150>
+VStem: 50 100<-200 200 300 700>
+LayerCount: 2
+Fore
+SplineSet
+150 700 m 1,0,-1
+ 150 300 l 1,1,-1
+ 50 300 l 1,2,-1
+ 50 700 l 1,3,-1
+ 150 700 l 1,0,-1
+150 200 m 1,4,-1
+ 150 -200 l 1,5,-1
+ 50 -200 l 1,6,-1
+ 50 200 l 1,7,-1
+ 150 200 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: section
+Encoding: 167 167 110
+Width: 600
+Flags: W
+HStem: -200 100<150 450> -100 100<50 150> 100 100<150 450> 200 100<50 150 450 550> 300 100<150 450> 500 100<450 550> 600 100<150 450>
+VStem: 50 100<-100 0 200 300 400 600> 150 300<-200 -100 100 200 300 400 600 700> 450 100<-100 100 200 300 500 600>
+LayerCount: 2
+Fore
+SplineSet
+150 600 m 1,0,-1
+ 150 400 l 1,1,-1
+ 50 400 l 1,2,-1
+ 50 600 l 1,3,-1
+ 150 600 l 1,0,-1
+150 600 m 1,4,-1
+ 150 700 l 1,5,-1
+ 450 700 l 1,6,-1
+ 450 600 l 1,7,-1
+ 150 600 l 1,4,-1
+450 600 m 1,8,-1
+ 550 600 l 1,9,-1
+ 550 500 l 1,10,-1
+ 450 500 l 1,11,-1
+ 450 600 l 1,8,-1
+450 -100 m 1,12,-1
+ 450 100 l 1,13,-1
+ 550 100 l 1,14,-1
+ 550 -100 l 1,15,-1
+ 450 -100 l 1,12,-1
+450 -100 m 1,16,-1
+ 450 -200 l 1,17,-1
+ 150 -200 l 1,18,-1
+ 150 -100 l 1,19,-1
+ 450 -100 l 1,16,-1
+150 -100 m 1,20,-1
+ 50 -100 l 1,21,-1
+ 50 0 l 1,22,-1
+ 150 0 l 1,23,-1
+ 150 -100 l 1,20,-1
+150 400 m 1,24,-1
+ 450 400 l 1,25,-1
+ 450 300 l 1,26,-1
+ 150 300 l 1,27,-1
+ 150 400 l 1,24,-1
+150 300 m 1,28,-1
+ 150 200 l 1,29,-1
+ 50 200 l 1,30,-1
+ 50 300 l 1,31,-1
+ 150 300 l 1,28,-1
+150 200 m 1,32,-1
+ 450 200 l 1,33,-1
+ 450 100 l 1,34,-1
+ 150 100 l 1,35,-1
+ 150 200 l 1,32,-1
+450 200 m 1,36,-1
+ 450 300 l 1,37,-1
+ 550 300 l 1,38,-1
+ 550 200 l 1,39,-1
+ 450 200 l 1,36,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 64 -100 "keming" 116 -100 "keming"
+EndChar
+
+StartChar: copyright
+Encoding: 169 169 111
+Width: 800
+Flags: W
+HStem: 0 100<250 550> 100 100<150 250 550 650> 200 100<350 550> 400 100<350 550> 500 100<150 250 550 650> 600 100<250 550>
+VStem: 50 100<200 500> 150 100<100 200 500 600> 250 300<0 100 200 300 400 500 600 700> 250 100<300 400> 550 100<100 200 500 600> 650 100<200 500>
+LayerCount: 2
+Fore
+SplineSet
+150 200 m 1,0,-1
+ 50 200 l 1,1,-1
+ 50 500 l 1,2,-1
+ 150 500 l 1,3,-1
+ 150 200 l 1,0,-1
+150 200 m 1,4,-1
+ 250 200 l 1,5,-1
+ 250 100 l 1,6,-1
+ 150 100 l 1,7,-1
+ 150 200 l 1,4,-1
+250 100 m 1,8,-1
+ 550 100 l 1,9,-1
+ 550 0 l 1,10,-1
+ 250 0 l 1,11,-1
+ 250 100 l 1,8,-1
+550 100 m 1,12,-1
+ 550 200 l 1,13,-1
+ 650 200 l 1,14,-1
+ 650 100 l 1,15,-1
+ 550 100 l 1,12,-1
+650 200 m 1,16,-1
+ 650 500 l 1,17,-1
+ 750 500 l 1,18,-1
+ 750 200 l 1,19,-1
+ 650 200 l 1,16,-1
+650 500 m 1,20,-1
+ 550 500 l 1,21,-1
+ 550 600 l 1,22,-1
+ 650 600 l 1,23,-1
+ 650 500 l 1,20,-1
+550 600 m 1,24,-1
+ 250 600 l 1,25,-1
+ 250 700 l 1,26,-1
+ 550 700 l 1,27,-1
+ 550 600 l 1,24,-1
+250 600 m 1,28,-1
+ 250 500 l 1,29,-1
+ 150 500 l 1,30,-1
+ 150 600 l 1,31,-1
+ 250 600 l 1,28,-1
+250 200 m 1,32,-1
+ 250 500 l 1,33,-1
+ 550 500 l 1,34,-1
+ 550 400 l 1,35,-1
+ 350 400 l 1,36,-1
+ 350 300 l 1,37,-1
+ 550 300 l 1,38,-1
+ 550 200 l 1,39,-1
+ 250 200 l 1,32,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 9 -100 "keming" 12 -100 "keming" 14 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: registered
+Encoding: 174 174 112
+Width: 800
+Flags: W
+HStem: 0 100<250 550> 100 100<150 250 550 650> 200 100<450 550> 400 100<450 550> 500 100<150 250 550 650> 600 100<250 550>
+VStem: 50 100<200 500> 150 100<100 200 500 600> 250 100<200 300> 450 100<200 300> 550 100<100 200 500 600> 650 100<200 500>
+LayerCount: 2
+Fore
+SplineSet
+150 200 m 1,0,-1
+ 50 200 l 1,1,-1
+ 50 500 l 1,2,-1
+ 150 500 l 1,3,-1
+ 150 200 l 1,0,-1
+150 200 m 1,4,-1
+ 250 200 l 1,5,-1
+ 250 100 l 1,6,-1
+ 150 100 l 1,7,-1
+ 150 200 l 1,4,-1
+250 100 m 1,8,-1
+ 550 100 l 1,9,-1
+ 550 0 l 1,10,-1
+ 250 0 l 1,11,-1
+ 250 100 l 1,8,-1
+550 100 m 1,12,-1
+ 550 200 l 1,13,-1
+ 650 200 l 1,14,-1
+ 650 100 l 1,15,-1
+ 550 100 l 1,12,-1
+650 200 m 1,16,-1
+ 650 500 l 1,17,-1
+ 750 500 l 1,18,-1
+ 750 200 l 1,19,-1
+ 650 200 l 1,16,-1
+650 500 m 1,20,-1
+ 550 500 l 1,21,-1
+ 550 600 l 1,22,-1
+ 650 600 l 1,23,-1
+ 650 500 l 1,20,-1
+550 600 m 1,24,-1
+ 250 600 l 1,25,-1
+ 250 700 l 1,26,-1
+ 550 700 l 1,27,-1
+ 550 600 l 1,24,-1
+250 600 m 1,28,-1
+ 250 500 l 1,29,-1
+ 150 500 l 1,30,-1
+ 150 600 l 1,31,-1
+ 250 600 l 1,28,-1
+550 500 m 1,32,-1
+ 550 400 l 1,33,-1
+ 450 400 l 1,34,-1
+ 450 300 l 1,35,-1
+ 350 300 l 1,36,-1
+ 350 200 l 1,37,-1
+ 250 200 l 1,38,-1
+ 250 500 l 1,39,-1
+ 550 500 l 1,32,-1
+550 200 m 1,40,-1
+ 450 200 l 1,41,-1
+ 450 300 l 1,42,-1
+ 550 300 l 1,43,-1
+ 550 200 l 1,40,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 9 -100 "keming" 12 -100 "keming" 14 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: ordfeminine
+Encoding: 170 170 113
+Width: 400
+Flags: W
+HStem: 500 21G<150 350> 600 100<50 150> 800 100<50 250>
+VStem: 250 100<700 800>
+LayerCount: 2
+Fore
+SplineSet
+350 500 m 1025,0,-1
+250 800 m 1,1,-1
+ 350 800 l 1,2,-1
+ 350 500 l 1,3,-1
+ 150 500 l 1,4,-1
+ 150 600 l 1,5,-1
+ 50 600 l 1,6,-1
+ 50 700 l 1,7,-1
+ 250 700 l 1,8,-1
+ 250 800 l 1,1,-1
+250 800 m 1,9,-1
+ 50 800 l 1,10,-1
+ 50 900 l 1,11,-1
+ 250 900 l 1,12,-1
+ 250 800 l 1,9,-1
+EndSplineSet
+Validated: 5
+Kerns2: 42 -200 "keming" 68 -100 "keming" 74 -100 "keming" 98 -100 "keming" 99 -100 "keming" 149 -100 "keming" 158 -100 "keming" 159 -100 "keming" 162 -100 "keming" 164 -100 "keming" 165 -100 "keming" 169 -100 "keming" 174 -100 "keming" 175 -100 "keming" 177 -100 "keming" 178 -100 "keming" 179 -100 "keming" 183 -100 "keming" 185 -100 "keming" 187 -100 "keming" 189 -100 "keming" 214 -100 "keming"
+EndChar
+
+StartChar: guillemotleft
+Encoding: 171 171 114
+Width: 600
+Flags: W
+HStem: 200 100<150 250 450 550> 300 100<50 150 350 450> 400 100<150 250 450 550>
+VStem: 50 100<300 400> 150 100<200 300 400 500> 350 100<300 400> 450 100<200 300 400 500>
+LayerCount: 2
+Fore
+SplineSet
+250 500 m 1,0,-1
+ 250 400 l 1,1,-1
+ 150 400 l 1,2,-1
+ 150 300 l 1,3,-1
+ 50 300 l 1,4,-1
+ 50 400 l 1,5,-1
+ 150 400 l 1,6,-1
+ 150 500 l 1,7,-1
+ 250 500 l 1,0,-1
+250 200 m 1,8,-1
+ 150 200 l 1,9,-1
+ 150 300 l 1,10,-1
+ 250 300 l 1,11,-1
+ 250 200 l 1,8,-1
+550 200 m 1,12,-1
+ 450 200 l 1,13,-1
+ 450 300 l 1,14,-1
+ 350 300 l 1,15,-1
+ 350 400 l 1,16,-1
+ 450 400 l 1,17,-1
+ 450 500 l 1,18,-1
+ 550 500 l 1,19,-1
+ 550 400 l 1,20,-1
+ 450 400 l 1,21,-1
+ 450 300 l 1,22,-1
+ 550 300 l 1,23,-1
+ 550 200 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 9 -100 "keming" 23 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming"
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 115
+Width: 600
+Flags: W
+HStem: 300 100<50 550>
+LayerCount: 2
+Fore
+SplineSet
+50 300 m 1,0,-1
+ 50 400 l 1,1,-1
+ 550 400 l 1,2,-1
+ 550 300 l 1,3,-1
+ 50 300 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming" 163 -100 "keming"
+EndChar
+
+StartChar: macron
+Encoding: 175 175 116
+Width: 400
+Flags: W
+HStem: 700 100<50 350>
+VStem: 50 300<700 800>
+LayerCount: 2
+Fore
+SplineSet
+50 700 m 1,0,-1
+ 50 800 l 1,1,-1
+ 350 800 l 1,2,-1
+ 350 700 l 1,3,-1
+ 50 700 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 3 -100 "keming" 4 -100 "keming" 6 -100 "keming" 8 -100 "keming" 15 -300 "keming" 16 -100 "keming" 17 -100 "keming" 18 -100 "keming" 19 -100 "keming" 20 -100 "keming" 22 -100 "keming" 24 -100 "keming" 25 -100 "keming" 31 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -200 "keming" 106 -200 "keming" 110 -100 "keming" 111 -200 "keming" 112 -200 "keming" 117 -100 "keming" 123 -100 "keming" 191 -200 "keming" 192 -100 "keming" 193 -100 "keming" 194 -200 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 207 -100 "keming"
+EndChar
+
+StartChar: degree
+Encoding: 176 176 117
+Width: 400
+Flags: W
+HStem: 400 100<150 250> 500 100<50 150 250 350> 600 100<150 250>
+VStem: 50 100<500 600> 150 100<400 500 600 700> 250 100<500 600>
+LayerCount: 2
+Fore
+SplineSet
+250 600 m 1,0,-1
+ 150 600 l 1,1,-1
+ 150 700 l 1,2,-1
+ 250 700 l 1,3,-1
+ 250 600 l 1,0,-1
+250 600 m 1,4,-1
+ 350 600 l 1,5,-1
+ 350 500 l 1,6,-1
+ 250 500 l 1,7,-1
+ 250 600 l 1,4,-1
+250 500 m 1,8,-1
+ 250 400 l 1,9,-1
+ 150 400 l 1,10,-1
+ 150 500 l 1,11,-1
+ 250 500 l 1,8,-1
+150 500 m 1,12,-1
+ 50 500 l 1,13,-1
+ 50 600 l 1,14,-1
+ 150 600 l 1,15,-1
+ 150 500 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 64 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 114 -100 "keming" 133 -100 "keming" 190 -100 "keming" 196 -100 "keming"
+EndChar
+
+StartChar: plusminus
+Encoding: 177 177 118
+Width: 600
+Flags: W
+HStem: 100 100<50 550> 400 100<50 250 350 550>
+VStem: 250 100<300 400 500 600>
+LayerCount: 2
+Fore
+SplineSet
+250 500 m 1,0,-1
+ 250 600 l 1,1,-1
+ 350 600 l 1,2,-1
+ 350 500 l 1,3,-1
+ 550 500 l 1,4,-1
+ 550 400 l 1,5,-1
+ 350 400 l 1,6,-1
+ 350 300 l 1,7,-1
+ 250 300 l 1,8,-1
+ 250 400 l 1,9,-1
+ 50 400 l 1,10,-1
+ 50 500 l 1,11,-1
+ 250 500 l 1,0,-1
+550 200 m 1,12,-1
+ 550 100 l 1,13,-1
+ 50 100 l 1,14,-1
+ 50 200 l 1,15,-1
+ 550 200 l 1,12,-1
+EndSplineSet
+Validated: 1
+Kerns2: 23 -100 "keming" 205 -100 "keming" 206 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: uni00B2
+Encoding: 178 178 119
+Width: 400
+Flags: W
+HStem: 500 200<50 250> 500 100<250 350> 700 100<250 350> 800 100<50 250>
+VStem: 50 200<600 700 800 900> 250 100<700 800>
+LayerCount: 2
+Fore
+SplineSet
+250 700 m 1,0,-1
+ 250 800 l 1,1,-1
+ 350 800 l 1,2,-1
+ 350 700 l 1,3,-1
+ 250 700 l 1,0,-1
+250 700 m 1,4,-1
+ 250 600 l 1,5,-1
+ 350 600 l 1,6,-1
+ 350 500 l 1,7,-1
+ 50 500 l 1,8,-1
+ 50 700 l 1,9,-1
+ 250 700 l 1,4,-1
+250 800 m 1,10,-1
+ 50 800 l 1,11,-1
+ 50 900 l 1,12,-1
+ 250 900 l 1,13,-1
+ 250 800 l 1,10,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 190 -100 "keming"
+EndChar
+
+StartChar: uni00B3
+Encoding: 179 179 120
+Width: 400
+Flags: W
+HStem: 500 100<50 250> 800 100<50 150>
+VStem: 50 200<499.998 599.998 799.998 899.998> 250 100<599.998 699.998>
+LayerCount: 2
+Fore
+SplineSet
+250 900 m 1,0,-1
+ 250 800 l 1,1,-1
+ 350 800 l 1,2,-1
+ 350 600 l 1,3,-1
+ 250 600 l 1,4,-1
+ 250 500 l 1,5,-1
+ 50 500 l 1,6,-1
+ 50 600 l 1,7,-1
+ 250 600 l 1,8,-1
+ 250 700 l 1,9,-1
+ 150 700 l 1,10,-1
+ 150 800 l 1,11,-1
+ 50 800 l 1,12,-1
+ 50 900 l 1,13,-1
+ 250 900 l 1,0,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 3 -100 "keming" 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 29 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 104 -100 "keming" 105 -200 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 118 -100 "keming" 122 -100 "keming" 129 -100 "keming" 133 -200 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -200 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming"
+EndChar
+
+StartChar: acute
+Encoding: 180 180 121
+Width: 300
+Flags: W
+HStem: 600 100<50 150> 700 100<150 250>
+VStem: 50 100<600 700> 150 100<700 800>
+LayerCount: 2
+Fore
+SplineSet
+150 700 m 1,0,-1
+ 150 800 l 1,1,-1
+ 250 800 l 1,2,-1
+ 250 700 l 1,3,-1
+ 150 700 l 1,0,-1
+150 700 m 1,4,-1
+ 150 600 l 1,5,-1
+ 50 600 l 1,6,-1
+ 50 700 l 1,7,-1
+ 150 700 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 3 -100 "keming" 4 -100 "keming" 6 -200 "keming" 8 -100 "keming" 15 -200 "keming" 16 -100 "keming" 17 -100 "keming" 18 -100 "keming" 19 -100 "keming" 20 -100 "keming" 22 -100 "keming" 24 -100 "keming" 25 -100 "keming" 31 -100 "keming" 32 -200 "keming" 62 -200 "keming" 91 -200 "keming" 106 -200 "keming" 110 -100 "keming" 111 -200 "keming" 112 -200 "keming" 117 -100 "keming" 123 -100 "keming" 191 -200 "keming" 192 -200 "keming" 193 -200 "keming" 194 -200 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 207 -100 "keming"
+EndChar
+
+StartChar: mu
+Encoding: 181 181 122
+Width: 599
+Flags: W
+HStem: 0 100<249.938 449.962> 100 100<150.012 249.938> 480 20G<50 150.012 449.962 549.975>
+VStem: 50 100<-199.999 100.004 199.999 500.001> 450 100<100.004 500.001>
+LayerCount: 2
+Fore
+SplineSet
+450 100 m 1,0,-1
+ 450 0 l 1,1,-1
+ 250 0 l 1,2,-1
+ 250 100 l 1,3,-1
+ 450 100 l 1,0,-1
+450 100 m 1,4,-1
+ 450 500 l 1,5,-1
+ 550 500 l 1,6,-1
+ 550 100 l 1,7,-1
+ 450 100 l 1,4,-1
+250 100 m 1,8,-1
+ 150 100 l 1,9,-1
+ 150 -200 l 1,10,-1
+ 50 -200 l 1,11,-1
+ 50 500 l 1,12,-1
+ 150 500 l 1,13,-1
+ 150 200 l 1,14,-1
+ 250 200 l 1,15,-1
+ 250 100 l 1,8,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 23 -100 "keming" 63 -100 "keming" 125 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: paragraph
+Encoding: 182 182 123
+Width: 700
+Flags: W
+HStem: 0 21G<250 350 450 550> 600 100<350 450 550 650>
+VStem: 50 300<400 600> 250 100<0 300> 450 100<0 600>
+LayerCount: 2
+Fore
+SplineSet
+150 600 m 1,0,-1
+ 150 700 l 1,1,-1
+ 650 700 l 1,2,-1
+ 650 600 l 1,3,-1
+ 550 600 l 1,4,-1
+ 550 0 l 1,5,-1
+ 450 0 l 1,6,-1
+ 450 600 l 1,7,-1
+ 350 600 l 1,8,-1
+ 350 0 l 1,9,-1
+ 250 0 l 1,10,-1
+ 250 300 l 1,11,-1
+ 150 300 l 1,12,-1
+ 150 400 l 1,13,-1
+ 50 400 l 1,14,-1
+ 50 600 l 1,15,-1
+ 150 600 l 1,0,-1
+EndSplineSet
+Validated: 8388609
+Kerns2: 3 -100 "keming" 6 -100 "keming" 11 -100 "keming" 12 -100 "keming" 13 -100 "keming" 14 -100 "keming" 15 -100 "keming" 26 -100 "keming" 27 -100 "keming" 28 -100 "keming" 29 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 94 -100 "keming" 104 -100 "keming" 105 -100 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 118 -100 "keming" 122 -100 "keming" 124 -100 "keming" 127 -100 "keming" 129 -100 "keming" 133 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 195 -100 "keming" 196 -100 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming" 205 -100 "keming" 206 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: periodcentered
+Encoding: 183 183 124
+Width: 200
+Flags: W
+HStem: 300 100<50 150>
+VStem: 50 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+150 400 m 1,0,-1
+ 150 300 l 1,1,-1
+ 50 300 l 1,2,-1
+ 50 400 l 1,3,-1
+ 150 400 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 19 -200 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming" 163 -100 "keming"
+EndChar
+
+StartChar: cedilla
+Encoding: 184 184 125
+Width: 300
+Flags: W
+HStem: -200 100<50 150> -100 100<150 250>
+VStem: 50 100<-200 -100> 150 100<-100 0>
+LayerCount: 2
+Fore
+SplineSet
+150 -100 m 1,0,-1
+ 150 0 l 1,1,-1
+ 250 0 l 1,2,-1
+ 250 -100 l 1,3,-1
+ 150 -100 l 1,0,-1
+150 -100 m 1,4,-1
+ 150 -200 l 1,5,-1
+ 50 -200 l 1,6,-1
+ 50 -100 l 1,7,-1
+ 150 -100 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 32 -100 "keming" 105 -100 "keming"
+EndChar
+
+StartChar: uni00B9
+Encoding: 185 185 126
+Width: 400
+Flags: W
+HStem: 500 100<50 150 250 350> 800 100<50 150>
+VStem: 150 100<600 800>
+LayerCount: 2
+Fore
+SplineSet
+250 900 m 1,0,-1
+ 250 600 l 1,1,-1
+ 350 600 l 1,2,-1
+ 350 500 l 1,3,-1
+ 50 500 l 1,4,-1
+ 50 600 l 1,5,-1
+ 150 600 l 1,6,-1
+ 150 800 l 1,7,-1
+ 50 800 l 1,8,-1
+ 50 900 l 1,9,-1
+ 250 900 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -100 "keming" 28 -100 "keming" 64 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 190 -100 "keming"
+EndChar
+
+StartChar: logicalnot
+Encoding: 172 172 127
+Width: 600
+Flags: W
+HStem: 300 100<50 450>
+VStem: 450 100<100 300>
+LayerCount: 2
+Fore
+SplineSet
+550 100 m 1,0,-1
+ 450 100 l 1,1,-1
+ 450 300 l 1,2,-1
+ 50 300 l 1,3,-1
+ 50 400 l 1,4,-1
+ 550 400 l 1,5,-1
+ 550 100 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 23 -100 "keming" 31 -100 "keming" 60 -100 "keming" 205 -100 "keming" 206 -100 "keming"
+EndChar
+
+StartChar: ordmasculine
+Encoding: 186 186 128
+Width: 400
+Flags: W
+HStem: 500 100<150 250> 600 200<50 150 250 350> 800 100<150 250>
+VStem: 50 100<600 800> 150 100<500 600 800 900> 250 100<600 800>
+LayerCount: 2
+Fore
+SplineSet
+250 800 m 1,0,-1
+ 150 800 l 1,1,-1
+ 150 900 l 1,2,-1
+ 250 900 l 1,3,-1
+ 250 800 l 1,0,-1
+250 800 m 1,4,-1
+ 350 800 l 1,5,-1
+ 350 600 l 1,6,-1
+ 250 600 l 1,7,-1
+ 250 800 l 1,4,-1
+250 600 m 1,8,-1
+ 250 500 l 1,9,-1
+ 150 500 l 1,10,-1
+ 150 600 l 1,11,-1
+ 250 600 l 1,8,-1
+150 600 m 1,12,-1
+ 50 600 l 1,13,-1
+ 50 800 l 1,14,-1
+ 150 800 l 1,15,-1
+ 150 600 l 1,12,-1
+EndSplineSet
+Validated: 5
+Kerns2: 42 -200 "keming" 65 -100 "keming" 67 -100 "keming" 68 -100 "keming" 69 -100 "keming" 71 -100 "keming" 74 -100 "keming" 79 -100 "keming" 81 -100 "keming" 82 -100 "keming" 83 -100 "keming" 98 -100 "keming" 99 -100 "keming" 149 -100 "keming" 158 -100 "keming" 159 -100 "keming" 162 -100 "keming" 164 -100 "keming" 165 -100 "keming" 167 -100 "keming" 169 -100 "keming" 174 -100 "keming" 175 -100 "keming" 177 -100 "keming" 178 -100 "keming" 179 -100 "keming" 180 -100 "keming" 183 -100 "keming" 185 -100 "keming" 187 -100 "keming" 189 -100 "keming" 199 -100 "keming" 214 -100 "keming"
+EndChar
+
+StartChar: guillemotright
+Encoding: 187 187 129
+Width: 600
+Flags: W
+HStem: 200 100<50 150 350 450> 300 100<150 250 450 550> 400 100<50 150 350 450>
+VStem: 50 100<200 300 400 500> 150 100<300 400> 350 100<200 300 400 500> 450 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+50 500 m 1,0,-1
+ 150 500 l 1,1,-1
+ 150 400 l 1,2,-1
+ 250 400 l 1,3,-1
+ 250 300 l 1,4,-1
+ 150 300 l 1,5,-1
+ 150 400 l 1,6,-1
+ 50 400 l 1,7,-1
+ 50 500 l 1,0,-1
+350 500 m 1,8,-1
+ 450 500 l 1,9,-1
+ 450 400 l 1,10,-1
+ 550 400 l 1,11,-1
+ 550 300 l 1,12,-1
+ 450 300 l 1,13,-1
+ 450 200 l 1,14,-1
+ 350 200 l 1,15,-1
+ 350 300 l 1,16,-1
+ 450 300 l 1,17,-1
+ 450 400 l 1,18,-1
+ 350 400 l 1,19,-1
+ 350 500 l 1,8,-1
+150 300 m 1,20,-1
+ 150 200 l 1,21,-1
+ 50 200 l 1,22,-1
+ 50 300 l 1,23,-1
+ 150 300 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 31 -100 "keming" 61 -100 "keming" 93 -100 "keming" 117 -100 "keming" 120 -100 "keming" 133 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: onehalf
+Encoding: 189 189 130
+Width: 800
+Flags: W
+HStem: 0 100<50 150 450 550> 100 100<150 250> 200 100<250 350 450 550> 300 100<350 450> 400 100<450 550> 500 100<550 650> 600 100<50 150 650 750>
+VStem: 50 100<0 100> 150 100<100 200 400 600> 250 100<200 300> 350 100<300 400> 450 100<400 500> 550 100<500 600> 650 100<600 700>
+LayerCount: 2
+Fore
+SplineSet
+250 700 m 1,0,-1
+ 250 400 l 1,1,-1
+ 150 400 l 1,2,-1
+ 150 600 l 1,3,-1
+ 50 600 l 1,4,-1
+ 50 700 l 1,5,-1
+ 250 700 l 1,0,-1
+450 300 m 1,6,-1
+ 350 300 l 1,7,-1
+ 350 400 l 1,8,-1
+ 450 400 l 1,9,-1
+ 450 300 l 1,6,-1
+450 300 m 1,10,-1
+ 650 300 l 1,11,-1
+ 650 200 l 1,12,-1
+ 750 200 l 1,13,-1
+ 750 0 l 1,14,-1
+ 450 0 l 1,15,-1
+ 450 100 l 1,16,-1
+ 550 100 l 1,17,-1
+ 550 200 l 1,18,-1
+ 450 200 l 1,19,-1
+ 450 300 l 1,10,-1
+350 300 m 1,20,-1
+ 350 200 l 1,21,-1
+ 250 200 l 1,22,-1
+ 250 300 l 1,23,-1
+ 350 300 l 1,20,-1
+250 200 m 1,24,-1
+ 250 100 l 1,25,-1
+ 150 100 l 1,26,-1
+ 150 0 l 1,27,-1
+ 50 0 l 1,28,-1
+ 50 100 l 1,29,-1
+ 150 100 l 1,30,-1
+ 150 200 l 1,31,-1
+ 250 200 l 1,24,-1
+450 400 m 1,32,-1
+ 450 500 l 1,33,-1
+ 550 500 l 1,34,-1
+ 550 400 l 1,35,-1
+ 450 400 l 1,32,-1
+650 600 m 1,36,-1
+ 650 700 l 1,37,-1
+ 750 700 l 1,38,-1
+ 750 600 l 1,39,-1
+ 650 600 l 1,36,-1
+650 600 m 1,40,-1
+ 650 500 l 1,41,-1
+ 550 500 l 1,42,-1
+ 550 600 l 1,43,-1
+ 650 600 l 1,40,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: onequarter
+Encoding: 188 188 131
+Width: 800
+Flags: W
+HStem: 0 100<50 150> 100 100<150 250 550 650> 200 100<250 350> 300 100<350 450> 400 100<450 550> 500 100<550 650> 600 100<50 150 650 750>
+VStem: 50 100<0 100> 150 100<100 200 400 600> 250 100<200 300> 350 100<300 400> 450 100<200 300 400 500> 550 100<500 600> 650 100<0 100 200 300 600 700>
+LayerCount: 2
+Fore
+SplineSet
+250 700 m 1,0,-1
+ 250 400 l 1,1,-1
+ 150 400 l 1,2,-1
+ 150 600 l 1,3,-1
+ 50 600 l 1,4,-1
+ 50 700 l 1,5,-1
+ 250 700 l 1,0,-1
+350 300 m 1,6,-1
+ 350 200 l 1,7,-1
+ 250 200 l 1,8,-1
+ 250 300 l 1,9,-1
+ 350 300 l 1,6,-1
+350 300 m 1,10,-1
+ 350 400 l 1,11,-1
+ 450 400 l 1,12,-1
+ 450 300 l 1,13,-1
+ 350 300 l 1,10,-1
+450 300 m 1,14,-1
+ 550 300 l 1,15,-1
+ 550 200 l 1,16,-1
+ 650 200 l 1,17,-1
+ 650 300 l 1,18,-1
+ 750 300 l 1,19,-1
+ 750 0 l 1,20,-1
+ 650 0 l 1,21,-1
+ 650 100 l 1,22,-1
+ 450 100 l 1,23,-1
+ 450 300 l 1,14,-1
+450 400 m 1,24,-1
+ 450 500 l 1,25,-1
+ 550 500 l 1,26,-1
+ 550 400 l 1,27,-1
+ 450 400 l 1,24,-1
+550 500 m 1,28,-1
+ 550 600 l 1,29,-1
+ 650 600 l 1,30,-1
+ 650 500 l 1,31,-1
+ 550 500 l 1,28,-1
+650 600 m 1,32,-1
+ 650 700 l 1,33,-1
+ 750 700 l 1,34,-1
+ 750 600 l 1,35,-1
+ 650 600 l 1,32,-1
+250 200 m 1,36,-1
+ 250 100 l 1,37,-1
+ 150 100 l 1,38,-1
+ 150 0 l 1,39,-1
+ 50 0 l 1,40,-1
+ 50 100 l 1,41,-1
+ 150 100 l 1,42,-1
+ 150 200 l 1,43,-1
+ 250 200 l 1,36,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: threequarters
+Encoding: 190 190 132
+Width: 800
+Flags: W
+HStem: 0 100<50 150> 100 100<150 250 550 650> 200 100<250 350> 300 100<350 450> 400 100<50 150 450 550> 500 100<250 350 550 650> 600 100<50 150 650 750>
+VStem: 50 100<0 100> 150 100<100 200> 250 100<200 300> 350 100<300 400> 450 100<200 300 400 500> 550 100<500 600> 650 100<0 100 200 300 600 700>
+LayerCount: 2
+Fore
+SplineSet
+250 700 m 1,0,-1
+ 250 600 l 1,1,-1
+ 350 600 l 1,2,-1
+ 350 500 l 1,3,-1
+ 250 500 l 1,4,-1
+ 250 400 l 1,5,-1
+ 50 400 l 1,6,-1
+ 50 500 l 1,7,-1
+ 150 500 l 1,8,-1
+ 150 600 l 1,9,-1
+ 50 600 l 1,10,-1
+ 50 700 l 1,11,-1
+ 250 700 l 1,0,-1
+350 300 m 1,12,-1
+ 350 400 l 1,13,-1
+ 450 400 l 1,14,-1
+ 450 300 l 1,15,-1
+ 350 300 l 1,12,-1
+350 300 m 1,16,-1
+ 350 200 l 1,17,-1
+ 250 200 l 1,18,-1
+ 250 100 l 1,19,-1
+ 150 100 l 1,20,-1
+ 150 200 l 1,21,-1
+ 250 200 l 1,22,-1
+ 250 300 l 1,23,-1
+ 350 300 l 1,16,-1
+150 100 m 1,24,-1
+ 150 0 l 1,25,-1
+ 50 0 l 1,26,-1
+ 50 100 l 1,27,-1
+ 150 100 l 1,24,-1
+550 500 m 1,28,-1
+ 550 600 l 1,29,-1
+ 650 600 l 1,30,-1
+ 650 500 l 1,31,-1
+ 550 500 l 1,28,-1
+550 500 m 1,32,-1
+ 550 400 l 1,33,-1
+ 450 400 l 1,34,-1
+ 450 500 l 1,35,-1
+ 550 500 l 1,32,-1
+450 300 m 1,36,-1
+ 550 300 l 1,37,-1
+ 550 200 l 1,38,-1
+ 650 200 l 1,39,-1
+ 650 300 l 1,40,-1
+ 750 300 l 1,41,-1
+ 750 0 l 1,42,-1
+ 650 0 l 1,43,-1
+ 650 100 l 1,44,-1
+ 450 100 l 1,45,-1
+ 450 300 l 1,36,-1
+650 600 m 1,46,-1
+ 650 700 l 1,47,-1
+ 750 700 l 1,48,-1
+ 750 600 l 1,49,-1
+ 650 600 l 1,46,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: questiondown
+Encoding: 191 191 133
+Width: 600
+Flags: W
+HStem: -200 100<150 450> -100 100<450 550> 100 100<150 250> 200 100<250 350> 400 100<250 350>
+VStem: 50 100<-100 100> 150 100<100 200> 250 100<200 300 400 500> 450 100<-100 0>
+LayerCount: 2
+Fore
+SplineSet
+250 400 m 1,0,-1
+ 250 500 l 1,1,-1
+ 350 500 l 1,2,-1
+ 350 400 l 1,3,-1
+ 250 400 l 1,0,-1
+450 -100 m 1,4,-1
+ 450 -200 l 1,5,-1
+ 150 -200 l 1,6,-1
+ 150 -100 l 1,7,-1
+ 450 -100 l 1,4,-1
+450 -100 m 1,8,-1
+ 450 0 l 1,9,-1
+ 550 0 l 1,10,-1
+ 550 -100 l 1,11,-1
+ 450 -100 l 1,8,-1
+150 -100 m 1,12,-1
+ 50 -100 l 1,13,-1
+ 50 100 l 1,14,-1
+ 150 100 l 1,15,-1
+ 150 -100 l 1,12,-1
+250 200 m 1,16,-1
+ 250 300 l 1,17,-1
+ 350 300 l 1,18,-1
+ 350 200 l 1,19,-1
+ 250 200 l 1,16,-1
+250 200 m 1,20,-1
+ 250 100 l 1,21,-1
+ 150 100 l 1,22,-1
+ 150 200 l 1,23,-1
+ 250 200 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 3 -100 "keming" 6 -100 "keming" 8 -100 "keming" 10 -100 "keming" 11 -100 "keming" 13 -100 "keming" 16 -100 "keming" 19 -100 "keming" 20 -100 "keming" 22 -100 "keming" 23 -100 "keming" 24 -100 "keming" 25 -100 "keming" 28 -100 "keming" 29 -100 "keming" 30 -100 "keming" 31 -100 "keming" 32 -100 "keming" 60 -100 "keming" 62 -100 "keming" 91 -100 "keming" 94 -100 "keming" 105 -100 "keming" 107 -100 "keming" 108 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 117 -100 "keming" 118 -100 "keming" 120 -100 "keming" 123 -100 "keming" 124 -100 "keming" 127 -100 "keming" 129 -100 "keming" 163 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 208 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: Agrave
+Encoding: 192 192 134
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 300 100<150 450> 600 100<150 450> 800 100<250 350> 900 100<150 250>
+VStem: 50 100<0 300 400 600> 150 100<900 1000> 250 100<800 900> 450 100<0 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+350 900 m 1,0,-1
+ 350 800 l 1,1,-1
+ 250 800 l 1,2,-1
+ 250 900 l 1,3,-1
+ 350 900 l 1,0,-1
+150 300 m 1,4,-1
+ 150 0 l 1,5,-1
+ 50 0 l 1,6,-1
+ 50 600 l 1,7,-1
+ 150 600 l 1,8,-1
+ 150 400 l 1,9,-1
+ 450 400 l 1,10,-1
+ 450 600 l 1,11,-1
+ 150 600 l 1,12,-1
+ 150 700 l 1,13,-1
+ 550 700 l 1,14,-1
+ 550 0 l 1,15,-1
+ 450 0 l 1,16,-1
+ 450 300 l 1,17,-1
+ 150 300 l 1,4,-1
+250 900 m 1,18,-1
+ 150 900 l 1,19,-1
+ 150 1000 l 1,20,-1
+ 250 1000 l 1,21,-1
+ 250 900 l 1,18,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: Aacute
+Encoding: 193 193 135
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 300 100<150 450> 600 100<150 450> 800 100<250 350> 900 100<350 450>
+VStem: 50 100<0 300 400 600> 250 100<800 900> 350 100<900 1000> 450 100<0 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+150 300 m 1,0,-1
+ 150 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 600 l 1,3,-1
+ 150 600 l 1,4,-1
+ 150 400 l 1,5,-1
+ 450 400 l 1,6,-1
+ 450 600 l 1,7,-1
+ 150 600 l 1,8,-1
+ 150 700 l 1,9,-1
+ 550 700 l 1,10,-1
+ 550 0 l 1,11,-1
+ 450 0 l 1,12,-1
+ 450 300 l 1,13,-1
+ 150 300 l 1,0,-1
+350 900 m 1,14,-1
+ 350 1000 l 1,15,-1
+ 450 1000 l 1,16,-1
+ 450 900 l 1,17,-1
+ 350 900 l 1,14,-1
+350 900 m 1,18,-1
+ 350 800 l 1,19,-1
+ 250 800 l 1,20,-1
+ 250 900 l 1,21,-1
+ 350 900 l 1,18,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: Acircumflex
+Encoding: 194 194 136
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 300 100<150 450> 600 100<150 450> 800 100<150 250 350 450> 900 100<250 350>
+VStem: 50 100<0 300 400 600> 150 100<800 900> 250 100<900 1000> 350 100<800 900> 450 100<0 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+150 300 m 1,0,-1
+ 150 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 600 l 1,3,-1
+ 150 600 l 1,4,-1
+ 150 400 l 1,5,-1
+ 450 400 l 1,6,-1
+ 450 600 l 1,7,-1
+ 150 600 l 1,8,-1
+ 150 700 l 1,9,-1
+ 550 700 l 1,10,-1
+ 550 0 l 1,11,-1
+ 450 0 l 1,12,-1
+ 450 300 l 1,13,-1
+ 150 300 l 1,0,-1
+350 900 m 1,14,-1
+ 250 900 l 1,15,-1
+ 250 1000 l 1,16,-1
+ 350 1000 l 1,17,-1
+ 350 900 l 1,14,-1
+350 900 m 1,18,-1
+ 450 900 l 1,19,-1
+ 450 800 l 1,20,-1
+ 350 800 l 1,21,-1
+ 350 900 l 1,18,-1
+250 900 m 1,22,-1
+ 250 800 l 1,23,-1
+ 150 800 l 1,24,-1
+ 150 900 l 1,25,-1
+ 250 900 l 1,22,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: Atilde
+Encoding: 195 195 137
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 300 100<150 450> 600 100<150 450> 800 100<150 250 350 450> 900 100<250 350 450 550>
+VStem: 50 100<0 300 400 600> 150 100<800 900> 250 100<900 1000> 350 100<800 900> 450 100<0 300 400 600 900 1000>
+LayerCount: 2
+Fore
+SplineSet
+150 300 m 1,0,-1
+ 150 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 600 l 1,3,-1
+ 150 600 l 1,4,-1
+ 150 400 l 1,5,-1
+ 450 400 l 1,6,-1
+ 450 600 l 1,7,-1
+ 150 600 l 1,8,-1
+ 150 700 l 1,9,-1
+ 550 700 l 1,10,-1
+ 550 0 l 1,11,-1
+ 450 0 l 1,12,-1
+ 450 300 l 1,13,-1
+ 150 300 l 1,0,-1
+550 1000 m 1,14,-1
+ 550 900 l 1,15,-1
+ 450 900 l 1,16,-1
+ 450 1000 l 1,17,-1
+ 550 1000 l 1,14,-1
+450 900 m 1,18,-1
+ 450 800 l 1,19,-1
+ 350 800 l 1,20,-1
+ 350 900 l 1,21,-1
+ 250 900 l 1,22,-1
+ 250 1000 l 1,23,-1
+ 350 1000 l 1,24,-1
+ 350 900 l 1,25,-1
+ 450 900 l 1,18,-1
+250 900 m 1,26,-1
+ 250 800 l 1,27,-1
+ 150 800 l 1,28,-1
+ 150 900 l 1,29,-1
+ 250 900 l 1,26,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: Ntilde
+Encoding: 209 209 138
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 400 100<250 350> 500 100<150 250> 680 20G<50 150 450 550> 800 100<150 250 350 450> 900 100<250 350 450 550>
+VStem: 50 100<0 500 600 700> 150 100<800 900> 250 100<400 500 900 1000> 350 100<800 900> 450 100<0 300 400 700 900 1000>
+LayerCount: 2
+Fore
+SplineSet
+550 0 m 1,0,-1
+ 450 0 l 1,1,-1
+ 450 300 l 1,2,-1
+ 350 300 l 1,3,-1
+ 350 400 l 1,4,-1
+ 450 400 l 1,5,-1
+ 450 700 l 1,6,-1
+ 550 700 l 1,7,-1
+ 550 0 l 1,0,-1
+150 600 m 1,8,-1
+ 250 600 l 1,9,-1
+ 250 500 l 1,10,-1
+ 150 500 l 1,11,-1
+ 150 0 l 1,12,-1
+ 50 0 l 1,13,-1
+ 50 700 l 1,14,-1
+ 150 700 l 1,15,-1
+ 150 600 l 1,8,-1
+550 1000 m 1,16,-1
+ 550 900 l 1,17,-1
+ 450 900 l 1,18,-1
+ 450 1000 l 1,19,-1
+ 550 1000 l 1,16,-1
+350 400 m 1,20,-1
+ 250 400 l 1,21,-1
+ 250 500 l 1,22,-1
+ 350 500 l 1,23,-1
+ 350 400 l 1,20,-1
+450 900 m 1,24,-1
+ 450 800 l 1,25,-1
+ 350 800 l 1,26,-1
+ 350 900 l 1,27,-1
+ 250 900 l 1,28,-1
+ 250 1000 l 1,29,-1
+ 350 1000 l 1,30,-1
+ 350 900 l 1,31,-1
+ 450 900 l 1,24,-1
+250 900 m 1,32,-1
+ 250 800 l 1,33,-1
+ 150 800 l 1,34,-1
+ 150 900 l 1,35,-1
+ 250 900 l 1,32,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: Otilde
+Encoding: 213 213 139
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 600 100<150 450> 800 100<150 250 350 450> 900 100<250 350 450 550>
+VStem: 50 100<100 600> 150 100<800 900> 250 100<900 1000> 350 100<800 900> 450 100<100 600 900 1000>
+LayerCount: 2
+Fore
+SplineSet
+550 1000 m 1,0,-1
+ 550 900 l 1,1,-1
+ 450 900 l 1,2,-1
+ 450 1000 l 1,3,-1
+ 550 1000 l 1,0,-1
+450 900 m 1,4,-1
+ 450 800 l 1,5,-1
+ 350 800 l 1,6,-1
+ 350 900 l 1,7,-1
+ 250 900 l 1,8,-1
+ 250 1000 l 1,9,-1
+ 350 1000 l 1,10,-1
+ 350 900 l 1,11,-1
+ 450 900 l 1,4,-1
+250 900 m 1,12,-1
+ 250 800 l 1,13,-1
+ 150 800 l 1,14,-1
+ 150 900 l 1,15,-1
+ 250 900 l 1,12,-1
+150 100 m 1,16,-1
+ 450 100 l 1,17,-1
+ 450 0 l 1,18,-1
+ 150 0 l 1,19,-1
+ 150 100 l 1,16,-1
+150 100 m 1,20,-1
+ 50 100 l 1,21,-1
+ 50 600 l 1,22,-1
+ 150 600 l 1,23,-1
+ 150 100 l 1,20,-1
+150 600 m 1,24,-1
+ 150 700 l 1,25,-1
+ 450 700 l 1,26,-1
+ 450 600 l 1,27,-1
+ 150 600 l 1,24,-1
+450 100 m 1,28,-1
+ 450 600 l 1,29,-1
+ 550 600 l 1,30,-1
+ 550 100 l 1,31,-1
+ 450 100 l 1,28,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: Egrave
+Encoding: 200 200 140
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 300 100<150 450> 600 100<150 550> 800 100<250 350> 900 100<150 250>
+VStem: 50 100<100 300 400 600> 150 100<900 1000> 250 100<800 900>
+LayerCount: 2
+Fore
+SplineSet
+350 900 m 1,0,-1
+ 350 800 l 1,1,-1
+ 250 800 l 1,2,-1
+ 250 900 l 1,3,-1
+ 350 900 l 1,0,-1
+150 100 m 1,4,-1
+ 550 100 l 1,5,-1
+ 550 0 l 1,6,-1
+ 50 0 l 1,7,-1
+ 50 700 l 1,8,-1
+ 550 700 l 1,9,-1
+ 550 600 l 1,10,-1
+ 150 600 l 1,11,-1
+ 150 400 l 1,12,-1
+ 450 400 l 1,13,-1
+ 450 300 l 1,14,-1
+ 150 300 l 1,15,-1
+ 150 100 l 1,4,-1
+250 900 m 1,16,-1
+ 150 900 l 1,17,-1
+ 150 1000 l 1,18,-1
+ 250 1000 l 1,19,-1
+ 250 900 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: Igrave
+Encoding: 204 204 141
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 600 100<50 150 250 350> 800 100<150 250> 900 100<50 150>
+VStem: 50 300<0 100 600 700> 50 100<900 1000> 150 100<100 600 800 900>
+LayerCount: 2
+Fore
+SplineSet
+250 100 m 1,0,-1
+ 350 100 l 1,1,-1
+ 350 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 100 l 1,4,-1
+ 150 100 l 1,5,-1
+ 150 600 l 1,6,-1
+ 50 600 l 1,7,-1
+ 50 700 l 1,8,-1
+ 350 700 l 1,9,-1
+ 350 600 l 1,10,-1
+ 250 600 l 1,11,-1
+ 250 100 l 1,0,-1
+250 900 m 1,12,-1
+ 250 800 l 1,13,-1
+ 150 800 l 1,14,-1
+ 150 900 l 1,15,-1
+ 250 900 l 1,12,-1
+150 900 m 1,16,-1
+ 50 900 l 1,17,-1
+ 50 1000 l 1,18,-1
+ 150 1000 l 1,19,-1
+ 150 900 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: Ograve
+Encoding: 210 210 142
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 600 100<150 450> 800 100<250 350> 900 100<150 250>
+VStem: 50 100<100 600> 150 300<0 100 600 700> 150 100<900 1000> 250 100<800 900> 450 100<100 600>
+LayerCount: 2
+Fore
+SplineSet
+350 900 m 1,0,-1
+ 350 800 l 1,1,-1
+ 250 800 l 1,2,-1
+ 250 900 l 1,3,-1
+ 350 900 l 1,0,-1
+250 900 m 1,4,-1
+ 150 900 l 1,5,-1
+ 150 1000 l 1,6,-1
+ 250 1000 l 1,7,-1
+ 250 900 l 1,4,-1
+150 100 m 1,8,-1
+ 450 100 l 1,9,-1
+ 450 0 l 1,10,-1
+ 150 0 l 1,11,-1
+ 150 100 l 1,8,-1
+150 100 m 1,12,-1
+ 50 100 l 1,13,-1
+ 50 600 l 1,14,-1
+ 150 600 l 1,15,-1
+ 150 100 l 1,12,-1
+150 600 m 1,16,-1
+ 150 700 l 1,17,-1
+ 450 700 l 1,18,-1
+ 450 600 l 1,19,-1
+ 150 600 l 1,16,-1
+450 100 m 1,20,-1
+ 450 600 l 1,21,-1
+ 550 600 l 1,22,-1
+ 550 100 l 1,23,-1
+ 450 100 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: Ugrave
+Encoding: 217 217 143
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 680 20G<50 150 450 550> 800 100<250 350> 900 100<150 250>
+VStem: 50 100<100 700> 150 100<900 1000> 250 100<800 900> 450 100<100 700>
+LayerCount: 2
+Fore
+SplineSet
+350 900 m 1,0,-1
+ 350 800 l 1,1,-1
+ 250 800 l 1,2,-1
+ 250 900 l 1,3,-1
+ 350 900 l 1,0,-1
+250 900 m 1,4,-1
+ 150 900 l 1,5,-1
+ 150 1000 l 1,6,-1
+ 250 1000 l 1,7,-1
+ 250 900 l 1,4,-1
+450 100 m 1,8,-1
+ 450 0 l 1,9,-1
+ 150 0 l 1,10,-1
+ 150 100 l 1,11,-1
+ 450 100 l 1,8,-1
+450 100 m 1,12,-1
+ 450 700 l 1,13,-1
+ 550 700 l 1,14,-1
+ 550 100 l 1,15,-1
+ 450 100 l 1,12,-1
+150 100 m 1,16,-1
+ 50 100 l 1,17,-1
+ 50 700 l 1,18,-1
+ 150 700 l 1,19,-1
+ 150 100 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: Eacute
+Encoding: 201 201 144
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 300 100<150 450> 600 100<150 550> 800 100<250 350> 900 100<350 450>
+VStem: 50 100<100 300 400 600> 250 100<800 900> 350 100<900 1000>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 550 100 l 1,1,-1
+ 550 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 700 l 1,4,-1
+ 550 700 l 1,5,-1
+ 550 600 l 1,6,-1
+ 150 600 l 1,7,-1
+ 150 400 l 1,8,-1
+ 450 400 l 1,9,-1
+ 450 300 l 1,10,-1
+ 150 300 l 1,11,-1
+ 150 100 l 1,0,-1
+350 900 m 1,12,-1
+ 350 1000 l 1,13,-1
+ 450 1000 l 1,14,-1
+ 450 900 l 1,15,-1
+ 350 900 l 1,12,-1
+350 900 m 1,16,-1
+ 350 800 l 1,17,-1
+ 250 800 l 1,18,-1
+ 250 900 l 1,19,-1
+ 350 900 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: Iacute
+Encoding: 205 205 145
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 600 100<50 150 250 350> 800 100<150 250> 900 100<250 350>
+VStem: 50 300<0 100 600 700> 150 100<100 600 800 900> 250 100<900 1000>
+LayerCount: 2
+Fore
+SplineSet
+250 100 m 1,0,-1
+ 350 100 l 1,1,-1
+ 350 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 100 l 1,4,-1
+ 150 100 l 1,5,-1
+ 150 600 l 1,6,-1
+ 50 600 l 1,7,-1
+ 50 700 l 1,8,-1
+ 350 700 l 1,9,-1
+ 350 600 l 1,10,-1
+ 250 600 l 1,11,-1
+ 250 100 l 1,0,-1
+250 900 m 1,12,-1
+ 250 1000 l 1,13,-1
+ 350 1000 l 1,14,-1
+ 350 900 l 1,15,-1
+ 250 900 l 1,12,-1
+250 900 m 1,16,-1
+ 250 800 l 1,17,-1
+ 150 800 l 1,18,-1
+ 150 900 l 1,19,-1
+ 250 900 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: Oacute
+Encoding: 211 211 146
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 600 100<150 450> 800 100<250 350> 900 100<350 450>
+VStem: 50 100<100 600> 150 300<0 100 600 700> 250 100<800 900> 350 100<900 1000> 450 100<100 600>
+LayerCount: 2
+Fore
+SplineSet
+350 900 m 1,0,-1
+ 350 1000 l 1,1,-1
+ 450 1000 l 1,2,-1
+ 450 900 l 1,3,-1
+ 350 900 l 1,0,-1
+350 900 m 1,4,-1
+ 350 800 l 1,5,-1
+ 250 800 l 1,6,-1
+ 250 900 l 1,7,-1
+ 350 900 l 1,4,-1
+150 100 m 1,8,-1
+ 450 100 l 1,9,-1
+ 450 0 l 1,10,-1
+ 150 0 l 1,11,-1
+ 150 100 l 1,8,-1
+150 100 m 1,12,-1
+ 50 100 l 1,13,-1
+ 50 600 l 1,14,-1
+ 150 600 l 1,15,-1
+ 150 100 l 1,12,-1
+150 600 m 1,16,-1
+ 150 700 l 1,17,-1
+ 450 700 l 1,18,-1
+ 450 600 l 1,19,-1
+ 150 600 l 1,16,-1
+450 100 m 1,20,-1
+ 450 600 l 1,21,-1
+ 550 600 l 1,22,-1
+ 550 100 l 1,23,-1
+ 450 100 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: Uacute
+Encoding: 218 218 147
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 680 20G<50 150 450 550> 800 100<250 350> 900 100<350 450>
+VStem: 50 100<100 700> 250 100<800 900> 350 100<900 1000> 450 100<100 700>
+LayerCount: 2
+Fore
+SplineSet
+350 900 m 1,0,-1
+ 350 1000 l 1,1,-1
+ 450 1000 l 1,2,-1
+ 450 900 l 1,3,-1
+ 350 900 l 1,0,-1
+350 900 m 1,4,-1
+ 350 800 l 1,5,-1
+ 250 800 l 1,6,-1
+ 250 900 l 1,7,-1
+ 350 900 l 1,4,-1
+450 100 m 1,8,-1
+ 450 0 l 1,9,-1
+ 150 0 l 1,10,-1
+ 150 100 l 1,11,-1
+ 450 100 l 1,8,-1
+450 100 m 1,12,-1
+ 450 700 l 1,13,-1
+ 550 700 l 1,14,-1
+ 550 100 l 1,15,-1
+ 450 100 l 1,12,-1
+150 100 m 1,16,-1
+ 50 100 l 1,17,-1
+ 50 700 l 1,18,-1
+ 150 700 l 1,19,-1
+ 150 100 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: Yacute
+Encoding: 221 221 148
+Width: 600
+Flags: W
+HStem: 0 21G<250 350> 300 100<150 250 350 450> 400 300<50 150 450 550> 800 100<250 350> 900 100<350 450>
+VStem: 50 100<400 700> 150 100<300 400> 250 100<0 300 800 900> 350 100<300 400 900 1000> 450 100<400 700>
+LayerCount: 2
+Fore
+SplineSet
+150 400 m 1,0,-1
+ 250 400 l 1,1,-1
+ 250 300 l 1,2,-1
+ 350 300 l 1,3,-1
+ 350 0 l 1,4,-1
+ 250 0 l 1,5,-1
+ 250 300 l 1,6,-1
+ 150 300 l 1,7,-1
+ 150 400 l 1,0,-1
+150 400 m 1,8,-1
+ 50 400 l 1,9,-1
+ 50 700 l 1,10,-1
+ 150 700 l 1,11,-1
+ 150 400 l 1,8,-1
+350 300 m 1,12,-1
+ 350 400 l 1,13,-1
+ 450 400 l 1,14,-1
+ 450 300 l 1,15,-1
+ 350 300 l 1,12,-1
+450 400 m 1,16,-1
+ 450 700 l 1,17,-1
+ 550 700 l 1,18,-1
+ 550 400 l 1,19,-1
+ 450 400 l 1,16,-1
+350 900 m 1,20,-1
+ 350 1000 l 1,21,-1
+ 450 1000 l 1,22,-1
+ 450 900 l 1,23,-1
+ 350 900 l 1,20,-1
+350 900 m 1,24,-1
+ 350 800 l 1,25,-1
+ 250 800 l 1,26,-1
+ 250 900 l 1,27,-1
+ 350 900 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 42 -100 "keming" 74 -100 "keming" 189 -100 "keming"
+EndChar
+
+StartChar: edieresis
+Encoding: 235 235 149
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 200 100<150 450> 400 100<150 450> 600 100<150 250 350 450>
+VStem: 50 100<100 200 300 400> 150 100<600 700> 350 100<600 700> 450 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+250 700 m 1,0,-1
+ 250 600 l 1,1,-1
+ 150 600 l 1,2,-1
+ 150 700 l 1,3,-1
+ 250 700 l 1,0,-1
+450 700 m 1,4,-1
+ 450 600 l 1,5,-1
+ 350 600 l 1,6,-1
+ 350 700 l 1,7,-1
+ 450 700 l 1,4,-1
+150 100 m 1,8,-1
+ 550 100 l 1,9,-1
+ 550 0 l 1,10,-1
+ 150 0 l 1,11,-1
+ 150 100 l 1,8,-1
+150 100 m 1,12,-1
+ 50 100 l 1,13,-1
+ 50 400 l 1,14,-1
+ 150 400 l 1,15,-1
+ 150 500 l 1,16,-1
+ 450 500 l 1,17,-1
+ 450 400 l 1,18,-1
+ 150 400 l 1,19,-1
+ 150 300 l 1,20,-1
+ 450 300 l 1,21,-1
+ 450 400 l 1,22,-1
+ 550 400 l 1,23,-1
+ 550 200 l 1,24,-1
+ 150 200 l 1,25,-1
+ 150 100 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: idieresis
+Encoding: 239 239 150
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 400 100<50 150> 600 100<50 150 250 350>
+VStem: 50 100<600 700> 150 100<100 400> 250 100<600 700>
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 1,0,-1
+ 50 100 l 1,1,-1
+ 150 100 l 1,2,-1
+ 150 400 l 1,3,-1
+ 50 400 l 1,4,-1
+ 50 500 l 1,5,-1
+ 250 500 l 1,6,-1
+ 250 100 l 1,7,-1
+ 350 100 l 1,8,-1
+ 350 0 l 1,9,-1
+ 50 0 l 1,0,-1
+150 700 m 1,10,-1
+ 150 600 l 1,11,-1
+ 50 600 l 1,12,-1
+ 50 700 l 1,13,-1
+ 150 700 l 1,10,-1
+350 700 m 1,14,-1
+ 350 600 l 1,15,-1
+ 250 600 l 1,16,-1
+ 250 700 l 1,17,-1
+ 350 700 l 1,14,-1
+EndSplineSet
+Validated: 8388609
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: ydieresis
+Encoding: 255 255 151
+Width: 600
+Flags: W
+HStem: -100 100<50 450> 0 21G<450 550> 100 100<150 450> 480 20G<50 150 450 550> 600 100<150 250 350 450>
+VStem: 50 100<200 500> 150 100<600 700> 350 100<600 700> 450 100<0 100 200 500>
+LayerCount: 2
+Fore
+SplineSet
+50 500 m 1,0,-1
+ 150 500 l 1,1,-1
+ 150 200 l 1,2,-1
+ 450 200 l 1,3,-1
+ 450 500 l 1,4,-1
+ 550 500 l 1,5,-1
+ 550 0 l 1,6,-1
+ 450 0 l 1,7,-1
+ 450 -100 l 1,8,-1
+ 50 -100 l 1,9,-1
+ 50 0 l 1,10,-1
+ 450 0 l 1,11,-1
+ 450 100 l 1,12,-1
+ 150 100 l 1,13,-1
+ 150 200 l 1,14,-1
+ 50 200 l 1,15,-1
+ 50 500 l 1,0,-1
+250 700 m 1,16,-1
+ 250 600 l 1,17,-1
+ 150 600 l 1,18,-1
+ 150 700 l 1,19,-1
+ 250 700 l 1,16,-1
+450 700 m 1,20,-1
+ 450 600 l 1,21,-1
+ 350 600 l 1,22,-1
+ 350 700 l 1,23,-1
+ 450 700 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming"
+EndChar
+
+StartChar: Edieresis
+Encoding: 203 203 152
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 300 100<150 450> 600 100<150 550> 800 100<150 250 350 450>
+VStem: 50 100<100 300 400 600> 150 100<800 900> 350 100<800 900>
+LayerCount: 2
+Fore
+SplineSet
+250 900 m 1,0,-1
+ 250 800 l 1,1,-1
+ 150 800 l 1,2,-1
+ 150 900 l 1,3,-1
+ 250 900 l 1,0,-1
+450 900 m 1,4,-1
+ 450 800 l 1,5,-1
+ 350 800 l 1,6,-1
+ 350 900 l 1,7,-1
+ 450 900 l 1,4,-1
+150 100 m 1,8,-1
+ 550 100 l 1,9,-1
+ 550 0 l 1,10,-1
+ 50 0 l 1,11,-1
+ 50 700 l 1,12,-1
+ 550 700 l 1,13,-1
+ 550 600 l 1,14,-1
+ 150 600 l 1,15,-1
+ 150 400 l 1,16,-1
+ 450 400 l 1,17,-1
+ 450 300 l 1,18,-1
+ 150 300 l 1,19,-1
+ 150 100 l 1,8,-1
+EndSplineSet
+Validated: 8388609
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: Idieresis
+Encoding: 207 207 153
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 600 100<50 150 250 350> 800 100<50 150 250 350>
+VStem: 50 100<800 900> 250 100<800 900>
+LayerCount: 2
+Fore
+SplineSet
+250 100 m 1,0,-1
+ 350 100 l 1,1,-1
+ 350 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 100 l 1,4,-1
+ 150 100 l 1,5,-1
+ 150 600 l 1,6,-1
+ 50 600 l 1,7,-1
+ 50 700 l 1,8,-1
+ 350 700 l 1,9,-1
+ 350 600 l 1,10,-1
+ 250 600 l 1,11,-1
+ 250 100 l 1,0,-1
+150 900 m 1,12,-1
+ 150 800 l 1,13,-1
+ 50 800 l 1,14,-1
+ 50 900 l 1,15,-1
+ 150 900 l 1,12,-1
+350 900 m 1,16,-1
+ 350 800 l 1,17,-1
+ 250 800 l 1,18,-1
+ 250 900 l 1,19,-1
+ 350 900 l 1,16,-1
+EndSplineSet
+Validated: 1
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: Icircumflex
+Encoding: 206 206 154
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 600 100<50 150 250 350> 800 100<50 150 250 350> 900 100<150 250>
+VStem: 50 100<800 900> 150 100<100 600 900 1000> 250 100<800 900>
+LayerCount: 2
+Fore
+SplineSet
+250 100 m 1,0,-1
+ 350 100 l 1,1,-1
+ 350 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 100 l 1,4,-1
+ 150 100 l 1,5,-1
+ 150 600 l 1,6,-1
+ 50 600 l 1,7,-1
+ 50 700 l 1,8,-1
+ 350 700 l 1,9,-1
+ 350 600 l 1,10,-1
+ 250 600 l 1,11,-1
+ 250 100 l 1,0,-1
+250 900 m 1,12,-1
+ 150 900 l 1,13,-1
+ 150 1000 l 1,14,-1
+ 250 1000 l 1,15,-1
+ 250 900 l 1,12,-1
+250 900 m 1,16,-1
+ 350 900 l 1,17,-1
+ 350 800 l 1,18,-1
+ 250 800 l 1,19,-1
+ 250 900 l 1,16,-1
+150 900 m 1,20,-1
+ 150 800 l 1,21,-1
+ 50 800 l 1,22,-1
+ 50 900 l 1,23,-1
+ 150 900 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: Ecircumflex
+Encoding: 202 202 155
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 300 100<150 450> 600 100<150 550> 800 100<150 250 350 450> 900 100<250 350>
+VStem: 50 100<100 300 400 600> 150 100<800 900> 250 100<900 1000> 350 100<800 900>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 550 100 l 1,1,-1
+ 550 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 700 l 1,4,-1
+ 550 700 l 1,5,-1
+ 550 600 l 1,6,-1
+ 150 600 l 1,7,-1
+ 150 400 l 1,8,-1
+ 450 400 l 1,9,-1
+ 450 300 l 1,10,-1
+ 150 300 l 1,11,-1
+ 150 100 l 1,0,-1
+350 900 m 1,12,-1
+ 250 900 l 1,13,-1
+ 250 1000 l 1,14,-1
+ 350 1000 l 1,15,-1
+ 350 900 l 1,12,-1
+350 900 m 1,16,-1
+ 450 900 l 1,17,-1
+ 450 800 l 1,18,-1
+ 350 800 l 1,19,-1
+ 350 900 l 1,16,-1
+250 900 m 1,20,-1
+ 250 800 l 1,21,-1
+ 150 800 l 1,22,-1
+ 150 900 l 1,23,-1
+ 250 900 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: Ocircumflex
+Encoding: 212 212 156
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 600 100<150 450> 800 100<150 250 350 450> 900 100<250 350>
+VStem: 50 100<100 600> 150 100<800 900> 250 100<900 1000> 350 100<800 900> 450 100<100 600>
+LayerCount: 2
+Fore
+SplineSet
+350 900 m 1,0,-1
+ 250 900 l 1,1,-1
+ 250 1000 l 1,2,-1
+ 350 1000 l 1,3,-1
+ 350 900 l 1,0,-1
+350 900 m 1,4,-1
+ 450 900 l 1,5,-1
+ 450 800 l 1,6,-1
+ 350 800 l 1,7,-1
+ 350 900 l 1,4,-1
+250 900 m 1,8,-1
+ 250 800 l 1,9,-1
+ 150 800 l 1,10,-1
+ 150 900 l 1,11,-1
+ 250 900 l 1,8,-1
+150 100 m 1,12,-1
+ 450 100 l 1,13,-1
+ 450 0 l 1,14,-1
+ 150 0 l 1,15,-1
+ 150 100 l 1,12,-1
+150 100 m 1,16,-1
+ 50 100 l 1,17,-1
+ 50 600 l 1,18,-1
+ 150 600 l 1,19,-1
+ 150 100 l 1,16,-1
+150 600 m 1,20,-1
+ 150 700 l 1,21,-1
+ 450 700 l 1,22,-1
+ 450 600 l 1,23,-1
+ 150 600 l 1,20,-1
+450 100 m 1,24,-1
+ 450 600 l 1,25,-1
+ 550 600 l 1,26,-1
+ 550 100 l 1,27,-1
+ 450 100 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: Ucircumflex
+Encoding: 219 219 157
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 680 20G<50 150 450 550> 800 100<150 250 350 450> 900 100<250 350>
+VStem: 50 100<100 700> 150 100<800 900> 250 100<900 1000> 350 100<800 900> 450 100<100 700>
+LayerCount: 2
+Fore
+SplineSet
+350 900 m 1,0,-1
+ 250 900 l 1,1,-1
+ 250 1000 l 1,2,-1
+ 350 1000 l 1,3,-1
+ 350 900 l 1,0,-1
+350 900 m 1,4,-1
+ 450 900 l 1,5,-1
+ 450 800 l 1,6,-1
+ 350 800 l 1,7,-1
+ 350 900 l 1,4,-1
+250 900 m 1,8,-1
+ 250 800 l 1,9,-1
+ 150 800 l 1,10,-1
+ 150 900 l 1,11,-1
+ 250 900 l 1,8,-1
+450 100 m 1,12,-1
+ 450 0 l 1,13,-1
+ 150 0 l 1,14,-1
+ 150 100 l 1,15,-1
+ 450 100 l 1,12,-1
+450 100 m 1,16,-1
+ 450 700 l 1,17,-1
+ 550 700 l 1,18,-1
+ 550 100 l 1,19,-1
+ 450 100 l 1,16,-1
+150 100 m 1,20,-1
+ 50 100 l 1,21,-1
+ 50 700 l 1,22,-1
+ 150 700 l 1,23,-1
+ 150 100 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: acircumflex
+Encoding: 226 226 158
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 400 100<150 450> 600 100<150 250 350 450> 700 100<250 350>
+VStem: 50 100<100 400> 150 100<600 700> 250 100<700 800> 350 100<600 700> 450 100<0 100 200 400>
+LayerCount: 2
+Fore
+SplineSet
+350 0 m 1,0,-1
+ 150 0 l 1,1,-1
+ 150 100 l 1,2,-1
+ 50 100 l 1,3,-1
+ 50 400 l 1,4,-1
+ 150 400 l 1,5,-1
+ 150 100 l 1,6,-1
+ 350 100 l 1,7,-1
+ 350 200 l 1,8,-1
+ 450 200 l 1,9,-1
+ 450 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 500 l 1,12,-1
+ 450 500 l 1,13,-1
+ 450 400 l 1,14,-1
+ 550 400 l 1,15,-1
+ 550 0 l 1,16,-1
+ 450 0 l 1,17,-1
+ 450 100 l 1,18,-1
+ 350 100 l 1,19,-1
+ 350 0 l 1,0,-1
+350 700 m 1,20,-1
+ 250 700 l 1,21,-1
+ 250 800 l 1,22,-1
+ 350 800 l 1,23,-1
+ 350 700 l 1,20,-1
+350 700 m 1,24,-1
+ 450 700 l 1,25,-1
+ 450 600 l 1,26,-1
+ 350 600 l 1,27,-1
+ 350 700 l 1,24,-1
+250 700 m 1,28,-1
+ 250 600 l 1,29,-1
+ 150 600 l 1,30,-1
+ 150 700 l 1,31,-1
+ 250 700 l 1,28,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: ecircumflex
+Encoding: 234 234 159
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 200 100<150 450> 400 100<150 450> 600 100<150 250 350 450> 700 100<250 350>
+VStem: 50 100<100 200 300 400> 150 100<600 700> 250 100<700 800> 350 100<600 700> 450 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+350 700 m 1,0,-1
+ 250 700 l 1,1,-1
+ 250 800 l 1,2,-1
+ 350 800 l 1,3,-1
+ 350 700 l 1,0,-1
+350 700 m 1,4,-1
+ 450 700 l 1,5,-1
+ 450 600 l 1,6,-1
+ 350 600 l 1,7,-1
+ 350 700 l 1,4,-1
+250 700 m 1,8,-1
+ 250 600 l 1,9,-1
+ 150 600 l 1,10,-1
+ 150 700 l 1,11,-1
+ 250 700 l 1,8,-1
+150 100 m 1,12,-1
+ 550 100 l 1,13,-1
+ 550 0 l 1,14,-1
+ 150 0 l 1,15,-1
+ 150 100 l 1,12,-1
+150 100 m 1,16,-1
+ 50 100 l 1,17,-1
+ 50 400 l 1,18,-1
+ 150 400 l 1,19,-1
+ 150 500 l 1,20,-1
+ 450 500 l 1,21,-1
+ 450 400 l 1,22,-1
+ 150 400 l 1,23,-1
+ 150 300 l 1,24,-1
+ 450 300 l 1,25,-1
+ 450 400 l 1,26,-1
+ 550 400 l 1,27,-1
+ 550 200 l 1,28,-1
+ 150 200 l 1,29,-1
+ 150 100 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: Ccedilla
+Encoding: 199 199 160
+Width: 600
+Flags: W
+HStem: -200 100<150 250> -100 21G<250 350> 0 100<150 250 350 450> 100 100<450 550> 500 100<450 550> 600 100<150 450>
+VStem: 50 100<100 600> 150 300<0 100 600 700> 150 100<-200 -100> 450 100<100 200 500 600>
+LayerCount: 2
+Fore
+SplineSet
+550 600 m 1,0,-1
+ 550 500 l 1,1,-1
+ 450 500 l 1,2,-1
+ 450 600 l 1,3,-1
+ 150 600 l 1,4,-1
+ 150 700 l 1,5,-1
+ 450 700 l 1,6,-1
+ 450 600 l 1,7,-1
+ 550 600 l 1,0,-1
+550 200 m 1,8,-1
+ 550 100 l 1,9,-1
+ 450 100 l 1,10,-1
+ 450 200 l 1,11,-1
+ 550 200 l 1,8,-1
+150 600 m 1,12,-1
+ 150 100 l 1,13,-1
+ 50 100 l 1,14,-1
+ 50 600 l 1,15,-1
+ 150 600 l 1,12,-1
+150 100 m 1,16,-1
+ 450 100 l 1,17,-1
+ 450 0 l 1,18,-1
+ 350 0 l 1,19,-1
+ 350 -100 l 1,20,-1
+ 250 -100 l 1,21,-1
+ 250 -200 l 1,22,-1
+ 150 -200 l 1,23,-1
+ 150 -100 l 1,24,-1
+ 250 -100 l 1,25,-1
+ 250 0 l 1,26,-1
+ 150 0 l 1,27,-1
+ 150 100 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 161
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 300 100<150 450> 600 100<150 250 350 450> 800 100<150 250 350 450> 900 100<250 350>
+VStem: 50 100<0 300 400 600> 150 100<800 900> 250 100<700 800 900 1000> 350 100<800 900> 450 100<0 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+150 300 m 1,0,-1
+ 150 0 l 1,1,-1
+ 50 0 l 1,2,-1
+ 50 600 l 1,3,-1
+ 150 600 l 1,4,-1
+ 150 700 l 1,5,-1
+ 250 700 l 1,6,-1
+ 250 800 l 1,7,-1
+ 150 800 l 1,8,-1
+ 150 900 l 1,9,-1
+ 250 900 l 1,10,-1
+ 250 800 l 1,11,-1
+ 350 800 l 1,12,-1
+ 350 900 l 1,13,-1
+ 450 900 l 1,14,-1
+ 450 800 l 1,15,-1
+ 350 800 l 1,16,-1
+ 350 700 l 1,17,-1
+ 550 700 l 1,18,-1
+ 550 0 l 1,19,-1
+ 450 0 l 1,20,-1
+ 450 300 l 1,21,-1
+ 150 300 l 1,0,-1
+250 900 m 1,22,-1
+ 250 1000 l 1,23,-1
+ 350 1000 l 1,24,-1
+ 350 900 l 1,25,-1
+ 250 900 l 1,22,-1
+150 600 m 1,26,-1
+ 150 400 l 1,27,-1
+ 450 400 l 1,28,-1
+ 450 600 l 1,29,-1
+ 150 600 l 1,26,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: Eth
+Encoding: 208 208 162
+Width: 700
+Flags: W
+HStem: 0 100<250 550> 300 100<50 150 250 450> 600 100<250 550>
+VStem: 150 100<100 300 400 600> 550 100<100 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+50 300 m 1,0,-1
+ 50 400 l 1,1,-1
+ 150 400 l 1,2,-1
+ 150 700 l 1,3,-1
+ 550 700 l 1,4,-1
+ 550 600 l 1,5,-1
+ 650 600 l 1,6,-1
+ 650 100 l 1,7,-1
+ 550 100 l 1,8,-1
+ 550 600 l 1,9,-1
+ 250 600 l 1,10,-1
+ 250 400 l 1,11,-1
+ 450 400 l 1,12,-1
+ 450 300 l 1,13,-1
+ 250 300 l 1,14,-1
+ 250 100 l 1,15,-1
+ 550 100 l 1,16,-1
+ 550 0 l 1,17,-1
+ 150 0 l 1,18,-1
+ 150 300 l 1,19,-1
+ 50 300 l 1,0,-1
+EndSplineSet
+Validated: 5
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 163
+Width: 600
+Flags: W
+HStem: 100 100<50 150 450 550> 200 100<150 250 350 450> 300 100<250 350> 400 100<150 250 350 450> 500 100<50 150 450 550>
+VStem: 50 100<100 200 500 600> 150 100<200 300 400 500> 250 100<300 400> 350 100<200 300 400 500> 450 100<100 200 500 600>
+LayerCount: 2
+Fore
+SplineSet
+450 500 m 1,0,-1
+ 450 400 l 1,1,-1
+ 350 400 l 1,2,-1
+ 350 500 l 1,3,-1
+ 450 500 l 1,0,-1
+450 500 m 1,4,-1
+ 450 600 l 1,5,-1
+ 550 600 l 1,6,-1
+ 550 500 l 1,7,-1
+ 450 500 l 1,4,-1
+150 500 m 1,8,-1
+ 250 500 l 1,9,-1
+ 250 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 500 l 1,8,-1
+150 500 m 1,12,-1
+ 50 500 l 1,13,-1
+ 50 600 l 1,14,-1
+ 150 600 l 1,15,-1
+ 150 500 l 1,12,-1
+150 200 m 1,16,-1
+ 150 300 l 1,17,-1
+ 250 300 l 1,18,-1
+ 250 200 l 1,19,-1
+ 150 200 l 1,16,-1
+150 200 m 1,20,-1
+ 150 100 l 1,21,-1
+ 50 100 l 1,22,-1
+ 50 200 l 1,23,-1
+ 150 200 l 1,20,-1
+250 300 m 1,24,-1
+ 250 400 l 1,25,-1
+ 350 400 l 1,26,-1
+ 350 300 l 1,27,-1
+ 250 300 l 1,24,-1
+450 200 m 1,28,-1
+ 550 200 l 1,29,-1
+ 550 100 l 1,30,-1
+ 450 100 l 1,31,-1
+ 450 200 l 1,28,-1
+450 200 m 1,32,-1
+ 350 200 l 1,33,-1
+ 350 300 l 1,34,-1
+ 450 300 l 1,35,-1
+ 450 200 l 1,32,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 91 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 190 -100 "keming" 196 -100 "keming" 205 -100 "keming" 206 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: egrave
+Encoding: 232 232 164
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 200 100<150 450> 400 100<150 450> 600 100<250 350> 700 100<150 250>
+VStem: 50 100<100 200 300 400> 150 100<700 800> 250 100<600 700> 450 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+150 700 m 1,0,-1
+ 150 800 l 1,1,-1
+ 250 800 l 1,2,-1
+ 250 700 l 1,3,-1
+ 150 700 l 1,0,-1
+250 700 m 1,4,-1
+ 350 700 l 1,5,-1
+ 350 600 l 1,6,-1
+ 250 600 l 1,7,-1
+ 250 700 l 1,4,-1
+150 100 m 1,8,-1
+ 550 100 l 1,9,-1
+ 550 0 l 1,10,-1
+ 150 0 l 1,11,-1
+ 150 100 l 1,8,-1
+150 100 m 1,12,-1
+ 50 100 l 1,13,-1
+ 50 400 l 1,14,-1
+ 150 400 l 1,15,-1
+ 150 500 l 1,16,-1
+ 450 500 l 1,17,-1
+ 450 400 l 1,18,-1
+ 150 400 l 1,19,-1
+ 150 300 l 1,20,-1
+ 450 300 l 1,21,-1
+ 450 400 l 1,22,-1
+ 550 400 l 1,23,-1
+ 550 200 l 1,24,-1
+ 150 200 l 1,25,-1
+ 150 100 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: eacute
+Encoding: 233 233 165
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 200 100<150 450> 400 100<150 450> 600 100<250 350> 700 100<350 450>
+VStem: 50 100<100 200 300 400> 250 100<600 700> 350 100<700 800> 450 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+350 700 m 1,0,-1
+ 350 800 l 1,1,-1
+ 450 800 l 1,2,-1
+ 450 700 l 1,3,-1
+ 350 700 l 1,0,-1
+350 700 m 1,4,-1
+ 350 600 l 1,5,-1
+ 250 600 l 1,6,-1
+ 250 700 l 1,7,-1
+ 350 700 l 1,4,-1
+150 100 m 1,8,-1
+ 550 100 l 1,9,-1
+ 550 0 l 1,10,-1
+ 150 0 l 1,11,-1
+ 150 100 l 1,8,-1
+150 100 m 1,12,-1
+ 50 100 l 1,13,-1
+ 50 400 l 1,14,-1
+ 150 400 l 1,15,-1
+ 150 500 l 1,16,-1
+ 450 500 l 1,17,-1
+ 450 400 l 1,18,-1
+ 150 400 l 1,19,-1
+ 150 300 l 1,20,-1
+ 450 300 l 1,21,-1
+ 450 400 l 1,22,-1
+ 550 400 l 1,23,-1
+ 550 200 l 1,24,-1
+ 150 200 l 1,25,-1
+ 150 100 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: AE
+Encoding: 198 198 166
+Width: 800
+Flags: W
+HStem: 0 100<450 750> 300 100<150 350 450 650> 600 100<150 350 450 750>
+VStem: 50 100<0 300 400 600> 350 100<100 300 400 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+150 600 m 1,0,-1
+ 150 700 l 1,1,-1
+ 750 700 l 1,2,-1
+ 750 600 l 1,3,-1
+ 450 600 l 1,4,-1
+ 450 400 l 1,5,-1
+ 650 400 l 1,6,-1
+ 650 300 l 1,7,-1
+ 450 300 l 1,8,-1
+ 450 100 l 1,9,-1
+ 750 100 l 1,10,-1
+ 750 0 l 1,11,-1
+ 350 0 l 1,12,-1
+ 350 300 l 1,13,-1
+ 150 300 l 1,14,-1
+ 150 0 l 1,15,-1
+ 50 0 l 1,16,-1
+ 50 600 l 1,17,-1
+ 150 600 l 1,0,-1
+150 600 m 1,18,-1
+ 150 400 l 1,19,-1
+ 350 400 l 1,20,-1
+ 350 600 l 1,21,-1
+ 150 600 l 1,18,-1
+EndSplineSet
+Validated: 5
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: ae
+Encoding: 230 230 167
+Width: 800
+Flags: W
+HStem: 0 100<150 250 450 750> 100 100<250 350> 200 100<450 650> 400 100<150 350 450 650>
+VStem: 50 100<100 400> 150 100<0 100> 350 100<300 400> 650 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+650 400 m 1,0,-1
+ 450 400 l 1,1,-1
+ 450 500 l 1,2,-1
+ 650 500 l 1,3,-1
+ 650 400 l 1,0,-1
+650 400 m 1,4,-1
+ 750 400 l 1,5,-1
+ 750 200 l 1,6,-1
+ 450 200 l 1,7,-1
+ 450 100 l 1,8,-1
+ 750 100 l 1,9,-1
+ 750 0 l 1,10,-1
+ 350 0 l 1,11,-1
+ 350 100 l 1,12,-1
+ 250 100 l 1,13,-1
+ 250 200 l 1,14,-1
+ 350 200 l 1,15,-1
+ 350 400 l 1,16,-1
+ 150 400 l 1,17,-1
+ 150 500 l 1,18,-1
+ 350 500 l 1,19,-1
+ 350 400 l 1,20,-1
+ 450 400 l 1,21,-1
+ 450 300 l 1,22,-1
+ 650 300 l 1,23,-1
+ 650 400 l 1,4,-1
+250 100 m 1,24,-1
+ 250 0 l 1,25,-1
+ 150 0 l 1,26,-1
+ 150 100 l 1,27,-1
+ 250 100 l 1,24,-1
+150 100 m 1,28,-1
+ 50 100 l 1,29,-1
+ 50 400 l 1,30,-1
+ 150 400 l 1,31,-1
+ 150 100 l 1,28,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: Oslash
+Encoding: 216 216 168
+Width: 800
+Flags: W
+HStem: 0 100<50 150 250 550> 100 100<150 250 550 650> 200 100<250 350> 300 100<350 450> 400 100<450 550> 500 100<150 250 550 650> 600 100<250 550 650 750>
+VStem: 50 100<0 100 200 500> 150 100<100 200 500 600> 250 100<200 300> 350 100<300 400> 450 100<400 500> 550 100<100 200 500 600> 650 100<200 500 600 700>
+LayerCount: 2
+Fore
+SplineSet
+350 300 m 1,0,-1
+ 350 200 l 1,1,-1
+ 250 200 l 1,2,-1
+ 250 300 l 1,3,-1
+ 350 300 l 1,0,-1
+350 300 m 1,4,-1
+ 350 400 l 1,5,-1
+ 450 400 l 1,6,-1
+ 450 300 l 1,7,-1
+ 350 300 l 1,4,-1
+450 400 m 1,8,-1
+ 450 500 l 1,9,-1
+ 550 500 l 1,10,-1
+ 550 400 l 1,11,-1
+ 450 400 l 1,8,-1
+250 600 m 1,12,-1
+ 250 500 l 1,13,-1
+ 150 500 l 1,14,-1
+ 150 600 l 1,15,-1
+ 250 600 l 1,12,-1
+250 600 m 1,16,-1
+ 250 700 l 1,17,-1
+ 550 700 l 1,18,-1
+ 550 600 l 1,19,-1
+ 250 600 l 1,16,-1
+550 600 m 1,20,-1
+ 650 600 l 1,21,-1
+ 650 500 l 1,22,-1
+ 550 500 l 1,23,-1
+ 550 600 l 1,20,-1
+650 500 m 1,24,-1
+ 750 500 l 1,25,-1
+ 750 200 l 1,26,-1
+ 650 200 l 1,27,-1
+ 650 500 l 1,24,-1
+650 200 m 1,28,-1
+ 650 100 l 1,29,-1
+ 550 100 l 1,30,-1
+ 550 200 l 1,31,-1
+ 650 200 l 1,28,-1
+550 100 m 1,32,-1
+ 550 0 l 1,33,-1
+ 250 0 l 1,34,-1
+ 250 100 l 1,35,-1
+ 550 100 l 1,32,-1
+250 100 m 1,36,-1
+ 150 100 l 1,37,-1
+ 150 200 l 1,38,-1
+ 250 200 l 1,39,-1
+ 250 100 l 1,36,-1
+150 200 m 1,40,-1
+ 50 200 l 1,41,-1
+ 50 500 l 1,42,-1
+ 150 500 l 1,43,-1
+ 150 200 l 1,40,-1
+650 600 m 1,44,-1
+ 650 700 l 1,45,-1
+ 750 700 l 1,46,-1
+ 750 600 l 1,47,-1
+ 650 600 l 1,44,-1
+150 100 m 1,48,-1
+ 150 0 l 1,49,-1
+ 50 0 l 1,50,-1
+ 50 100 l 1,51,-1
+ 150 100 l 1,48,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: oslash
+Encoding: 248 248 169
+Width: 599
+Flags: W
+HStem: 0 100<50 150.013 250.025 449.963> 100 100<150.013 250.025> 200 100<250.025 350.037> 300 100<350.037 449.963> 400 100<150.013 350.037 449.963 549.975>
+VStem: 50 100<0 100.004 199.999 399.997> 150 100<100.004 199.999> 250 100<199.999 300.003> 350 100<300.003 399.997> 450 100<100.004 300.003 399.997 500.001>
+LayerCount: 2
+Fore
+SplineSet
+250 200 m 1,0,-1
+ 250 300 l 1,1,-1
+ 350 300 l 1,2,-1
+ 350 200 l 1,3,-1
+ 250 200 l 1,0,-1
+250 200 m 1,4,-1
+ 250 100 l 1,5,-1
+ 150 100 l 1,6,-1
+ 150 200 l 1,7,-1
+ 250 200 l 1,4,-1
+250 100 m 1,8,-1
+ 450 100 l 1,9,-1
+ 450 0 l 1,10,-1
+ 250 0 l 1,11,-1
+ 250 100 l 1,8,-1
+450 100 m 1,12,-1
+ 450 300 l 1,13,-1
+ 550 300 l 1,14,-1
+ 550 100 l 1,15,-1
+ 450 100 l 1,12,-1
+350 300 m 1,16,-1
+ 350 400 l 1,17,-1
+ 450 400 l 1,18,-1
+ 450 300 l 1,19,-1
+ 350 300 l 1,16,-1
+350 400 m 1,20,-1
+ 150 400 l 1,21,-1
+ 150 500 l 1,22,-1
+ 350 500 l 1,23,-1
+ 350 400 l 1,20,-1
+150 400 m 1,24,-1
+ 150 200 l 1,25,-1
+ 50 200 l 1,26,-1
+ 50 400 l 1,27,-1
+ 150 400 l 1,24,-1
+150 100 m 1,28,-1
+ 150 0 l 1,29,-1
+ 50 0 l 1,30,-1
+ 50 100 l 1,31,-1
+ 150 100 l 1,28,-1
+450 400 m 1,32,-1
+ 450 500 l 1,33,-1
+ 550 500 l 1,34,-1
+ 550 400 l 1,35,-1
+ 450 400 l 1,32,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming"
+EndChar
+
+StartChar: Thorn
+Encoding: 222 222 170
+Width: 500
+Flags: W
+HStem: 0 21G<50 150.001> 100 100<150.001 350.001> 480 20G<350.001 450.002> 500 100<150.001 350.001> 680 20G<50 150.001>
+VStem: 50 300<100.001 200.001 500.002 600.002> 50 100<0 100.001 200.001 500.002 600.002 700.002> 350 100<200.001 500.002>
+LayerCount: 2
+Fore
+SplineSet
+150 600 m 1,0,-1
+ 350 600 l 1,1,-1
+ 350 500 l 1,2,-1
+ 450 500 l 1,3,-1
+ 450 200 l 1,4,-1
+ 350 200 l 1,5,-1
+ 350 500 l 1,6,-1
+ 150 500 l 1,7,-1
+ 150 200 l 1,8,-1
+ 350 200 l 1,9,-1
+ 350 100 l 1,10,-1
+ 150 100 l 1,11,-1
+ 150 0 l 1,12,-1
+ 50 0 l 1,13,-1
+ 50 700 l 1,14,-1
+ 150 700 l 1,15,-1
+ 150 600 l 1,0,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 41 -100 "keming" 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 141 -100 "keming" 145 -100 "keming" 153 -100 "keming" 154 -100 "keming"
+EndChar
+
+StartChar: thorn
+Encoding: 254 254 171
+Width: 500
+Flags: W
+HStem: 0 100<150.001 350.001> 400 100<150.001 350.001> 680 20G<50 150.001>
+VStem: 50 300<0 100.001 400.002 500.002> 50 100<-200 0 100.001 400.002 500.002 700.002> 350 100<100.001 400.002>
+LayerCount: 2
+Fore
+SplineSet
+150 500 m 1,0,-1
+ 350 500 l 1,1,-1
+ 350 400 l 1,2,-1
+ 450 400 l 1,3,-1
+ 450 100 l 1,4,-1
+ 350 100 l 1,5,-1
+ 350 400 l 1,6,-1
+ 150 400 l 1,7,-1
+ 150 100 l 1,8,-1
+ 350 100 l 1,9,-1
+ 350 0 l 1,10,-1
+ 150 0 l 1,11,-1
+ 150 -200 l 1,12,-1
+ 50 -200 l 1,13,-1
+ 50 700 l 1,14,-1
+ 150 700 l 1,15,-1
+ 150 500 l 1,0,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: yacute
+Encoding: 253 253 172
+Width: 600
+Flags: W
+HStem: -100 100<50 450> 0 21G<450 550> 100 100<150 450> 480 20G<50 150 450 550> 600 100<250 350> 700 100<350 450>
+VStem: 50 100<200 500> 250 100<600 700> 350 100<700 800> 450 100<0 100 200 500>
+LayerCount: 2
+Fore
+SplineSet
+50 500 m 1,0,-1
+ 150 500 l 1,1,-1
+ 150 200 l 1,2,-1
+ 450 200 l 1,3,-1
+ 450 500 l 1,4,-1
+ 550 500 l 1,5,-1
+ 550 0 l 1,6,-1
+ 450 0 l 1,7,-1
+ 450 -100 l 1,8,-1
+ 50 -100 l 1,9,-1
+ 50 0 l 1,10,-1
+ 450 0 l 1,11,-1
+ 450 100 l 1,12,-1
+ 150 100 l 1,13,-1
+ 150 200 l 1,14,-1
+ 50 200 l 1,15,-1
+ 50 500 l 1,0,-1
+350 700 m 1,16,-1
+ 350 800 l 1,17,-1
+ 450 800 l 1,18,-1
+ 450 700 l 1,19,-1
+ 350 700 l 1,16,-1
+350 700 m 1,20,-1
+ 350 600 l 1,21,-1
+ 250 600 l 1,22,-1
+ 250 700 l 1,23,-1
+ 350 700 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming"
+EndChar
+
+StartChar: uacute
+Encoding: 250 250 173
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 480 20G<50 150 450 550> 600 100<250 350> 700 100<350 450>
+VStem: 50 100<100 500> 250 100<600 700> 350 100<700 800> 450 100<0 100 200 500>
+LayerCount: 2
+Fore
+SplineSet
+350 700 m 1,0,-1
+ 350 800 l 1,1,-1
+ 450 800 l 1,2,-1
+ 450 700 l 1,3,-1
+ 350 700 l 1,0,-1
+350 700 m 1,4,-1
+ 350 600 l 1,5,-1
+ 250 600 l 1,6,-1
+ 250 700 l 1,7,-1
+ 350 700 l 1,4,-1
+150 100 m 1,8,-1
+ 50 100 l 1,9,-1
+ 50 500 l 1,10,-1
+ 150 500 l 1,11,-1
+ 150 100 l 1,8,-1
+150 100 m 1,12,-1
+ 350 100 l 1,13,-1
+ 350 0 l 1,14,-1
+ 150 0 l 1,15,-1
+ 150 100 l 1,12,-1
+350 100 m 1,16,-1
+ 350 200 l 1,17,-1
+ 450 200 l 1,18,-1
+ 450 500 l 1,19,-1
+ 550 500 l 1,20,-1
+ 550 0 l 1,21,-1
+ 450 0 l 1,22,-1
+ 450 100 l 1,23,-1
+ 350 100 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming"
+EndChar
+
+StartChar: oacute
+Encoding: 243 243 174
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 300<50 150 450 550> 400 100<150 450> 600 100<250 350> 700 100<350 450>
+VStem: 50 100<100 400> 150 300<0 100 400 500> 250 100<600 700> 350 100<700 800> 450 100<100 400>
+LayerCount: 2
+Fore
+SplineSet
+350 700 m 1,0,-1
+ 350 800 l 1,1,-1
+ 450 800 l 1,2,-1
+ 450 700 l 1,3,-1
+ 350 700 l 1,0,-1
+350 700 m 1,4,-1
+ 350 600 l 1,5,-1
+ 250 600 l 1,6,-1
+ 250 700 l 1,7,-1
+ 350 700 l 1,4,-1
+450 100 m 1,8,-1
+ 450 0 l 1,9,-1
+ 150 0 l 1,10,-1
+ 150 100 l 1,11,-1
+ 450 100 l 1,8,-1
+450 100 m 1,12,-1
+ 450 400 l 1,13,-1
+ 550 400 l 1,14,-1
+ 550 100 l 1,15,-1
+ 450 100 l 1,12,-1
+450 400 m 1,16,-1
+ 150 400 l 1,17,-1
+ 150 500 l 1,18,-1
+ 450 500 l 1,19,-1
+ 450 400 l 1,16,-1
+150 400 m 1,20,-1
+ 150 100 l 1,21,-1
+ 50 100 l 1,22,-1
+ 50 400 l 1,23,-1
+ 150 400 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: aacute
+Encoding: 225 225 175
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 400 100<150 450> 600 100<250 350> 700 100<350 450>
+VStem: 50 100<100 400> 250 100<600 700> 350 100<700 800> 450 100<0 100 200 400>
+LayerCount: 2
+Fore
+SplineSet
+350 0 m 1,0,-1
+ 150 0 l 1,1,-1
+ 150 100 l 1,2,-1
+ 50 100 l 1,3,-1
+ 50 400 l 1,4,-1
+ 150 400 l 1,5,-1
+ 150 100 l 1,6,-1
+ 350 100 l 1,7,-1
+ 350 200 l 1,8,-1
+ 450 200 l 1,9,-1
+ 450 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 500 l 1,12,-1
+ 450 500 l 1,13,-1
+ 450 400 l 1,14,-1
+ 550 400 l 1,15,-1
+ 550 0 l 1,16,-1
+ 450 0 l 1,17,-1
+ 450 100 l 1,18,-1
+ 350 100 l 1,19,-1
+ 350 0 l 1,0,-1
+350 700 m 1,20,-1
+ 350 800 l 1,21,-1
+ 450 800 l 1,22,-1
+ 450 700 l 1,23,-1
+ 350 700 l 1,20,-1
+350 700 m 1,24,-1
+ 350 600 l 1,25,-1
+ 250 600 l 1,26,-1
+ 250 700 l 1,27,-1
+ 350 700 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: iacute
+Encoding: 237 237 176
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 400 100<50 150> 600 100<50 150> 700 100<150 250>
+VStem: 50 100<600 700> 150 100<100 400 700 800>
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 1,0,-1
+ 50 100 l 1,1,-1
+ 150 100 l 1,2,-1
+ 150 400 l 1,3,-1
+ 50 400 l 1,4,-1
+ 50 500 l 1,5,-1
+ 250 500 l 1,6,-1
+ 250 100 l 1,7,-1
+ 350 100 l 1,8,-1
+ 350 0 l 1,9,-1
+ 50 0 l 1,0,-1
+150 700 m 1,10,-1
+ 150 800 l 1,11,-1
+ 250 800 l 1,12,-1
+ 250 700 l 1,13,-1
+ 150 700 l 1,10,-1
+150 700 m 1,14,-1
+ 150 600 l 1,15,-1
+ 50 600 l 1,16,-1
+ 50 700 l 1,17,-1
+ 150 700 l 1,14,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 54 -100 "keming" 57 -100 "keming" 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 113 -100 "keming" 128 -100 "keming" 148 -100 "keming" 162 -100 "keming" 217 -100 "keming"
+EndChar
+
+StartChar: agrave
+Encoding: 224 224 177
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 400 100<150 450> 600 100<250 350> 700 100<150 250>
+VStem: 50 100<100 400> 150 100<700 800> 250 100<600 700> 450 100<0 100 200 400>
+LayerCount: 2
+Fore
+SplineSet
+350 0 m 1,0,-1
+ 150 0 l 1,1,-1
+ 150 100 l 1,2,-1
+ 50 100 l 1,3,-1
+ 50 400 l 1,4,-1
+ 150 400 l 1,5,-1
+ 150 100 l 1,6,-1
+ 350 100 l 1,7,-1
+ 350 200 l 1,8,-1
+ 450 200 l 1,9,-1
+ 450 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 500 l 1,12,-1
+ 450 500 l 1,13,-1
+ 450 400 l 1,14,-1
+ 550 400 l 1,15,-1
+ 550 0 l 1,16,-1
+ 450 0 l 1,17,-1
+ 450 100 l 1,18,-1
+ 350 100 l 1,19,-1
+ 350 0 l 1,0,-1
+150 700 m 1,20,-1
+ 150 800 l 1,21,-1
+ 250 800 l 1,22,-1
+ 250 700 l 1,23,-1
+ 150 700 l 1,20,-1
+250 700 m 1,24,-1
+ 350 700 l 1,25,-1
+ 350 600 l 1,26,-1
+ 250 600 l 1,27,-1
+ 250 700 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: atilde
+Encoding: 227 227 178
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 400 100<150 450> 600 100<150 250 350 450> 700 100<250 350 450 550>
+VStem: 50 100<100 400> 150 100<600 700> 250 100<700 800> 350 100<600 700> 450 100<0 100 200 400 700 800>
+LayerCount: 2
+Fore
+SplineSet
+350 0 m 1,0,-1
+ 150 0 l 1,1,-1
+ 150 100 l 1,2,-1
+ 50 100 l 1,3,-1
+ 50 400 l 1,4,-1
+ 150 400 l 1,5,-1
+ 150 100 l 1,6,-1
+ 350 100 l 1,7,-1
+ 350 200 l 1,8,-1
+ 450 200 l 1,9,-1
+ 450 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 500 l 1,12,-1
+ 450 500 l 1,13,-1
+ 450 400 l 1,14,-1
+ 550 400 l 1,15,-1
+ 550 0 l 1,16,-1
+ 450 0 l 1,17,-1
+ 450 100 l 1,18,-1
+ 350 100 l 1,19,-1
+ 350 0 l 1,0,-1
+550 800 m 1,20,-1
+ 550 700 l 1,21,-1
+ 450 700 l 1,22,-1
+ 450 800 l 1,23,-1
+ 550 800 l 1,20,-1
+450 700 m 1,24,-1
+ 450 600 l 1,25,-1
+ 350 600 l 1,26,-1
+ 350 700 l 1,27,-1
+ 250 700 l 1,28,-1
+ 250 800 l 1,29,-1
+ 350 800 l 1,30,-1
+ 350 700 l 1,31,-1
+ 450 700 l 1,24,-1
+250 700 m 1,32,-1
+ 250 600 l 1,33,-1
+ 150 600 l 1,34,-1
+ 150 700 l 1,35,-1
+ 250 700 l 1,32,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: aring
+Encoding: 229 229 179
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 400 100<150 250 350 450> 600 100<150 250 350 450> 700 100<250 350>
+VStem: 50 100<100 400> 150 100<600 700> 250 100<500 600 700 800> 350 100<600 700> 450 100<0 100 200 400>
+LayerCount: 2
+Fore
+SplineSet
+350 0 m 1,0,-1
+ 150 0 l 1,1,-1
+ 150 100 l 1,2,-1
+ 350 100 l 1,3,-1
+ 350 0 l 1,0,-1
+250 700 m 1,4,-1
+ 250 600 l 1,5,-1
+ 150 600 l 1,6,-1
+ 150 700 l 1,7,-1
+ 250 700 l 1,4,-1
+250 700 m 1,8,-1
+ 250 800 l 1,9,-1
+ 350 800 l 1,10,-1
+ 350 700 l 1,11,-1
+ 450 700 l 1,12,-1
+ 450 600 l 1,13,-1
+ 350 600 l 1,14,-1
+ 350 500 l 1,15,-1
+ 450 500 l 1,16,-1
+ 450 400 l 1,17,-1
+ 550 400 l 1,18,-1
+ 550 0 l 1,19,-1
+ 450 0 l 1,20,-1
+ 450 100 l 1,21,-1
+ 350 100 l 1,22,-1
+ 350 200 l 1,23,-1
+ 450 200 l 1,24,-1
+ 450 400 l 1,25,-1
+ 150 400 l 1,26,-1
+ 150 500 l 1,27,-1
+ 250 500 l 1,28,-1
+ 250 600 l 1,29,-1
+ 350 600 l 1,30,-1
+ 350 700 l 1,31,-1
+ 250 700 l 1,8,-1
+150 400 m 1,32,-1
+ 150 100 l 1,33,-1
+ 50 100 l 1,34,-1
+ 50 400 l 1,35,-1
+ 150 400 l 1,32,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: ccedilla
+Encoding: 231 231 180
+Width: 600
+Flags: W
+HStem: -200 100<150 250> -100 21G<250 350> 0 100<150 250 350 450> 100 100<450 550> 300 100<450 550> 400 100<150 450>
+VStem: 50 100<100 400> 150 300<0 100 400 500> 150 100<-200 -100> 450 100<100 200 300 400>
+LayerCount: 2
+Fore
+SplineSet
+250 -100 m 1,0,-1
+ 250 -200 l 1,1,-1
+ 150 -200 l 1,2,-1
+ 150 -100 l 1,3,-1
+ 250 -100 l 1,0,-1
+250 -100 m 1,4,-1
+ 250 0 l 1,5,-1
+ 150 0 l 1,6,-1
+ 150 100 l 1,7,-1
+ 450 100 l 1,8,-1
+ 450 200 l 1,9,-1
+ 550 200 l 1,10,-1
+ 550 100 l 1,11,-1
+ 450 100 l 1,12,-1
+ 450 0 l 1,13,-1
+ 350 0 l 1,14,-1
+ 350 -100 l 1,15,-1
+ 250 -100 l 1,4,-1
+150 100 m 1,16,-1
+ 50 100 l 1,17,-1
+ 50 400 l 1,18,-1
+ 150 400 l 1,19,-1
+ 150 100 l 1,16,-1
+450 400 m 1,20,-1
+ 550 400 l 1,21,-1
+ 550 300 l 1,22,-1
+ 450 300 l 1,23,-1
+ 450 400 l 1,20,-1
+450 400 m 1,24,-1
+ 150 400 l 1,25,-1
+ 150 500 l 1,26,-1
+ 450 500 l 1,27,-1
+ 450 400 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: igrave
+Encoding: 236 236 181
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 400 100<50 150> 600 100<150 250> 700 100<50 150>
+VStem: 50 100<700 800> 150 100<100 400 600 700>
+LayerCount: 2
+Fore
+SplineSet
+50 700 m 1,0,-1
+ 50 800 l 1,1,-1
+ 150 800 l 1,2,-1
+ 150 700 l 1,3,-1
+ 50 700 l 1,0,-1
+50 0 m 1,4,-1
+ 50 100 l 1,5,-1
+ 150 100 l 1,6,-1
+ 150 400 l 1,7,-1
+ 50 400 l 1,8,-1
+ 50 500 l 1,9,-1
+ 250 500 l 1,10,-1
+ 250 100 l 1,11,-1
+ 350 100 l 1,12,-1
+ 350 0 l 1,13,-1
+ 50 0 l 1,4,-1
+150 700 m 1,14,-1
+ 250 700 l 1,15,-1
+ 250 600 l 1,16,-1
+ 150 600 l 1,17,-1
+ 150 700 l 1,14,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 54 -100 "keming" 57 -100 "keming" 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 113 -100 "keming" 128 -100 "keming" 148 -100 "keming" 162 -100 "keming" 217 -100 "keming"
+EndChar
+
+StartChar: icircumflex
+Encoding: 238 238 182
+Width: 400
+Flags: W
+HStem: 0 100<50 150 250 350> 400 100<50 150> 600 100<50 150 250 350> 700 100<150 250>
+VStem: 50 100<600 700> 150 100<100 400 700 800> 250 100<600 700>
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 1,0,-1
+ 50 100 l 1,1,-1
+ 150 100 l 1,2,-1
+ 150 400 l 1,3,-1
+ 50 400 l 1,4,-1
+ 50 500 l 1,5,-1
+ 250 500 l 1,6,-1
+ 250 100 l 1,7,-1
+ 350 100 l 1,8,-1
+ 350 0 l 1,9,-1
+ 50 0 l 1,0,-1
+250 700 m 1,10,-1
+ 150 700 l 1,11,-1
+ 150 800 l 1,12,-1
+ 250 800 l 1,13,-1
+ 250 700 l 1,10,-1
+250 700 m 1,14,-1
+ 350 700 l 1,15,-1
+ 350 600 l 1,16,-1
+ 250 600 l 1,17,-1
+ 250 700 l 1,14,-1
+150 700 m 1,18,-1
+ 150 600 l 1,19,-1
+ 50 600 l 1,20,-1
+ 50 700 l 1,21,-1
+ 150 700 l 1,18,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: ograve
+Encoding: 242 242 183
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 300<50 150 450 550> 400 100<150 450> 600 100<250 350> 700 100<150 250>
+VStem: 50 100<100 400> 150 300<0 100 400 500> 150 100<700 800> 250 100<600 700> 450 100<100 400>
+LayerCount: 2
+Fore
+SplineSet
+150 700 m 1,0,-1
+ 150 800 l 1,1,-1
+ 250 800 l 1,2,-1
+ 250 700 l 1,3,-1
+ 150 700 l 1,0,-1
+250 700 m 1,4,-1
+ 350 700 l 1,5,-1
+ 350 600 l 1,6,-1
+ 250 600 l 1,7,-1
+ 250 700 l 1,4,-1
+450 100 m 1,8,-1
+ 450 0 l 1,9,-1
+ 150 0 l 1,10,-1
+ 150 100 l 1,11,-1
+ 450 100 l 1,8,-1
+450 100 m 1,12,-1
+ 450 400 l 1,13,-1
+ 550 400 l 1,14,-1
+ 550 100 l 1,15,-1
+ 450 100 l 1,12,-1
+450 400 m 1,16,-1
+ 150 400 l 1,17,-1
+ 150 500 l 1,18,-1
+ 450 500 l 1,19,-1
+ 450 400 l 1,16,-1
+150 400 m 1,20,-1
+ 150 100 l 1,21,-1
+ 50 100 l 1,22,-1
+ 50 400 l 1,23,-1
+ 150 400 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: ugrave
+Encoding: 249 249 184
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 480 20G<50 150 450 550> 600 100<250 350> 700 100<150 250>
+VStem: 50 100<100 500> 150 100<700 800> 250 100<600 700> 450 100<0 100 200 500>
+LayerCount: 2
+Fore
+SplineSet
+150 700 m 1,0,-1
+ 150 800 l 1,1,-1
+ 250 800 l 1,2,-1
+ 250 700 l 1,3,-1
+ 150 700 l 1,0,-1
+250 700 m 1,4,-1
+ 350 700 l 1,5,-1
+ 350 600 l 1,6,-1
+ 250 600 l 1,7,-1
+ 250 700 l 1,4,-1
+150 100 m 1,8,-1
+ 50 100 l 1,9,-1
+ 50 500 l 1,10,-1
+ 150 500 l 1,11,-1
+ 150 100 l 1,8,-1
+150 100 m 1,12,-1
+ 350 100 l 1,13,-1
+ 350 0 l 1,14,-1
+ 150 0 l 1,15,-1
+ 150 100 l 1,12,-1
+350 100 m 1,16,-1
+ 350 200 l 1,17,-1
+ 450 200 l 1,18,-1
+ 450 500 l 1,19,-1
+ 550 500 l 1,20,-1
+ 550 0 l 1,21,-1
+ 450 0 l 1,22,-1
+ 450 100 l 1,23,-1
+ 350 100 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming"
+EndChar
+
+StartChar: otilde
+Encoding: 245 245 185
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 300<50 150 450 550> 400 100<150 450> 600 100<150 250 350 450> 700 100<250 350 450 550>
+VStem: 50 100<100 400> 150 100<600 700> 250 100<700 800> 350 100<600 700> 450 100<100 400 700 800>
+LayerCount: 2
+Fore
+SplineSet
+550 800 m 1,0,-1
+ 550 700 l 1,1,-1
+ 450 700 l 1,2,-1
+ 450 800 l 1,3,-1
+ 550 800 l 1,0,-1
+450 700 m 1,4,-1
+ 450 600 l 1,5,-1
+ 350 600 l 1,6,-1
+ 350 700 l 1,7,-1
+ 250 700 l 1,8,-1
+ 250 800 l 1,9,-1
+ 350 800 l 1,10,-1
+ 350 700 l 1,11,-1
+ 450 700 l 1,4,-1
+250 700 m 1,12,-1
+ 250 600 l 1,13,-1
+ 150 600 l 1,14,-1
+ 150 700 l 1,15,-1
+ 250 700 l 1,12,-1
+450 100 m 1,16,-1
+ 450 0 l 1,17,-1
+ 150 0 l 1,18,-1
+ 150 100 l 1,19,-1
+ 450 100 l 1,16,-1
+450 100 m 1,20,-1
+ 450 400 l 1,21,-1
+ 550 400 l 1,22,-1
+ 550 100 l 1,23,-1
+ 450 100 l 1,20,-1
+450 400 m 1,24,-1
+ 150 400 l 1,25,-1
+ 150 500 l 1,26,-1
+ 450 500 l 1,27,-1
+ 450 400 l 1,24,-1
+150 400 m 1,28,-1
+ 150 100 l 1,29,-1
+ 50 100 l 1,30,-1
+ 50 400 l 1,31,-1
+ 150 400 l 1,28,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 74 -100 "keming"
+EndChar
+
+StartChar: ntilde
+Encoding: 241 241 186
+Width: 600
+Flags: W
+HStem: 0 21G<50 150 450 550> 400 100<150 450> 600 100<150 250 350 450> 700 100<250 350 450 550>
+VStem: 50 100<0 400> 150 100<600 700> 250 100<700 800> 350 100<600 700> 450 100<0 400 700 800>
+LayerCount: 2
+Fore
+SplineSet
+550 800 m 1,0,-1
+ 550 700 l 1,1,-1
+ 450 700 l 1,2,-1
+ 450 800 l 1,3,-1
+ 550 800 l 1,0,-1
+550 0 m 1,4,-1
+ 450 0 l 1,5,-1
+ 450 400 l 1,6,-1
+ 550 400 l 1,7,-1
+ 550 0 l 1,4,-1
+150 0 m 1,8,-1
+ 50 0 l 1,9,-1
+ 50 500 l 1,10,-1
+ 450 500 l 1,11,-1
+ 450 400 l 1,12,-1
+ 150 400 l 1,13,-1
+ 150 0 l 1,8,-1
+450 700 m 1,14,-1
+ 450 600 l 1,15,-1
+ 350 600 l 1,16,-1
+ 350 700 l 1,17,-1
+ 250 700 l 1,18,-1
+ 250 800 l 1,19,-1
+ 350 800 l 1,20,-1
+ 350 700 l 1,21,-1
+ 450 700 l 1,14,-1
+250 700 m 1,22,-1
+ 250 600 l 1,23,-1
+ 150 600 l 1,24,-1
+ 150 700 l 1,25,-1
+ 250 700 l 1,22,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: ocircumflex
+Encoding: 244 244 187
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 300<50 150 450 550> 400 100<150 450> 600 100<150 250 350 450> 700 100<250 350>
+VStem: 50 100<100 400> 150 100<600 700> 250 100<700 800> 350 100<600 700> 450 100<100 400>
+LayerCount: 2
+Fore
+SplineSet
+350 700 m 1,0,-1
+ 250 700 l 1,1,-1
+ 250 800 l 1,2,-1
+ 350 800 l 1,3,-1
+ 350 700 l 1,0,-1
+350 700 m 1,4,-1
+ 450 700 l 1,5,-1
+ 450 600 l 1,6,-1
+ 350 600 l 1,7,-1
+ 350 700 l 1,4,-1
+250 700 m 1,8,-1
+ 250 600 l 1,9,-1
+ 150 600 l 1,10,-1
+ 150 700 l 1,11,-1
+ 250 700 l 1,8,-1
+450 100 m 1,12,-1
+ 450 0 l 1,13,-1
+ 150 0 l 1,14,-1
+ 150 100 l 1,15,-1
+ 450 100 l 1,12,-1
+450 100 m 1,16,-1
+ 450 400 l 1,17,-1
+ 550 400 l 1,18,-1
+ 550 100 l 1,19,-1
+ 450 100 l 1,16,-1
+450 400 m 1,20,-1
+ 150 400 l 1,21,-1
+ 150 500 l 1,22,-1
+ 450 500 l 1,23,-1
+ 450 400 l 1,20,-1
+150 400 m 1,24,-1
+ 150 100 l 1,25,-1
+ 50 100 l 1,26,-1
+ 50 400 l 1,27,-1
+ 150 400 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: ucircumflex
+Encoding: 251 251 188
+Width: 600
+Flags: W
+HStem: 0 100<150 350> 100 100<350 450> 480 20G<50 150 450 550> 600 100<150 250 350 450> 700 100<250 350>
+VStem: 50 100<100 500> 150 100<600 700> 250 100<700 800> 350 100<600 700> 450 100<0 100 200 500>
+LayerCount: 2
+Fore
+SplineSet
+350 700 m 1,0,-1
+ 250 700 l 1,1,-1
+ 250 800 l 1,2,-1
+ 350 800 l 1,3,-1
+ 350 700 l 1,0,-1
+350 700 m 1,4,-1
+ 450 700 l 1,5,-1
+ 450 600 l 1,6,-1
+ 350 600 l 1,7,-1
+ 350 700 l 1,4,-1
+250 700 m 1,8,-1
+ 250 600 l 1,9,-1
+ 150 600 l 1,10,-1
+ 150 700 l 1,11,-1
+ 250 700 l 1,8,-1
+150 100 m 1,12,-1
+ 50 100 l 1,13,-1
+ 50 500 l 1,14,-1
+ 150 500 l 1,15,-1
+ 150 100 l 1,12,-1
+150 100 m 1,16,-1
+ 350 100 l 1,17,-1
+ 350 0 l 1,18,-1
+ 150 0 l 1,19,-1
+ 150 100 l 1,16,-1
+350 100 m 1,20,-1
+ 350 200 l 1,21,-1
+ 450 200 l 1,22,-1
+ 450 500 l 1,23,-1
+ 550 500 l 1,24,-1
+ 550 0 l 1,25,-1
+ 450 0 l 1,26,-1
+ 450 100 l 1,27,-1
+ 350 100 l 1,20,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming"
+EndChar
+
+StartChar: eth
+Encoding: 240 240 189
+Width: 600
+Flags: W
+HStem: 0 100<150 450> 100 100<50 150> 400 100<150 250 350 450> 500 100<250 350> 600 100<150 250 350 450>
+VStem: 50 100<100 200> 150 100<400 500 600 700> 250 100<500 600> 350 100<400 500 600 700> 450 100<100 200 300 400>
+LayerCount: 2
+Fore
+SplineSet
+250 600 m 1,0,-1
+ 150 600 l 1,1,-1
+ 150 700 l 1,2,-1
+ 250 700 l 1,3,-1
+ 250 600 l 1,0,-1
+250 600 m 1,4,-1
+ 350 600 l 1,5,-1
+ 350 500 l 1,6,-1
+ 450 500 l 1,7,-1
+ 450 400 l 1,8,-1
+ 350 400 l 1,9,-1
+ 350 500 l 1,10,-1
+ 250 500 l 1,11,-1
+ 250 400 l 1,12,-1
+ 150 400 l 1,13,-1
+ 150 500 l 1,14,-1
+ 250 500 l 1,15,-1
+ 250 600 l 1,4,-1
+450 400 m 1,16,-1
+ 550 400 l 1,17,-1
+ 550 100 l 1,18,-1
+ 450 100 l 1,19,-1
+ 450 200 l 1,20,-1
+ 150 200 l 1,21,-1
+ 150 300 l 1,22,-1
+ 450 300 l 1,23,-1
+ 450 400 l 1,16,-1
+450 100 m 1,24,-1
+ 450 0 l 1,25,-1
+ 150 0 l 1,26,-1
+ 150 100 l 1,27,-1
+ 450 100 l 1,24,-1
+150 100 m 1,28,-1
+ 50 100 l 1,29,-1
+ 50 200 l 1,30,-1
+ 150 200 l 1,31,-1
+ 150 100 l 1,28,-1
+350 600 m 1,32,-1
+ 350 700 l 1,33,-1
+ 450 700 l 1,34,-1
+ 450 600 l 1,35,-1
+ 350 600 l 1,32,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: divide
+Encoding: 247 247 190
+Width: 600
+Flags: W
+HStem: 100 100<250 350> 300 100<50 550> 500 100<250 350>
+VStem: 250 100<100 200 500 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+350 600 m 1,0,-1
+ 350 500 l 1,1,-1
+ 250 500 l 1,2,-1
+ 250 600 l 1,3,-1
+ 350 600 l 1,0,-1
+350 200 m 1,4,-1
+ 350 100 l 1,5,-1
+ 250 100 l 1,6,-1
+ 250 200 l 1,7,-1
+ 350 200 l 1,4,-1
+50 300 m 1,8,-1
+ 50 400 l 1,9,-1
+ 550 400 l 1,10,-1
+ 550 300 l 1,11,-1
+ 50 300 l 1,8,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 31 -100 "keming" 61 -100 "keming" 93 -100 "keming" 119 -100 "keming" 120 -100 "keming" 126 -100 "keming" 133 -100 "keming" 205 -100 "keming" 206 -100 "keming" 207 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: Euro
+Encoding: 8364 8364 191
+Width: 700
+Flags: W
+HStem: 0 100<250.008 550.001> 100 100<550.001 650.005> 200 100<50 150.004 250.008 450.007> 400 100<50 150.004 250.008 450.007> 500 100<550.001 650.005> 600 100<250.008 550.001>
+VStem: 150 100<100 200 300 400 500 600> 250 300<0 100 600 700> 550 100<100 200 500 600>
+LayerCount: 2
+Fore
+SplineSet
+150 500 m 1,0,-1
+ 150 600 l 1,1,-1
+ 250 600 l 1,2,-1
+ 250 700 l 1,3,-1
+ 550 700 l 1,4,-1
+ 550 600 l 1,5,-1
+ 250 600 l 1,6,-1
+ 250 500 l 1,7,-1
+ 450 500 l 1,8,-1
+ 450 400 l 1,9,-1
+ 250 400 l 1,10,-1
+ 250 300 l 1,11,-1
+ 450 300 l 1,12,-1
+ 450 200 l 1,13,-1
+ 250 200 l 1,14,-1
+ 250 100 l 1,15,-1
+ 150 100 l 1,16,-1
+ 150 200 l 1,17,-1
+ 50 200 l 1,18,-1
+ 50 300 l 1,19,-1
+ 150 300 l 1,20,-1
+ 150 400 l 1,21,-1
+ 50 400 l 1,22,-1
+ 50 500 l 1,23,-1
+ 150 500 l 1,0,-1
+250 100 m 1,24,-1
+ 550 100 l 1,25,-1
+ 550 200 l 1,26,-1
+ 650 200 l 1,27,-1
+ 650 100 l 1,28,-1
+ 550 100 l 1,29,-1
+ 550 0 l 1,30,-1
+ 250 0 l 1,31,-1
+ 250 100 l 1,24,-1
+550 600 m 1,32,-1
+ 650 600 l 1,33,-1
+ 650 500 l 1,34,-1
+ 550 500 l 1,35,-1
+ 550 600 l 1,32,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 64 -100 "keming" 91 -100 "keming" 114 -100 "keming" 115 -100 "keming" 116 -100 "keming" 124 -100 "keming" 127 -100 "keming" 190 -100 "keming" 196 -100 "keming" 205 -100 "keming" 206 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: dagger
+Encoding: 8224 8224 192
+Width: 600
+Flags: W
+HStem: 0 21G<250 350> 400 100<50 250 350 550> 680 20G<250 350>
+VStem: 250 100<0 400 500 700>
+LayerCount: 2
+Fore
+SplineSet
+250 500 m 1,0,-1
+ 250 700 l 1,1,-1
+ 350 700 l 1,2,-1
+ 350 500 l 1,3,-1
+ 550 500 l 1,4,-1
+ 550 400 l 1,5,-1
+ 350 400 l 1,6,-1
+ 350 0 l 1,7,-1
+ 250 0 l 1,8,-1
+ 250 400 l 1,9,-1
+ 50 400 l 1,10,-1
+ 50 500 l 1,11,-1
+ 250 500 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 12 -100 "keming" 14 -100 "keming" 15 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 94 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: daggerdbl
+Encoding: 8225 8225 193
+Width: 600
+Flags: W
+HStem: 0 21G<250 350> 200 100<50 250 350 550> 400 100<50 250 350 550> 680 20G<250 350>
+VStem: 250 100<0 200 300 400 500 700>
+LayerCount: 2
+Fore
+SplineSet
+250 500 m 1,0,-1
+ 250 700 l 1,1,-1
+ 350 700 l 1,2,-1
+ 350 500 l 1,3,-1
+ 550 500 l 1,4,-1
+ 550 400 l 1,5,-1
+ 350 400 l 1,6,-1
+ 350 300 l 1,7,-1
+ 550 300 l 1,8,-1
+ 550 200 l 1,9,-1
+ 350 200 l 1,10,-1
+ 350 0 l 1,11,-1
+ 250 0 l 1,12,-1
+ 250 200 l 1,13,-1
+ 50 200 l 1,14,-1
+ 50 300 l 1,15,-1
+ 250 300 l 1,16,-1
+ 250 400 l 1,17,-1
+ 50 400 l 1,18,-1
+ 50 500 l 1,19,-1
+ 250 500 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 12 -100 "keming" 14 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: circumflex
+Encoding: 710 710 194
+Width: 600
+Flags: W
+HStem: 400 100<50 150 450 550> 500 100<150 250 350 450> 600 100<250 350>
+VStem: 50 100<400 500> 150 100<500 600> 250 100<600 700> 350 100<500 600> 450 100<400 500>
+LayerCount: 2
+Fore
+SplineSet
+550 500 m 1,0,-1
+ 550 400 l 1,1,-1
+ 450 400 l 1,2,-1
+ 450 500 l 1,3,-1
+ 350 500 l 1,4,-1
+ 350 600 l 1,5,-1
+ 250 600 l 1,6,-1
+ 250 700 l 1,7,-1
+ 350 700 l 1,8,-1
+ 350 600 l 1,9,-1
+ 450 600 l 1,10,-1
+ 450 500 l 1,11,-1
+ 550 500 l 1,0,-1
+250 600 m 1,12,-1
+ 250 500 l 1,13,-1
+ 150 500 l 1,14,-1
+ 150 600 l 1,15,-1
+ 250 600 l 1,12,-1
+150 500 m 1,16,-1
+ 150 400 l 1,17,-1
+ 50 400 l 1,18,-1
+ 50 500 l 1,19,-1
+ 150 500 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 9 -100 "keming" 15 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: ellipsis
+Encoding: 8230 8230 195
+Width: 600
+Flags: W
+HStem: 0 100<50 150 250 350 450 550>
+VStem: 50 100<0 100> 250 100<0 100> 450 100<0 100>
+CounterMasks: 1 70
+LayerCount: 2
+Fore
+SplineSet
+550 100 m 1,0,-1
+ 550 0 l 1,1,-1
+ 450 0 l 1,2,-1
+ 450 100 l 1,3,-1
+ 550 100 l 1,0,-1
+350 100 m 1,4,-1
+ 350 0 l 1,5,-1
+ 250 0 l 1,6,-1
+ 250 100 l 1,7,-1
+ 350 100 l 1,4,-1
+150 100 m 1,8,-1
+ 150 0 l 1,9,-1
+ 50 0 l 1,10,-1
+ 50 100 l 1,11,-1
+ 150 100 l 1,8,-1
+EndSplineSet
+Validated: 1
+Kerns2: 3 -100 "keming" 20 -100 "keming" 23 -100 "keming" 31 -200 "keming" 60 -200 "keming" 91 -100 "keming" 111 -100 "keming" 112 -100 "keming" 123 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming"
+EndChar
+
+StartChar: guilsinglleft
+Encoding: 8249 8249 196
+Width: 300
+Flags: W
+HStem: 200 100<150 250> 300 100<50 150> 400 100<150 250>
+VStem: 50 100<300 400> 150 100<200 300 400 500>
+LayerCount: 2
+Fore
+SplineSet
+150 400 m 1,0,-1
+ 150 500 l 1,1,-1
+ 250 500 l 1,2,-1
+ 250 400 l 1,3,-1
+ 150 400 l 1,0,-1
+150 400 m 1,4,-1
+ 150 300 l 1,5,-1
+ 250 300 l 1,6,-1
+ 250 200 l 1,7,-1
+ 150 200 l 1,8,-1
+ 150 300 l 1,9,-1
+ 50 300 l 1,10,-1
+ 50 400 l 1,11,-1
+ 150 400 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 9 -100 "keming" 23 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: guilsinglright
+Encoding: 8250 8250 197
+Width: 300
+Flags: W
+HStem: 200 100<50 150> 300 100<150 250> 400 100<50 150>
+VStem: 50 100<200 300 400 500> 150 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+50 500 m 1,0,-1
+ 150 500 l 1,1,-1
+ 150 400 l 1,2,-1
+ 250 400 l 1,3,-1
+ 250 300 l 1,4,-1
+ 150 300 l 1,5,-1
+ 150 400 l 1,6,-1
+ 50 400 l 1,7,-1
+ 50 500 l 1,0,-1
+150 300 m 1,8,-1
+ 150 200 l 1,9,-1
+ 50 200 l 1,10,-1
+ 50 300 l 1,11,-1
+ 150 300 l 1,8,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 117 -100 "keming" 120 -100 "keming" 133 -100 "keming" 163 -100 "keming" 208 -100 "keming"
+EndChar
+
+StartChar: florin
+Encoding: 402 402 198
+Width: 499
+Flags: W
+HStem: -100 100<50 150.004> 0 21G<150.004 249.999> 400 100<50 150.004 249.999 449.997> 600 100<249.999 449.997>
+VStem: 50 100<-100.004 0> 150 100<0 399.997 500.001 599.996>
+LayerCount: 2
+Fore
+SplineSet
+150 0 m 1,0,-1
+ 150 -100 l 1,1,-1
+ 50 -100 l 1,2,-1
+ 50 0 l 1,3,-1
+ 150 0 l 1,0,-1
+150 0 m 1,4,-1
+ 150 400 l 1,5,-1
+ 50 400 l 1,6,-1
+ 50 500 l 1,7,-1
+ 150 500 l 1,8,-1
+ 150 600 l 1,9,-1
+ 250 600 l 1,10,-1
+ 250 500 l 1,11,-1
+ 450 500 l 1,12,-1
+ 450 400 l 1,13,-1
+ 250 400 l 1,14,-1
+ 250 0 l 1,15,-1
+ 150 0 l 1,4,-1
+250 600 m 1,16,-1
+ 250 700 l 1,17,-1
+ 450 700 l 1,18,-1
+ 450 600 l 1,19,-1
+ 250 600 l 1,16,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 42 -100 "keming" 74 -100 "keming" 189 -100 "keming"
+EndChar
+
+StartChar: oe
+Encoding: 339 339 199
+Width: 800
+Flags: W
+HStem: 0 100<150 350 450 750> 100 300<50 150 350 450> 200 100<450 650> 400 100<150 350 450 650>
+VStem: 50 100<100 400> 150 200<0 100 400 500> 350 100<100 200 300 400> 650 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+650 400 m 1,0,-1
+ 450 400 l 1,1,-1
+ 450 500 l 1,2,-1
+ 650 500 l 1,3,-1
+ 650 400 l 1,0,-1
+650 400 m 1,4,-1
+ 750 400 l 1,5,-1
+ 750 200 l 1,6,-1
+ 450 200 l 1,7,-1
+ 450 100 l 1,8,-1
+ 350 100 l 1,9,-1
+ 350 400 l 1,10,-1
+ 150 400 l 1,11,-1
+ 150 500 l 1,12,-1
+ 350 500 l 1,13,-1
+ 350 400 l 1,14,-1
+ 450 400 l 1,15,-1
+ 450 300 l 1,16,-1
+ 650 300 l 1,17,-1
+ 650 400 l 1,4,-1
+350 100 m 1,18,-1
+ 350 0 l 1,19,-1
+ 150 0 l 1,20,-1
+ 150 100 l 1,21,-1
+ 350 100 l 1,18,-1
+150 100 m 1,22,-1
+ 50 100 l 1,23,-1
+ 50 400 l 1,24,-1
+ 150 400 l 1,25,-1
+ 150 100 l 1,22,-1
+450 100 m 1,26,-1
+ 750 100 l 1,27,-1
+ 750 0 l 1,28,-1
+ 450 0 l 1,29,-1
+ 450 100 l 1,26,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 128 -100 "keming"
+EndChar
+
+StartChar: OE
+Encoding: 338 338 200
+Width: 800
+Flags: W
+HStem: 0 100<150 350 450 750> 300 100<450 650> 600 100<150 350 450 750>
+VStem: 50 100<100 600> 150 200<0 100 600 700> 350 100<100 300 400 600> 450 300<0 100 600 700>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+450 100 m 1,0,-1
+ 750 100 l 1,1,-1
+ 750 0 l 1,2,-1
+ 450 0 l 1,3,-1
+ 450 100 l 1,0,-1
+450 100 m 1,4,-1
+ 350 100 l 1,5,-1
+ 350 600 l 1,6,-1
+ 150 600 l 1,7,-1
+ 150 700 l 1,8,-1
+ 350 700 l 1,9,-1
+ 350 600 l 1,10,-1
+ 450 600 l 1,11,-1
+ 450 400 l 1,12,-1
+ 650 400 l 1,13,-1
+ 650 300 l 1,14,-1
+ 450 300 l 1,15,-1
+ 450 100 l 1,4,-1
+350 100 m 1,16,-1
+ 350 0 l 1,17,-1
+ 150 0 l 1,18,-1
+ 150 100 l 1,19,-1
+ 350 100 l 1,16,-1
+150 100 m 1,20,-1
+ 50 100 l 1,21,-1
+ 50 600 l 1,22,-1
+ 150 600 l 1,23,-1
+ 150 100 l 1,20,-1
+450 600 m 1,24,-1
+ 450 700 l 1,25,-1
+ 750 700 l 1,26,-1
+ 750 600 l 1,27,-1
+ 450 600 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
+EndChar
+
+StartChar: quoteleft
+Encoding: 8216 8216 201
+Width: 300
+Flags: W
+HStem: 600 100<150 250>
+VStem: 50 100<400 600> 150 100<600 700>
+LayerCount: 2
+Fore
+SplineSet
+150 600 m 1,0,-1
+ 150 400 l 1,1,-1
+ 50 400 l 1,2,-1
+ 50 600 l 1,3,-1
+ 150 600 l 1,0,-1
+150 600 m 1,4,-1
+ 150 700 l 1,5,-1
+ 250 700 l 1,6,-1
+ 250 600 l 1,7,-1
+ 150 600 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 3 -100 "keming" 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 29 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 104 -100 "keming" 105 -100 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 118 -100 "keming" 122 -100 "keming" 129 -100 "keming" 133 -200 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming"
+EndChar
+
+StartChar: quotedblleft
+Encoding: 8220 8220 202
+Width: 500
+Flags: W
+HStem: 400 200<50 150 250 350> 600 100<150 250 350 450>
+VStem: 50 100<400 600> 150 100<600 700> 250 100<400 600> 350 100<600 700>
+LayerCount: 2
+Fore
+SplineSet
+150 600 m 1,0,-1
+ 150 700 l 1,1,-1
+ 250 700 l 1,2,-1
+ 250 600 l 1,3,-1
+ 150 600 l 1,0,-1
+150 600 m 1,4,-1
+ 150 400 l 1,5,-1
+ 50 400 l 1,6,-1
+ 50 600 l 1,7,-1
+ 150 600 l 1,4,-1
+250 600 m 1,8,-1
+ 350 600 l 1,9,-1
+ 350 700 l 1,10,-1
+ 450 700 l 1,11,-1
+ 450 600 l 1,12,-1
+ 350 600 l 1,13,-1
+ 350 400 l 1,14,-1
+ 250 400 l 1,15,-1
+ 250 600 l 1,8,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 3 -100 "keming" 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 29 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 104 -100 "keming" 105 -100 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 118 -100 "keming" 122 -100 "keming" 129 -100 "keming" 133 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming"
+EndChar
+
+StartChar: quoteright
+Encoding: 8217 8217 203
+Width: 300
+Flags: W
+HStem: 400 100<50 150> 500 21G<150 250> 680 20G<150 250>
+VStem: 50 100<400 500> 150 100<500 700>
+LayerCount: 2
+Fore
+SplineSet
+150 500 m 1,0,-1
+ 150 700 l 1,1,-1
+ 250 700 l 1,2,-1
+ 250 500 l 1,3,-1
+ 150 500 l 1,0,-1
+150 500 m 1,4,-1
+ 150 400 l 1,5,-1
+ 50 400 l 1,6,-1
+ 50 500 l 1,7,-1
+ 150 500 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 114 -100 "keming" 133 -200 "keming" 190 -100 "keming" 196 -100 "keming"
+EndChar
+
+StartChar: quotedblright
+Encoding: 8221 8221 204
+Width: 500
+Flags: W
+HStem: 400 100<50 150 250 350> 500 200<150 250 350 450>
+VStem: 50 100<400 500> 150 100<500 700> 250 100<400 500> 350 100<500 700>
+LayerCount: 2
+Fore
+SplineSet
+250 500 m 1,0,-1
+ 150 500 l 1,1,-1
+ 150 700 l 1,2,-1
+ 250 700 l 1,3,-1
+ 250 500 l 1,0,-1
+250 500 m 1,4,-1
+ 350 500 l 1,5,-1
+ 350 700 l 1,6,-1
+ 450 700 l 1,7,-1
+ 450 500 l 1,8,-1
+ 350 500 l 1,9,-1
+ 350 400 l 1,10,-1
+ 250 400 l 1,11,-1
+ 250 500 l 1,4,-1
+150 500 m 1,12,-1
+ 150 400 l 1,13,-1
+ 50 400 l 1,14,-1
+ 50 500 l 1,15,-1
+ 150 500 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 114 -100 "keming" 133 -100 "keming" 190 -100 "keming" 196 -100 "keming"
+EndChar
+
+StartChar: quotedblbase
+Encoding: 8222 8222 205
+Width: 500
+Flags: W
+HStem: -100 100<50 150 250 350> 0 200<150 250 350 450>
+VStem: 50 100<-100 0> 150 100<0 200> 250 100<-100 0> 350 100<0 200>
+LayerCount: 2
+Fore
+SplineSet
+250 0 m 1,0,-1
+ 150 0 l 1,1,-1
+ 150 200 l 1,2,-1
+ 250 200 l 1,3,-1
+ 250 0 l 1,0,-1
+250 0 m 1,4,-1
+ 350 0 l 1,5,-1
+ 350 200 l 1,6,-1
+ 450 200 l 1,7,-1
+ 450 0 l 1,8,-1
+ 350 0 l 1,9,-1
+ 350 -100 l 1,10,-1
+ 250 -100 l 1,11,-1
+ 250 0 l 1,4,-1
+150 0 m 1,12,-1
+ 150 -100 l 1,13,-1
+ 50 -100 l 1,14,-1
+ 50 0 l 1,15,-1
+ 150 0 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 11 -100 "keming" 23 -100 "keming" 28 -100 "keming" 31 -100 "keming" 60 -100 "keming" 91 -100 "keming" 123 -100 "keming" 125 -100 "keming" 127 -100 "keming" 190 -100 "keming" 192 -100 "keming"
+EndChar
+
+StartChar: quotesinglbase
+Encoding: 8218 8218 206
+Width: 300
+Flags: W
+HStem: -100 100<50 150> 0 21G<150 250>
+VStem: 50 100<-100 0> 150 100<0 200>
+LayerCount: 2
+Fore
+SplineSet
+150 0 m 1,0,-1
+ 150 200 l 1,1,-1
+ 250 200 l 1,2,-1
+ 250 0 l 1,3,-1
+ 150 0 l 1,0,-1
+150 0 m 1,4,-1
+ 150 -100 l 1,5,-1
+ 50 -100 l 1,6,-1
+ 50 0 l 1,7,-1
+ 150 0 l 1,4,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 11 -100 "keming" 23 -100 "keming" 28 -100 "keming" 31 -100 "keming" 60 -200 "keming" 91 -100 "keming" 123 -100 "keming" 125 -100 "keming" 127 -100 "keming" 190 -100 "keming" 192 -100 "keming"
+EndChar
+
+StartChar: tilde
+Encoding: 732 732 207
+Width: 500
+Flags: W
+HStem: 500 100<50 150 250 350> 600 100<150 250 350 450>
+VStem: 50 100<500 600> 150 100<600 700> 250 100<500 600> 350 100<600 700>
+LayerCount: 2
+Fore
+SplineSet
+150 600 m 1,0,-1
+ 150 500 l 1,1,-1
+ 50 500 l 1,2,-1
+ 50 600 l 1,3,-1
+ 150 600 l 1,0,-1
+150 600 m 1,4,-1
+ 150 700 l 1,5,-1
+ 250 700 l 1,6,-1
+ 250 600 l 1,7,-1
+ 150 600 l 1,4,-1
+250 600 m 1,8,-1
+ 350 600 l 1,9,-1
+ 350 500 l 1,10,-1
+ 250 500 l 1,11,-1
+ 250 600 l 1,8,-1
+350 600 m 1,12,-1
+ 350 700 l 1,13,-1
+ 450 700 l 1,14,-1
+ 450 600 l 1,15,-1
+ 350 600 l 1,12,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 3 -100 "keming" 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 118 -100 "keming" 122 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 203 -100 "keming" 204 -100 "keming"
+EndChar
+
+StartChar: trademark
+Encoding: 8482 8482 208
+Width: 1000
+Flags: W
+HStem: 400 300<150 250 450 550 850 950> 500 100<650 750> 600 100<50 150 250 350 550 650 750 850>
+VStem: 150 100<400 600> 450 100<400 600> 650 100<500 600> 850 100<400 600>
+LayerCount: 2
+Fore
+SplineSet
+450 400 m 1,0,-1
+ 450 700 l 1,1,-1
+ 650 700 l 1,2,-1
+ 650 600 l 1,3,-1
+ 550 600 l 1,4,-1
+ 550 400 l 1,5,-1
+ 450 400 l 1,0,-1
+150 600 m 1,6,-1
+ 50 600 l 1,7,-1
+ 50 700 l 1,8,-1
+ 350 700 l 1,9,-1
+ 350 600 l 1,10,-1
+ 250 600 l 1,11,-1
+ 250 400 l 1,12,-1
+ 150 400 l 1,13,-1
+ 150 600 l 1,6,-1
+650 600 m 1,14,-1
+ 750 600 l 1,15,-1
+ 750 500 l 1,16,-1
+ 650 500 l 1,17,-1
+ 650 600 l 1,14,-1
+750 600 m 1,18,-1
+ 750 700 l 1,19,-1
+ 950 700 l 1,20,-1
+ 950 400 l 1,21,-1
+ 850 400 l 1,22,-1
+ 850 600 l 1,23,-1
+ 750 600 l 1,18,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 15 -100 "keming" 133 -100 "keming"
+EndChar
+
+StartChar: Zcaron
+Encoding: 381 381 209
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 300 100<150 450> 600 100<50 250 350 450> 800 100<150 250 350 450>
+VStem: 50 100<100 300> 150 100<800 900> 350 100<800 900> 450 100<400 600>
+LayerCount: 2
+Fore
+SplineSet
+50 600 m 1,0,-1
+ 50 700 l 1,1,-1
+ 250 700 l 1,2,-1
+ 250 800 l 1,3,-1
+ 150 800 l 1,4,-1
+ 150 900 l 1,5,-1
+ 250 900 l 1,6,-1
+ 250 800 l 1,7,-1
+ 350 800 l 1,8,-1
+ 350 900 l 1,9,-1
+ 450 900 l 1,10,-1
+ 450 800 l 1,11,-1
+ 350 800 l 1,12,-1
+ 350 700 l 1,13,-1
+ 550 700 l 1,14,-1
+ 550 400 l 1,15,-1
+ 450 400 l 1,16,-1
+ 450 600 l 1,17,-1
+ 50 600 l 1,0,-1
+150 100 m 1,18,-1
+ 550 100 l 1,19,-1
+ 550 0 l 1,20,-1
+ 50 0 l 1,21,-1
+ 50 300 l 1,22,-1
+ 150 300 l 1,23,-1
+ 150 400 l 1,24,-1
+ 450 400 l 1,25,-1
+ 450 300 l 1,26,-1
+ 150 300 l 1,27,-1
+ 150 100 l 1,18,-1
+EndSplineSet
+Validated: 8388613
+EndChar
+
+StartChar: perthousand
+Encoding: 8240 8240 210
+Width: 900
+Flags: W
+HStem: 0 200<50 150 350 550 650 850> 200 100<150 250> 300 100<250 350> 400 100<350 450> 500 200<50 250 450 550>
+VStem: 50 100<0 200> 150 100<200 300> 250 100<300 400> 350 100<400 500> 450 100<500 700> 650 200<0 200>
+LayerCount: 2
+Fore
+SplineSet
+850 0 m 1,0,-1
+ 650 0 l 1,1,-1
+ 650 200 l 1,2,-1
+ 850 200 l 1,3,-1
+ 850 0 l 1,0,-1
+250 500 m 1,4,-1
+ 50 500 l 1,5,-1
+ 50 700 l 1,6,-1
+ 250 700 l 1,7,-1
+ 250 500 l 1,4,-1
+550 0 m 1,8,-1
+ 350 0 l 1,9,-1
+ 350 200 l 1,10,-1
+ 550 200 l 1,11,-1
+ 550 0 l 1,8,-1
+150 200 m 1,12,-1
+ 150 0 l 1,13,-1
+ 50 0 l 1,14,-1
+ 50 200 l 1,15,-1
+ 150 200 l 1,12,-1
+150 200 m 1,16,-1
+ 150 300 l 1,17,-1
+ 250 300 l 1,18,-1
+ 250 200 l 1,19,-1
+ 150 200 l 1,16,-1
+450 500 m 1,20,-1
+ 450 400 l 1,21,-1
+ 350 400 l 1,22,-1
+ 350 500 l 1,23,-1
+ 450 500 l 1,20,-1
+450 500 m 1,24,-1
+ 450 700 l 1,25,-1
+ 550 700 l 1,26,-1
+ 550 500 l 1,27,-1
+ 450 500 l 1,24,-1
+350 400 m 1,28,-1
+ 350 300 l 1,29,-1
+ 250 300 l 1,30,-1
+ 250 400 l 1,31,-1
+ 350 400 l 1,28,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 2 -100 "keming" 7 -100 "keming" 10 -100 "keming" 11 -100 "keming" 13 -100 "keming" 23 -100 "keming" 28 -100 "keming" 31 -100 "keming" 60 -100 "keming" 62 -100 "keming" 64 -100 "keming" 91 -100 "keming" 114 -100 "keming" 115 -100 "keming" 116 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 121 -100 "keming" 123 -100 "keming" 124 -100 "keming" 126 -100 "keming" 127 -100 "keming" 190 -100 "keming" 192 -100 "keming" 194 -100 "keming" 196 -100 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 207 -100 "keming" 208 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
+EndChar
+
+StartChar: bullet
+Encoding: 8226 8226 211
+Width: 200
+Flags: W
+HStem: 300 100<50 150>
+VStem: 50 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+150 400 m 1,0,-1
+ 150 300 l 1,1,-1
+ 50 300 l 1,2,-1
+ 50 400 l 1,3,-1
+ 150 400 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 19 -100 "keming" 23 -100 "keming" 31 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming"
+EndChar
+
+StartChar: endash
+Encoding: 8211 8211 212
+Width: 550
+Flags: W
+HStem: 300 100<50 500>
+LayerCount: 2
+Fore
+SplineSet
+50 300 m 1,0,-1
+ 50 400 l 1,1,-1
+ 500 400 l 1,2,-1
+ 500 300 l 1,3,-1
+ 50 300 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 19 -200 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming" 163 -100 "keming"
+EndChar
+
+StartChar: emdash
+Encoding: 8212 8212 213
+Width: 700
+Flags: W
+HStem: 300 100<50 650>
+LayerCount: 2
+Fore
+SplineSet
+50 300 m 1,0,-1
+ 50 400 l 1,1,-1
+ 650 400 l 5,2,-1
+ 650 300 l 5,3,-1
+ 50 300 l 1,0,-1
+EndSplineSet
+Validated: 1
+Kerns2: 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming" 163 -100 "keming"
+EndChar
+
+StartChar: scaron
+Encoding: 353 353 214
+Width: 600
+Flags: W
+HStem: 0 100<50 450> 100 100<450 550> 200 100<150 450> 300 100<50 150> 400 100<150 250 350 550> 500 21G<250 350> 600 100<150 250 350 450>
+VStem: 50 100<300 400> 150 100<600 700> 250 100<500 600> 350 100<600 700> 450 100<100 200>
+LayerCount: 2
+Fore
+SplineSet
+550 500 m 1,0,-1
+ 550 400 l 1,1,-1
+ 150 400 l 1,2,-1
+ 150 300 l 1,3,-1
+ 450 300 l 1,4,-1
+ 450 200 l 1,5,-1
+ 550 200 l 1,6,-1
+ 550 100 l 1,7,-1
+ 450 100 l 1,8,-1
+ 450 200 l 1,9,-1
+ 150 200 l 1,10,-1
+ 150 300 l 1,11,-1
+ 50 300 l 1,12,-1
+ 50 400 l 1,13,-1
+ 150 400 l 1,14,-1
+ 150 500 l 1,15,-1
+ 250 500 l 1,16,-1
+ 250 600 l 1,17,-1
+ 350 600 l 1,18,-1
+ 350 500 l 1,19,-1
+ 550 500 l 1,0,-1
+250 600 m 1,20,-1
+ 150 600 l 1,21,-1
+ 150 700 l 1,22,-1
+ 250 700 l 1,23,-1
+ 250 600 l 1,20,-1
+350 600 m 1,24,-1
+ 350 700 l 1,25,-1
+ 450 700 l 1,26,-1
+ 450 600 l 1,27,-1
+ 350 600 l 1,24,-1
+450 100 m 1,28,-1
+ 450 0 l 1,29,-1
+ 50 0 l 1,30,-1
+ 50 100 l 1,31,-1
+ 450 100 l 1,28,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming"
+EndChar
+
+StartChar: zcaron
+Encoding: 382 382 215
+Width: 600
+Flags: W
+HStem: 0 100<150 550> 200 100<150 450> 400 100<50 250 350 450> 600 100<150 250 350 450>
+VStem: 50 100<100 200> 150 100<600 700> 350 100<600 700> 450 100<300 400>
+LayerCount: 2
+Fore
+SplineSet
+150 100 m 1,0,-1
+ 550 100 l 1,1,-1
+ 550 0 l 1,2,-1
+ 50 0 l 1,3,-1
+ 50 200 l 1,4,-1
+ 150 200 l 1,5,-1
+ 150 300 l 1,6,-1
+ 450 300 l 1,7,-1
+ 450 200 l 1,8,-1
+ 150 200 l 1,9,-1
+ 150 100 l 1,0,-1
+550 500 m 1,10,-1
+ 550 300 l 1,11,-1
+ 450 300 l 1,12,-1
+ 450 400 l 1,13,-1
+ 50 400 l 1,14,-1
+ 50 500 l 1,15,-1
+ 250 500 l 1,16,-1
+ 250 600 l 1,17,-1
+ 150 600 l 1,18,-1
+ 150 700 l 1,19,-1
+ 250 700 l 1,20,-1
+ 250 600 l 1,21,-1
+ 350 600 l 1,22,-1
+ 350 700 l 1,23,-1
+ 450 700 l 1,24,-1
+ 450 600 l 1,25,-1
+ 350 600 l 1,26,-1
+ 350 500 l 1,27,-1
+ 550 500 l 1,10,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 52 -100 "keming" 113 -100 "keming"
+EndChar
+
+StartChar: Scaron
+Encoding: 352 352 216
+Width: 600
+Flags: W
+HStem: 0 100<50 450> 300 100<150 450> 600 100<150 250 350 550> 800 100<150 250 350 450>
+VStem: 50 100<400 600> 150 100<800 900> 350 100<800 900> 450 100<100 300>
+LayerCount: 2
+Fore
+SplineSet
+550 700 m 1,0,-1
+ 550 600 l 1,1,-1
+ 150 600 l 1,2,-1
+ 150 700 l 1,3,-1
+ 250 700 l 1,4,-1
+ 250 800 l 1,5,-1
+ 150 800 l 1,6,-1
+ 150 900 l 1,7,-1
+ 250 900 l 1,8,-1
+ 250 800 l 1,9,-1
+ 350 800 l 1,10,-1
+ 350 900 l 1,11,-1
+ 450 900 l 1,12,-1
+ 450 800 l 1,13,-1
+ 350 800 l 1,14,-1
+ 350 700 l 1,15,-1
+ 550 700 l 1,0,-1
+450 100 m 1,16,-1
+ 450 300 l 1,17,-1
+ 150 300 l 1,18,-1
+ 150 400 l 1,19,-1
+ 50 400 l 1,20,-1
+ 50 600 l 1,21,-1
+ 150 600 l 1,22,-1
+ 150 400 l 1,23,-1
+ 450 400 l 1,24,-1
+ 450 300 l 1,25,-1
+ 550 300 l 1,26,-1
+ 550 100 l 1,27,-1
+ 450 100 l 1,16,-1
+450 100 m 1,28,-1
+ 450 0 l 1,29,-1
+ 50 0 l 1,30,-1
+ 50 100 l 1,31,-1
+ 450 100 l 1,28,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 70 -100 "keming" 74 -100 "keming" 198 -100 "keming"
+EndChar
+
+StartChar: Ydieresis
+Encoding: 376 376 217
+Width: 600
+Flags: W
+HStem: 0 21G<250 350> 300 100<150 250 350 450> 400 300<50 150 450 550> 800 100<150 250 350 450>
+VStem: 50 100<400 700> 150 100<300 400 800 900> 250 100<0 300> 350 100<300 400 800 900> 450 100<400 700>
+LayerCount: 2
+Fore
+SplineSet
+250 900 m 1,0,-1
+ 250 800 l 1,1,-1
+ 150 800 l 1,2,-1
+ 150 900 l 1,3,-1
+ 250 900 l 1,0,-1
+450 900 m 1,4,-1
+ 450 800 l 1,5,-1
+ 350 800 l 1,6,-1
+ 350 900 l 1,7,-1
+ 450 900 l 1,4,-1
+150 400 m 1,8,-1
+ 250 400 l 1,9,-1
+ 250 300 l 1,10,-1
+ 350 300 l 1,11,-1
+ 350 0 l 1,12,-1
+ 250 0 l 1,13,-1
+ 250 300 l 1,14,-1
+ 150 300 l 1,15,-1
+ 150 400 l 1,8,-1
+150 400 m 1,16,-1
+ 50 400 l 1,17,-1
+ 50 700 l 1,18,-1
+ 150 700 l 1,19,-1
+ 150 400 l 1,16,-1
+350 300 m 1,20,-1
+ 350 400 l 1,21,-1
+ 450 400 l 1,22,-1
+ 450 300 l 1,23,-1
+ 350 300 l 1,20,-1
+450 400 m 1,24,-1
+ 450 700 l 1,25,-1
+ 550 700 l 1,26,-1
+ 550 400 l 1,27,-1
+ 450 400 l 1,24,-1
+EndSplineSet
+Validated: 8388613
+Kerns2: 42 -100 "keming" 74 -100 "keming" 189 -100 "keming"
+EndChar
+EndChars
+EndSplineFont

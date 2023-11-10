@@ -1,4 +1,4 @@
-![screenshot](assets/screenshot.png)
+![Logo](assets/logo.png)
 
 # Mintbit
 A pixel font.

@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: MintBit
-FullName: MintBit
-FamilyName: MintBit
+FontName: Mintbit
+FullName: Mintbit
+FamilyName: Mintbit
 Weight: Regular
 Copyright: Copyright (c) 2023, pprmint.
 Version: 1.0
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1627593153
-ModificationTime: 1699611325
+ModificationTime: 1699614795
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -43,7 +43,7 @@ OS2Vendor: 'PfEd'
 Lookup: 258 0 0 "pain" { "keming" [100,-100,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "pprmint." "pprmint." "" "" "www.pprmint.art" "Copyright (c) 2023, pprmint. (www.pprmint.art|mail@pprmint.art),+AAoA-with Reserved Font Name MintBit.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "" "" "" "pprmint." "pprmint." "" "" "www.pprmint.art" "Copyright (c) 2023, pprmint. (www.pprmint.art|mail@pprmint.art),+AAoA-with Reserved Font Name Mintbit.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -51,7 +51,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 16 7
+WinInfo: 64 8 2
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 52428 26214 17476 524288 1048576 17476 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -257,7 +257,7 @@ SplineSet
  550 500 l 1,27,-1
  450 500 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: ampersand
@@ -318,7 +318,7 @@ SplineSet
  450 700 l 1,39,-1
  450 600 l 1,36,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 2 -100 "keming" 7 -100 "keming" 10 -100 "keming" 23 -100 "keming" 31 -100 "keming" 60 -100 "keming" 62 -100 "keming" 64 -100 "keming" 116 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 121 -100 "keming" 123 -100 "keming" 126 -100 "keming" 192 -100 "keming" 194 -100 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 207 -100 "keming" 208 -100 "keming"
 EndChar
 
@@ -365,7 +365,7 @@ SplineSet
  150 700 l 1,11,-1
  350 700 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 3 -100 "keming" 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 29 -100 "keming" 62 -100 "keming" 91 -100 "keming" 94 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 129 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -394,7 +394,7 @@ SplineSet
  250 700 l 1,11,-1
  250 600 l 1,8,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
 EndChar
 
@@ -431,7 +431,7 @@ SplineSet
  150 700 l 1,19,-1
  150 600 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 15 -100 "keming" 133 -100 "keming"
 EndChar
 
@@ -551,7 +551,7 @@ SplineSet
  550 500 l 1,19,-1
  450 500 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 6 -100 "keming" 11 -100 "keming" 12 -100 "keming" 13 -100 "keming" 14 -200 "keming" 15 -300 "keming" 26 -100 "keming" 27 -100 "keming" 28 -100 "keming" 91 -100 "keming" 94 -100 "keming" 105 -100 "keming" 106 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 133 -200 "keming" 190 -100 "keming" 195 -200 "keming" 196 -100 "keming" 205 -200 "keming" 206 -200 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -591,7 +591,7 @@ SplineSet
  450 700 l 1,19,-1
  450 600 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
 EndChar
 
@@ -656,7 +656,7 @@ SplineSet
  150 600 l 1,21,-1
  150 500 l 1,6,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 64 -100 "keming" 94 -100 "keming" 116 -100 "keming"
 EndChar
 
@@ -704,7 +704,7 @@ SplineSet
  50 600 l 1,27,-1
  150 600 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
 EndChar
 
@@ -809,7 +809,7 @@ SplineSet
  450 600 l 1,23,-1
  150 600 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
 EndChar
 
@@ -839,7 +839,7 @@ SplineSet
  450 600 l 1,13,-1
  50 600 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 12 -100 "keming" 14 -100 "keming" 15 -100 "keming" 94 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -200 "keming" 206 -200 "keming"
 EndChar
 
@@ -888,7 +888,7 @@ SplineSet
  450 700 l 1,27,-1
  450 600 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
 EndChar
 
@@ -929,7 +929,7 @@ SplineSet
  450 700 l 1,23,-1
  450 600 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 64 -100 "keming" 116 -100 "keming" 205 -100 "keming" 206 -100 "keming"
 EndChar
 
@@ -1013,7 +1013,7 @@ SplineSet
  250 600 l 1,19,-1
  350 600 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 91 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 190 -100 "keming" 196 -100 "keming" 205 -100 "keming" 206 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -1073,7 +1073,7 @@ SplineSet
  150 600 l 1,19,-1
  150 500 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 2 -100 "keming" 7 -100 "keming" 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 126 -100 "keming" 133 -100 "keming" 163 -100 "keming" 205 -100 "keming" 206 -100 "keming" 207 -100 "keming" 208 -100 "keming"
 EndChar
 
@@ -1116,7 +1116,7 @@ SplineSet
  450 700 l 1,23,-1
  450 600 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 12 -100 "keming" 14 -200 "keming" 15 -100 "keming" 64 -100 "keming" 94 -100 "keming" 133 -100 "keming" 195 -200 "keming" 205 -200 "keming" 206 -200 "keming"
 EndChar
 
@@ -1186,7 +1186,7 @@ SplineSet
  650 100 l 1,47,-1
  650 200 l 1,44,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 23 -100 "keming" 63 -100 "keming" 64 -100 "keming" 116 -100 "keming" 121 -100 "keming" 125 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming" 208 -100 "keming"
 EndChar
 
@@ -1252,7 +1252,7 @@ SplineSet
  550 400 l 1,19,-1
  450 400 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -1290,7 +1290,7 @@ SplineSet
  450 600 l 1,19,-1
  150 600 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -1485,7 +1485,7 @@ SplineSet
  150 200 l 1,13,-1
  150 100 l 1,10,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -1527,7 +1527,7 @@ SplineSet
  550 500 l 1,23,-1
  450 500 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 162 -100 "keming"
 EndChar
 
@@ -1585,7 +1585,7 @@ SplineSet
  350 500 l 1,19,-1
  350 300 l 1,8,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: N
@@ -1622,7 +1622,7 @@ SplineSet
  350 500 l 1,19,-1
  350 400 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: O
@@ -1655,7 +1655,7 @@ SplineSet
  550 100 l 1,15,-1
  450 100 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -1733,7 +1733,7 @@ SplineSet
  450 700 l 1,27,-1
  450 600 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: R
@@ -1890,7 +1890,7 @@ SplineSet
  550 200 l 1,19,-1
  450 200 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -1927,7 +1927,7 @@ SplineSet
  150 100 l 1,19,-1
  150 0 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: X
@@ -1984,7 +1984,7 @@ SplineSet
  350 400 l 1,35,-1
  350 300 l 1,28,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 162 -100 "keming"
 EndChar
 
@@ -2022,7 +2022,7 @@ SplineSet
  550 400 l 1,19,-1
  450 400 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 42 -100 "keming" 74 -100 "keming" 189 -100 "keming"
 EndChar
 
@@ -2077,7 +2077,7 @@ SplineSet
  150 600 l 1,7,-1
  150 100 l 1,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Kerns2: 3 -100 "keming" 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 29 -100 "keming" 62 -100 "keming" 91 -100 "keming" 94 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 129 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -2116,7 +2116,7 @@ SplineSet
  150 700 l 1,19,-1
  150 500 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 2 -100 "keming" 7 -100 "keming" 10 -100 "keming" 11 -100 "keming" 13 -100 "keming" 23 -100 "keming" 28 -100 "keming" 31 -100 "keming" 60 -300 "keming" 62 -100 "keming" 64 -100 "keming" 91 -100 "keming" 115 -100 "keming" 116 -200 "keming" 117 -200 "keming" 119 -200 "keming" 120 -200 "keming" 121 -200 "keming" 123 -100 "keming" 126 -200 "keming" 127 -100 "keming" 190 -100 "keming" 192 -100 "keming" 194 -100 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 207 -200 "keming" 208 -200 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -2139,7 +2139,7 @@ SplineSet
  50 100 l 1,7,-1
  250 100 l 1,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: asciicircum
@@ -2176,7 +2176,7 @@ SplineSet
  350 600 l 1,19,-1
  250 600 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 9 -100 "keming" 15 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming"
 EndChar
 
@@ -2218,7 +2218,7 @@ SplineSet
  150 800 l 1,7,-1
  150 700 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 3 -100 "keming" 6 -100 "keming" 15 -200 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 203 -100 "keming" 204 -100 "keming"
 EndChar
 
@@ -2253,7 +2253,7 @@ SplineSet
  350 100 l 1,19,-1
  350 0 l 1,0,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -2322,7 +2322,7 @@ SplineSet
  450 500 l 1,19,-1
  450 400 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -2452,7 +2452,7 @@ SplineSet
  150 400 l 1,17,-1
  150 200 l 1,14,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming"
 EndChar
 
@@ -2581,7 +2581,7 @@ SplineSet
  350 500 l 1,23,-1
  450 500 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming"
 EndChar
 
@@ -2702,7 +2702,7 @@ SplineSet
  50 400 l 1,15,-1
  150 400 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -2822,7 +2822,7 @@ SplineSet
  50 100 l 1,19,-1
  450 100 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming"
 EndChar
 
@@ -2882,7 +2882,7 @@ SplineSet
  450 100 l 1,15,-1
  350 100 l 1,8,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming"
 EndChar
 
@@ -2919,7 +2919,7 @@ SplineSet
  150 500 l 1,19,-1
  150 200 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 41 -100 "keming" 52 -100 "keming" 74 -100 "keming" 141 -100 "keming" 145 -100 "keming" 153 -100 "keming" 154 -100 "keming"
 EndChar
 
@@ -3009,7 +3009,7 @@ SplineSet
  150 500 l 1,35,-1
  150 400 l 1,32,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming"
 EndChar
 
@@ -3040,7 +3040,7 @@ SplineSet
  50 200 l 1,15,-1
  50 500 l 1,0,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming"
 EndChar
 
@@ -3113,7 +3113,7 @@ SplineSet
  450 600 l 1,19,-1
  250 600 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 29 -100 "keming" 62 -100 "keming" 91 -100 "keming" 94 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 129 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -3169,7 +3169,7 @@ SplineSet
  250 700 l 1,19,-1
  250 600 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 9 -100 "keming" 12 -100 "keming" 14 -100 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming"
 EndChar
 
@@ -3202,7 +3202,7 @@ SplineSet
  350 300 l 1,15,-1
  150 300 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 9 -100 "keming" 15 -100 "keming" 23 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming"
 EndChar
 
@@ -3242,7 +3242,7 @@ SplineSet
  350 900 l 1,21,-1
  450 900 l 1,18,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: Odieresis
@@ -3285,7 +3285,7 @@ SplineSet
  550 100 l 1,23,-1
  450 100 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -3324,7 +3324,7 @@ SplineSet
  150 700 l 1,19,-1
  150 100 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -3369,7 +3369,7 @@ SplineSet
  350 700 l 1,27,-1
  450 700 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -3413,7 +3413,7 @@ SplineSet
  50 400 l 1,23,-1
  150 400 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -3456,7 +3456,7 @@ SplineSet
  450 100 l 1,23,-1
  350 100 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming"
 EndChar
 
@@ -3500,7 +3500,7 @@ SplineSet
  250 400 l 1,23,-1
  450 400 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -3659,7 +3659,7 @@ SplineSet
  350 100 l 1,31,-1
  450 100 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 2 -100 "keming" 7 -100 "keming" 23 -100 "keming" 31 -100 "keming" 60 -100 "keming" 63 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 125 -100 "keming" 126 -100 "keming" 205 -100 "keming" 206 -100 "keming" 207 -100 "keming" 208 -100 "keming"
 EndChar
 
@@ -3700,7 +3700,7 @@ SplineSet
  550 500 l 1,23,-1
  550 600 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 64 -100 "keming" 91 -100 "keming" 94 -100 "keming" 114 -100 "keming" 115 -100 "keming" 116 -100 "keming" 124 -100 "keming" 127 -100 "keming" 190 -100 "keming" 196 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -3742,7 +3742,7 @@ SplineSet
  550 500 l 1,23,-1
  450 500 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: yen
@@ -3790,7 +3790,7 @@ SplineSet
  350 500 l 1,31,-1
  450 500 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 205 -100 "keming" 206 -100 "keming"
 EndChar
 
@@ -3877,7 +3877,7 @@ SplineSet
  550 200 l 1,39,-1
  450 200 l 1,36,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 64 -100 "keming" 116 -100 "keming"
 EndChar
 
@@ -3940,7 +3940,7 @@ SplineSet
  550 200 l 1,39,-1
  250 200 l 1,32,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 9 -100 "keming" 12 -100 "keming" 14 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming" 208 -100 "keming"
 EndChar
 
@@ -4008,7 +4008,7 @@ SplineSet
  550 300 l 1,43,-1
  550 200 l 1,40,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 9 -100 "keming" 12 -100 "keming" 14 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 195 -100 "keming" 205 -100 "keming" 206 -100 "keming" 208 -100 "keming"
 EndChar
 
@@ -4078,7 +4078,7 @@ SplineSet
  550 300 l 1,23,-1
  550 200 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 9 -100 "keming" 23 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming"
 EndChar
 
@@ -4149,7 +4149,7 @@ SplineSet
  150 600 l 1,15,-1
  150 500 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 64 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 114 -100 "keming" 133 -100 "keming" 190 -100 "keming" 196 -100 "keming"
 EndChar
 
@@ -4212,7 +4212,7 @@ SplineSet
  250 900 l 1,13,-1
  250 800 l 1,10,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 190 -100 "keming"
 EndChar
 
@@ -4241,7 +4241,7 @@ SplineSet
  50 900 l 1,13,-1
  250 900 l 1,0,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 3 -100 "keming" 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 29 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 104 -100 "keming" 105 -200 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 118 -100 "keming" 122 -100 "keming" 129 -100 "keming" 133 -200 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -200 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming"
 EndChar
 
@@ -4265,7 +4265,7 @@ SplineSet
  50 700 l 1,7,-1
  150 700 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 3 -100 "keming" 4 -100 "keming" 6 -200 "keming" 8 -100 "keming" 15 -200 "keming" 16 -100 "keming" 17 -100 "keming" 18 -100 "keming" 19 -100 "keming" 20 -100 "keming" 22 -100 "keming" 24 -100 "keming" 25 -100 "keming" 31 -100 "keming" 32 -200 "keming" 62 -200 "keming" 91 -200 "keming" 106 -200 "keming" 110 -100 "keming" 111 -200 "keming" 112 -200 "keming" 117 -100 "keming" 123 -100 "keming" 191 -200 "keming" 192 -200 "keming" 193 -200 "keming" 194 -200 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 207 -100 "keming"
 EndChar
 
@@ -4298,7 +4298,7 @@ SplineSet
  250 200 l 1,15,-1
  250 100 l 1,8,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 23 -100 "keming" 63 -100 "keming" 125 -100 "keming" 205 -100 "keming" 206 -100 "keming"
 EndChar
 
@@ -4329,7 +4329,7 @@ SplineSet
  50 600 l 1,15,-1
  150 600 l 1,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Kerns2: 3 -100 "keming" 6 -100 "keming" 11 -100 "keming" 12 -100 "keming" 13 -100 "keming" 14 -100 "keming" 15 -100 "keming" 26 -100 "keming" 27 -100 "keming" 28 -100 "keming" 29 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 94 -100 "keming" 104 -100 "keming" 105 -100 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 118 -100 "keming" 122 -100 "keming" 124 -100 "keming" 127 -100 "keming" 129 -100 "keming" 133 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 195 -100 "keming" 196 -100 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming" 205 -100 "keming" 206 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -4372,7 +4372,7 @@ SplineSet
  50 -100 l 1,7,-1
  150 -100 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 32 -100 "keming" 105 -100 "keming"
 EndChar
 
@@ -4493,7 +4493,7 @@ SplineSet
  50 300 l 1,23,-1
  150 300 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 31 -100 "keming" 61 -100 "keming" 93 -100 "keming" 117 -100 "keming" 120 -100 "keming" 133 -100 "keming" 208 -100 "keming"
 EndChar
 
@@ -4559,7 +4559,7 @@ SplineSet
  550 600 l 1,43,-1
  650 600 l 1,40,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: onequarter
@@ -4624,7 +4624,7 @@ SplineSet
  150 200 l 1,43,-1
  250 200 l 1,36,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: threequarters
@@ -4695,7 +4695,7 @@ SplineSet
  750 600 l 1,49,-1
  650 600 l 1,46,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: questiondown
@@ -4738,7 +4738,7 @@ SplineSet
  150 200 l 1,23,-1
  250 200 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 3 -100 "keming" 6 -100 "keming" 8 -100 "keming" 10 -100 "keming" 11 -100 "keming" 13 -100 "keming" 16 -100 "keming" 19 -100 "keming" 20 -100 "keming" 22 -100 "keming" 23 -100 "keming" 24 -100 "keming" 25 -100 "keming" 28 -100 "keming" 29 -100 "keming" 30 -100 "keming" 31 -100 "keming" 32 -100 "keming" 60 -100 "keming" 62 -100 "keming" 91 -100 "keming" 94 -100 "keming" 105 -100 "keming" 107 -100 "keming" 108 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 115 -100 "keming" 117 -100 "keming" 118 -100 "keming" 120 -100 "keming" 123 -100 "keming" 124 -100 "keming" 127 -100 "keming" 129 -100 "keming" 163 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 208 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -4777,7 +4777,7 @@ SplineSet
  250 1000 l 1,21,-1
  250 900 l 1,18,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: Aacute
@@ -4815,7 +4815,7 @@ SplineSet
  250 900 l 1,21,-1
  350 900 l 1,18,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: Acircumflex
@@ -4858,7 +4858,7 @@ SplineSet
  150 900 l 1,25,-1
  250 900 l 1,22,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: Atilde
@@ -4905,7 +4905,7 @@ SplineSet
  150 900 l 1,29,-1
  250 900 l 1,26,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: Ntilde
@@ -4960,7 +4960,7 @@ SplineSet
  150 900 l 1,35,-1
  250 900 l 1,32,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: Otilde
@@ -5012,7 +5012,7 @@ SplineSet
  550 100 l 1,31,-1
  450 100 l 1,28,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -5049,7 +5049,7 @@ SplineSet
  250 1000 l 1,19,-1
  250 900 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -5086,7 +5086,7 @@ SplineSet
  150 1000 l 1,19,-1
  150 900 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -5130,7 +5130,7 @@ SplineSet
  550 100 l 1,23,-1
  450 100 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -5169,7 +5169,7 @@ SplineSet
  150 700 l 1,19,-1
  150 100 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -5206,7 +5206,7 @@ SplineSet
  250 900 l 1,19,-1
  350 900 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -5243,7 +5243,7 @@ SplineSet
  150 900 l 1,19,-1
  250 900 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -5287,7 +5287,7 @@ SplineSet
  550 100 l 1,23,-1
  450 100 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -5326,7 +5326,7 @@ SplineSet
  150 700 l 1,19,-1
  150 100 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -5374,7 +5374,7 @@ SplineSet
  250 900 l 1,27,-1
  350 900 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 42 -100 "keming" 74 -100 "keming" 189 -100 "keming"
 EndChar
 
@@ -5418,7 +5418,7 @@ SplineSet
  150 200 l 1,25,-1
  150 100 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -5453,7 +5453,7 @@ SplineSet
  250 700 l 1,17,-1
  350 700 l 1,14,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -5494,7 +5494,7 @@ SplineSet
  350 700 l 1,23,-1
  450 700 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming"
 EndChar
 
@@ -5531,7 +5531,7 @@ SplineSet
  150 300 l 1,19,-1
  150 100 l 1,8,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -5610,7 +5610,7 @@ SplineSet
  50 900 l 1,23,-1
  150 900 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -5652,7 +5652,7 @@ SplineSet
  150 900 l 1,23,-1
  250 900 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -5701,7 +5701,7 @@ SplineSet
  550 100 l 1,27,-1
  450 100 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -5745,7 +5745,7 @@ SplineSet
  150 700 l 1,23,-1
  150 100 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -5795,7 +5795,7 @@ SplineSet
  150 700 l 1,31,-1
  250 700 l 1,28,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -5844,7 +5844,7 @@ SplineSet
  150 200 l 1,29,-1
  150 100 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -5890,7 +5890,7 @@ SplineSet
  150 0 l 1,27,-1
  150 100 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -5937,7 +5937,7 @@ SplineSet
  450 600 l 1,29,-1
  150 600 l 1,26,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: Eth
@@ -6031,7 +6031,7 @@ SplineSet
  450 300 l 1,35,-1
  450 200 l 1,32,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 91 -100 "keming" 114 -100 "keming" 115 -100 "keming" 124 -100 "keming" 127 -100 "keming" 190 -100 "keming" 196 -100 "keming" 205 -100 "keming" 206 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -6075,7 +6075,7 @@ SplineSet
  150 200 l 1,25,-1
  150 100 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -6119,7 +6119,7 @@ SplineSet
  150 200 l 1,25,-1
  150 100 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -6208,7 +6208,7 @@ SplineSet
  150 400 l 1,31,-1
  150 100 l 1,28,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -6287,7 +6287,7 @@ SplineSet
  50 100 l 1,51,-1
  150 100 l 1,48,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -6346,7 +6346,7 @@ SplineSet
  550 400 l 1,35,-1
  450 400 l 1,32,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming"
 EndChar
 
@@ -6377,7 +6377,7 @@ SplineSet
  150 700 l 1,15,-1
  150 600 l 1,0,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 41 -100 "keming" 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 141 -100 "keming" 145 -100 "keming" 153 -100 "keming" 154 -100 "keming"
 EndChar
 
@@ -6408,7 +6408,7 @@ SplineSet
  150 700 l 1,15,-1
  150 500 l 1,0,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -6449,7 +6449,7 @@ SplineSet
  250 700 l 1,23,-1
  350 700 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming"
 EndChar
 
@@ -6492,7 +6492,7 @@ SplineSet
  450 100 l 1,23,-1
  350 100 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming"
 EndChar
 
@@ -6536,7 +6536,7 @@ SplineSet
  50 400 l 1,23,-1
  150 400 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -6581,7 +6581,7 @@ SplineSet
  250 700 l 1,27,-1
  350 700 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -6616,7 +6616,7 @@ SplineSet
  50 700 l 1,17,-1
  150 700 l 1,14,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 54 -100 "keming" 57 -100 "keming" 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 113 -100 "keming" 128 -100 "keming" 148 -100 "keming" 162 -100 "keming" 217 -100 "keming"
 EndChar
 
@@ -6661,7 +6661,7 @@ SplineSet
  250 600 l 1,27,-1
  250 700 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -6715,7 +6715,7 @@ SplineSet
  150 700 l 1,35,-1
  250 700 l 1,32,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: aring
@@ -6768,7 +6768,7 @@ SplineSet
  50 400 l 1,35,-1
  150 400 l 1,32,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -6815,7 +6815,7 @@ SplineSet
  450 500 l 1,27,-1
  450 400 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -6850,7 +6850,7 @@ SplineSet
  150 600 l 1,17,-1
  150 700 l 1,14,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 54 -100 "keming" 57 -100 "keming" 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 113 -100 "keming" 128 -100 "keming" 148 -100 "keming" 162 -100 "keming" 217 -100 "keming"
 EndChar
 
@@ -6890,7 +6890,7 @@ SplineSet
  50 700 l 1,21,-1
  150 700 l 1,18,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -6934,7 +6934,7 @@ SplineSet
  50 400 l 1,23,-1
  150 400 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -6977,7 +6977,7 @@ SplineSet
  450 100 l 1,23,-1
  350 100 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming"
 EndChar
 
@@ -7030,7 +7030,7 @@ SplineSet
  50 400 l 1,31,-1
  150 400 l 1,28,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 74 -100 "keming"
 EndChar
 
@@ -7075,7 +7075,7 @@ SplineSet
  150 700 l 1,25,-1
  250 700 l 1,22,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: ocircumflex
@@ -7123,7 +7123,7 @@ SplineSet
  50 400 l 1,27,-1
  150 400 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -7171,7 +7171,7 @@ SplineSet
  450 100 l 1,27,-1
  350 100 l 1,20,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming"
 EndChar
 
@@ -7227,7 +7227,7 @@ SplineSet
  450 600 l 1,35,-1
  350 600 l 1,32,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -7310,7 +7310,7 @@ SplineSet
  550 500 l 1,35,-1
  550 600 l 1,32,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 11 -100 "keming" 13 -100 "keming" 28 -100 "keming" 64 -100 "keming" 91 -100 "keming" 114 -100 "keming" 115 -100 "keming" 116 -100 "keming" 124 -100 "keming" 127 -100 "keming" 190 -100 "keming" 196 -100 "keming" 205 -100 "keming" 206 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -7409,7 +7409,7 @@ SplineSet
  50 500 l 1,19,-1
  150 500 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 9 -100 "keming" 15 -100 "keming" 23 -100 "keming" 61 -100 "keming" 64 -100 "keming" 93 -100 "keming" 116 -100 "keming" 121 -100 "keming" 133 -100 "keming" 208 -100 "keming"
 EndChar
 
@@ -7467,7 +7467,7 @@ SplineSet
  50 400 l 1,11,-1
  150 400 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 9 -100 "keming" 23 -100 "keming" 61 -100 "keming" 93 -100 "keming" 133 -100 "keming" 208 -100 "keming"
 EndChar
 
@@ -7495,7 +7495,7 @@ SplineSet
  50 300 l 1,11,-1
  150 300 l 1,8,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 9 -100 "keming" 15 -100 "keming" 19 -100 "keming" 23 -100 "keming" 30 -100 "keming" 31 -100 "keming" 60 -100 "keming" 61 -100 "keming" 93 -100 "keming" 117 -100 "keming" 120 -100 "keming" 133 -100 "keming" 163 -100 "keming" 208 -100 "keming"
 EndChar
 
@@ -7532,7 +7532,7 @@ SplineSet
  450 600 l 1,19,-1
  250 600 l 1,16,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 42 -100 "keming" 74 -100 "keming" 189 -100 "keming"
 EndChar
 
@@ -7581,7 +7581,7 @@ SplineSet
  450 0 l 1,29,-1
  450 100 l 1,26,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 128 -100 "keming"
 EndChar
 
@@ -7629,7 +7629,7 @@ SplineSet
  750 600 l 1,27,-1
  450 600 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 70 -100 "keming" 81 -100 "keming" 86 -100 "keming" 162 -100 "keming"
 EndChar
 
@@ -7653,7 +7653,7 @@ SplineSet
  250 600 l 1,7,-1
  150 600 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 3 -100 "keming" 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 29 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 104 -100 "keming" 105 -100 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 118 -100 "keming" 122 -100 "keming" 129 -100 "keming" 133 -200 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming"
 EndChar
 
@@ -7686,7 +7686,7 @@ SplineSet
  250 400 l 1,15,-1
  250 600 l 1,8,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 3 -100 "keming" 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 29 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 104 -100 "keming" 105 -100 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 114 -100 "keming" 118 -100 "keming" 122 -100 "keming" 129 -100 "keming" 133 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 196 -100 "keming" 197 -100 "keming" 203 -100 "keming" 204 -100 "keming"
 EndChar
 
@@ -7710,7 +7710,7 @@ SplineSet
  50 500 l 1,7,-1
  150 500 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 114 -100 "keming" 133 -200 "keming" 190 -100 "keming" 196 -100 "keming"
 EndChar
 
@@ -7743,7 +7743,7 @@ SplineSet
  50 500 l 1,15,-1
  150 500 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 114 -100 "keming" 133 -100 "keming" 190 -100 "keming" 196 -100 "keming"
 EndChar
 
@@ -7776,7 +7776,7 @@ SplineSet
  50 0 l 1,15,-1
  150 0 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 11 -100 "keming" 23 -100 "keming" 28 -100 "keming" 31 -100 "keming" 60 -100 "keming" 91 -100 "keming" 123 -100 "keming" 125 -100 "keming" 127 -100 "keming" 190 -100 "keming" 192 -100 "keming"
 EndChar
 
@@ -7800,7 +7800,7 @@ SplineSet
  50 0 l 1,7,-1
  150 0 l 1,4,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 11 -100 "keming" 23 -100 "keming" 28 -100 "keming" 31 -100 "keming" 60 -200 "keming" 91 -100 "keming" 123 -100 "keming" 125 -100 "keming" 127 -100 "keming" 190 -100 "keming" 192 -100 "keming"
 EndChar
 
@@ -7834,7 +7834,7 @@ SplineSet
  450 600 l 1,15,-1
  350 600 l 1,12,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 3 -100 "keming" 6 -100 "keming" 11 -100 "keming" 15 -200 "keming" 28 -100 "keming" 32 -100 "keming" 62 -100 "keming" 91 -100 "keming" 105 -100 "keming" 106 -100 "keming" 111 -100 "keming" 112 -100 "keming" 118 -100 "keming" 122 -100 "keming" 190 -100 "keming" 191 -100 "keming" 192 -100 "keming" 193 -100 "keming" 194 -100 "keming" 203 -100 "keming" 204 -100 "keming"
 EndChar
 
@@ -7876,7 +7876,7 @@ SplineSet
  850 600 l 1,23,-1
  750 600 l 1,18,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 15 -100 "keming" 133 -100 "keming"
 EndChar
 
@@ -7920,7 +7920,7 @@ SplineSet
  150 300 l 1,27,-1
  150 100 l 1,18,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 EndChar
 
 StartChar: perthousand
@@ -7973,7 +7973,7 @@ SplineSet
  250 400 l 1,31,-1
  350 400 l 1,28,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 2 -100 "keming" 7 -100 "keming" 10 -100 "keming" 11 -100 "keming" 13 -100 "keming" 23 -100 "keming" 28 -100 "keming" 31 -100 "keming" 60 -100 "keming" 62 -100 "keming" 64 -100 "keming" 91 -100 "keming" 114 -100 "keming" 115 -100 "keming" 116 -100 "keming" 117 -100 "keming" 119 -100 "keming" 120 -100 "keming" 121 -100 "keming" 123 -100 "keming" 124 -100 "keming" 126 -100 "keming" 127 -100 "keming" 190 -100 "keming" 192 -100 "keming" 194 -100 "keming" 196 -100 "keming" 201 -100 "keming" 202 -100 "keming" 203 -100 "keming" 204 -100 "keming" 207 -100 "keming" 208 -100 "keming" 211 -100 "keming" 212 -100 "keming" 213 -100 "keming"
 EndChar
 
@@ -8078,7 +8078,7 @@ SplineSet
  50 100 l 1,31,-1
  450 100 l 1,28,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 74 -100 "keming" 113 -100 "keming"
 EndChar
 
@@ -8122,7 +8122,7 @@ SplineSet
  350 500 l 1,27,-1
  550 500 l 1,10,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 52 -100 "keming" 113 -100 "keming"
 EndChar
 
@@ -8171,7 +8171,7 @@ SplineSet
  50 100 l 1,31,-1
  450 100 l 1,28,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 70 -100 "keming" 74 -100 "keming" 198 -100 "keming"
 EndChar
 
@@ -8219,7 +8219,7 @@ SplineSet
  550 400 l 1,27,-1
  450 400 l 1,24,-1
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Kerns2: 42 -100 "keming" 74 -100 "keming" 189 -100 "keming"
 EndChar
 EndChars
